@@ -2,30 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/staging/two-column/</loc>
+    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/</loc>
 		
-    <lastmod>2022-03-08T23:45:50Z</lastmod>
+    <lastmod>2022-03-11T20:12:45Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/</loc>
+		
+    <lastmod>2022-03-11T19:41:53Z</lastmod>
 		
   </url>
   
   <url>
     <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/</loc>
 		
-    <lastmod>2022-03-09T01:50:06Z</lastmod>
+    <lastmod>2022-03-11T19:41:53Z</lastmod>
 		
   </url>
   
   <url>
-    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/</loc>
+    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/staging/two-column/</loc>
 		
-    <lastmod>2022-03-09T03:21:07Z</lastmod>
+    <lastmod>2022-03-11T19:41:53Z</lastmod>
 		
   </url>
   
   <url>
-    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/</loc>
+    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/proposal/</loc>
 		
-    <lastmod>2022-03-09T04:12:31Z</lastmod>
-    
+    <lastmod>2022-03-11T20:11:52Z</lastmod>
+		
+  </url>
+  
+  <url>
+    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/Practicepage/</loc>
+		
+    <lastmod>2022-03-11T20:12:45Z</lastmod>
+		
   </url>
 </urlset>
