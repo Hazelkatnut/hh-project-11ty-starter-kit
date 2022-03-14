@@ -95,7 +95,7 @@ body {
   flex-direction: column;
   min-height: 100vh;
   background-color: #f9f9f9;
-  color: #203221;
+  color: #65ab67;
   font-family: "Baloo 2", sans-serif;
 }
 
@@ -211,7 +211,7 @@ body.front-page #quickstart + ol li:first-child p {
 }
 
 .tdbc-sitenav {
-  background-color: #215423;
+  background-color: #9fe6a1;
 }
 .tdbc-sitenav__container, .tdbc-sitenav__navlist {
   display: flex;
@@ -287,7 +287,7 @@ h3,
 h4,
 .tdbc-h4 {
   font-size: 1.35rem;
-  color: #5c625d;
+  color: #718672;
 }
 
 p,
@@ -315,16 +315,16 @@ strong {
 }
 
 a:not(.tdbc-button) {
-  color: #215423;
+  color: #9fe6a1;
 }
 
 code:not([class*=language]) {
   display: inline-flex;
   padding: 0.15em;
   background-color: #fff;
-  color: #5c625d;
+  color: #718672;
   font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
-  border: 1px solid #acb2ad;
+  border: 1px solid #b8c3b8;
   border-radius: 2px;
   font-size: 0.75em;
   line-height: 1.1;
@@ -341,7 +341,7 @@ blockquote {
   margin-right: 0;
   padding-left: 1.5rem;
   border-left: 2px solid #b9f1ec;
-  color: #5c625d;
+  color: #718672;
 }
 blockquote,
 blockquote p {
@@ -377,7 +377,7 @@ blockquote :last-child {
   transition: 180ms ease-in-out;
   transition-property: background, border;
   border-radius: 4px;
-  background-color: #215423;
+  background-color: #9fe6a1;
   color: #fff;
   font-size: 1.125rem;
   line-height: 1.1;
@@ -393,7 +393,7 @@ blockquote :last-child {
 .tdbc-button:focus {
   outline-color: transparent;
   outline-style: solid;
-  box-shadow: 0 0 0 3px #173b19;
+  box-shadow: 0 0 0 3px #42ce46;
 }
 .tdbc-button--small {
   min-height: 34px;
@@ -419,12 +419,12 @@ blockquote :last-child {
   fill: currentColor;
 }
 .tdbc-button-outlined {
-  border: 2px solid #215423;
+  border: 2px solid #9fe6a1;
   background-color: transparent;
-  color: #215423;
+  color: #9fe6a1;
 }
 .tdbc-button-outlined:hover, .tdbc-button-outlined:focus {
-  background-color: #c7e9c8;
+  background-color: #ecfaec;
 }
 .tdbc-button--secondary {
   background-color: #b9f1ec;
@@ -460,20 +460,20 @@ blockquote :last-child {
   background-color: rgba(255, 255, 255, 0.15);
 }
 .tdbc-button--gray {
-  background-color: #5c625d;
+  background-color: #718672;
 }
 .tdbc-button--gray:focus {
-  box-shadow: 0 0 0 3px #404541;
+  box-shadow: 0 0 0 3px #4f5e50;
 }
 .tdbc-button-outlined--gray {
-  border-color: #7ba382;
-  color: #5c625d;
+  border-color: #8eb790;
+  color: #718672;
 }
 .tdbc-button-outlined--gray:focus {
-  box-shadow: 0 0 0 3px #404541;
+  box-shadow: 0 0 0 3px #4f5e50;
 }
 .tdbc-button-outlined--gray:hover, .tdbc-button-outlined--gray:focus {
-  background-color: #eef0ef;
+  background-color: #f1f3f1;
 }
 
 .tdbc-button__icon,
@@ -546,7 +546,7 @@ blockquote :last-child {
   outline: none;
 }
 .tdbc-card a.tdbc-card__title:focus::before {
-  box-shadow: 0 0 0 3px #215423;
+  box-shadow: 0 0 0 3px #9fe6a1;
 }
 .tdbc-card__content {
   display: flex;
@@ -572,7 +572,7 @@ blockquote :last-child {
   margin-top: 0.5rem;
 }
 .tdbc-card:hover a.tdbc-card__title::before {
-  box-shadow: 0 0 0 3px #215423;
+  box-shadow: 0 0 0 3px #9fe6a1;
 }
 .tdbc-card img:first-child {
   object-fit: cover;
@@ -580,7 +580,7 @@ blockquote :last-child {
   border-radius: 8px 8px 0 0;
 }
 .tdbc-card--outlined {
-  border: 1px solid #acb2ad;
+  border: 1px solid #b8c3b8;
   background-color: transparent;
   box-shadow: none;
 }
@@ -592,7 +592,7 @@ blockquote :last-child {
  */
 code[class*=language-],
 pre[class*=language-] {
-  color: #5c625d;
+  color: #718672;
   background: none;
   font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
   text-align: left;
@@ -634,7 +634,7 @@ pre[class*=language-] {
 }
 
 .token.punctuation {
-  color: #5c625d;
+  color: #718672;
 }
 
 .token.property,
@@ -778,7 +778,7 @@ pre[class*=language-] {
 }
 
 .tdbc-background--primary {
-  background-color: #215423;
+  background-color: #9fe6a1;
 }
 
 .tdbc-background--secondary {
@@ -790,7 +790,7 @@ pre[class*=language-] {
 }
 
 .tdbc-background--gray {
-  background-color: #5c625d;
+  background-color: #718672;
 }
 
 .tdbc-background--light {
@@ -799,7 +799,7 @@ pre[class*=language-] {
 
 .tdbc-ink--primary,
 a.tdbc-ink--primary {
-  color: #215423;
+  color: #9fe6a1;
 }
 
 .tdbc-ink--primary > a:not(.tdbc-button) {
@@ -817,7 +817,7 @@ a.tdbc-ink--secondary {
 
 .tdbc-ink--text,
 a.tdbc-ink--text {
-  color: #203221;
+  color: #65ab67;
 }
 
 .tdbc-ink--text > a:not(.tdbc-button) {
@@ -826,7 +826,7 @@ a.tdbc-ink--text {
 
 .tdbc-ink--gray,
 a.tdbc-ink--gray {
-  color: #5c625d;
+  color: #718672;
 }
 
 .tdbc-ink--gray > a:not(.tdbc-button) {

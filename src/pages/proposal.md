@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Proposal"
 description: "A brief introduction to this starter kit."
 ---
 

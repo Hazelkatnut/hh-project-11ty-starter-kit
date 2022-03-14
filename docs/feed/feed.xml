@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>Hacking History Starter wow</title>
-	<subtitle>Quickly launch an 11ty-generated static site. Should be simple enough for students to use, but includes a minimal Sass framework, and generated sitemap, RSS feed, and social share preview images.</subtitle>
+	<title>Why Classical Music (subject to change)</title>
+	<subtitle>A brief history of how the genre Classical Music came to be</subtitle>
 	
 	<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/feed/" rel="self"/>
 	<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/"/>
 	<updated>2022-03-11T20:12:45Z</updated>
 	<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/</id>
 	<author>
-		<name>Matt Price via @5t3ph</name>
+		<name>Hazel Ng</name>
 	</author>
 	
 	<entry>
@@ -256,20 +256,34 @@ Prettier extension and update your VSCode settings to &amp;quot;Format on Save&a
 	</entry>
 	
 	<entry>
-		<title></title>
+		<title>Proposal</title>
 		<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/proposal/"/>
 		<updated>2022-03-11T20:11:52Z</updated>
 		<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/proposal/</id>
-		<content type="html">&lt;p&gt;proposal.md&lt;/p&gt;
+		<content type="html">&lt;h2 id=&quot;topic&quot; tabindex=&quot;-1&quot;&gt;Topic&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/proposal/#topic&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Why Classical Music? The history of how Western European Arts Music came to be&lt;/p&gt;
+&lt;p&gt;Why do we call music from the 1600s-early 1950s &amp;quot;Classical Music&amp;quot;. In general terms, this seems to be the general name from music of that time period, associated with a certain &amp;quot;sound&amp;quot; and being seen as &amp;quot;high brow&amp;quot; (even if some of it wasn&#39;t always considered so in the past). People often associate&lt;/p&gt;
+&lt;h1 id=&quot;audience&quot; tabindex=&quot;-1&quot;&gt;Audience&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/proposal/#audience&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;My targeted audience is for people who have some knowledge of Classical Music. I am aiming to dive more into the historical perspectives of Classical Music, whether it is social class distinctions, historical facts about composers, historical livlihoods to explain social and political changes, and how that had affected the perception of Classical Music at the time, or at least, Art Music since they did not give the label &amp;quot;Classical&amp;quot; until much later.&lt;/p&gt;
+&lt;p&gt;I am hoping that the above target audience, even those who do not study Music intensely, will be able to find something interesting to learn about. Either weird composer stories, the political regimes of the Soviet Empire and its effect on the Arts, the artistic movement of Romanticism and societal perception of the self, they can see how these societal effects had been reflected in music.&lt;/p&gt;
+&lt;h3 id=&quot;structure&quot; tabindex=&quot;-1&quot;&gt;Structure&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/proposal/#structure&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;My background as a pianist with a conservatory&#39;s Performance Diploma and slight musicology knowledge from my university&#39;s Minor Program does not cover a lot scholarship, so I am unable to provide all the complicated musical theory or analyses that would be common in a musicology paper. Rather, I would hope to use a lot of text and images to describe what is going on historically.&lt;/p&gt;
+&lt;p&gt;I want to make soemthing like a timeline. So we will have 1) Baroque 2) Classical 3) Romantic 4) 20th century 5) Present day/Contemporary.&lt;/p&gt;
+&lt;p&gt;In each era I will put notable composers and pieces so people have an understanding of the type of &amp;quot;sound&amp;quot; they are hearing, plus a description of what that sound is in words.&lt;/p&gt;
+&lt;p&gt;Then a section on society at the time in relation to Arts Music; were composers writing mainly for aristocrats? How did the Middle Class affect Arts Music after the Indsutrial Revolution? How did Artists react to such changes in society (war, nationalism, making a career on their own without being employed under patronage).&lt;/p&gt;
+&lt;p&gt;Lastly, a paragraph on how this time period&#39;s music has become a part of &amp;quot;Classical Music&amp;quot;. What makes it &amp;quot;classic&amp;quot;. As in the respect to the the stabilization of equal temperament on tuning, several classical forms on fugues, sonatas, concertoes, symphonies, the Western tonal harmony, and eventually tarnishing all of that to create a newer version of everything. What has made them &amp;quot;timeless&amp;quot;, that we would continue playing them in concert halls or on YouTube at home, that we would study them in music lessons and musciology lectures.&lt;/p&gt;
+&lt;p&gt;So far, that&#39;s all I could think of, but I will link certain websites if needed for more elaboration.&lt;/p&gt;
+&lt;p&gt;In the Present Day/Contemporary, I wouldn&#39;t necessarily be talking about Contemporary classical music, but rather the practice of performing Classical Music -&amp;gt; this may become a bit less historical and more sociological. Is Classical Music &amp;quot;dying&amp;quot; as we only play the same things over and over again (as in, the same pieces that are popular even in the canon), how can we employ social media to make it more accesible, why do we have so many competitions.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
-		<title></title>
-		<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/Practicepage/"/>
+		<title>Introduction</title>
+		<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/Introduction/"/>
 		<updated>2022-03-11T20:12:45Z</updated>
-		<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/Practicepage/</id>
-		<content type="html">&lt;p&gt;Practicepage.md&lt;/p&gt;
+		<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/Introduction/</id>
+		<content type="html">&lt;h1 id=&quot;welcome&quot; tabindex=&quot;-1&quot;&gt;Welcome&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Introduction/#welcome&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Hello! This is a historical exploration to the development of what we call Classical Music today. We associate it with a certain sound, such as Bach&#39;s Cello Suite #1 in G major (that famous melody that Yo Yo Ma likes to play), Mozart&#39;s Eine Kleine Nachtmusik, Beethoven&#39;s Fur Elise, and the list goes on. Classical Music has stereotypes that continue into today&#39;s day and age: maybe it seems elitist, it always sticks to tradition and makes it difficult for wider public accessibility. These are some things we can explore here. Of course, these stereotypes are not completely wrong: Classical music was originally written for aristocratic patrons, therefore seeming very high brow. But it was eventually written for the wider general public after the Industrial Revolution. There is this tendancy to stick to tradition, by certain scholars, performers, critics, and listerns, but that doesn&#39;t mean all of them sticked to tradition. People did try to stray away from tradition to create modern and contemporary versions of what they learnt as tradition, even completely disregard tradition during Modernism (late 19th to mid 20th century). So, how did Classical Music earn its title of being &amp;quot;Classical&amp;quot;? Western European Arts Music has quite a long history, so let&#39;s dive in.&lt;/p&gt;
 </content>
 	</entry>
 </feed>
