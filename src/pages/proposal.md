@@ -1,6 +1,6 @@
 ---
 title: "Proposal"
-description: "A brief introduction to this starter kit."
+description: "A vague and brief outline on what I plan to do with this website."
 ---
 
 
