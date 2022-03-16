@@ -4,18 +4,18 @@ description: "A brief introduction to this starter kit."
 ---
 
 
-## Topic 
+# Topic 
 Why Classical Music? The history of how Western European Arts Music came to be 
 
-Why do we call music from the 1600s-early 1950s "Classical Music". In general terms, this seems to be the general name from music of that time period, associated with a certain "sound" and being seen as "high brow" (even if some of it wasn't always considered so in the past). People often associate
+Why do we call music from the 1600s-early 1950s "Classical Music". In general terms, this seems to be the general name from music of that time period, associated with a certain "sound" and being seen as "high brow" (even if some of it wasn't always considered so in the past). I will be looking at musical elements such as musical forms, rhythms, tonal structures, and the history behind the development of so-called "Art Music" with its socio-economic linkages to the aristocracy and bougeois all the way to the middle class. All in an attempt to explain how this genre has came to be how we know it today. 
 
-# Audience
-My targeted audience is for people who have some knowledge of Classical Music. I am aiming to dive more into the historical perspectives of Classical Music, whether it is social class distinctions, historical facts about composers, historical livlihoods to explain social and political changes, and how that had affected the perception of Classical Music at the time, or at least, Art Music since they did not give the label "Classical" until much later.
+## Audience
+My targeted audience is for people who have some knowledge of Classical Music. I am aiming to dive more into the historical perspectives of Classical Music, whether it is social class distinctions, historical facts about composers, historical livlihoods to explain social and political changes, and how that had affected the perception of Classical Music at the time.
 
-I am hoping that the above target audience, even those who do not study Music intensely, will be able to find something interesting to learn about. Either weird composer stories, the political regimes of the Soviet Empire and its effect on the Arts, the artistic movement of Romanticism and societal perception of the self, they can see how these societal effects had been reflected in music.
+I am hoping that the above target audience, even those who do not study Music intensely, will be able to find something interesting to learn about. Either weird composer stories, the political movements (nationalism, opporesive regimes, censorship) or support (patronage, comissions)and its effect on the Arts, the artistic movement of Romanticism and societal perception of the self, they can see how these societal effects had been reflected in music.
 
 ### Structure
-My background as a pianist with a conservatory's Performance Diploma and slight musicology knowledge from my university's Minor Program does not cover a lot scholarship, so I am unable to provide all the complicated musical theory or analyses that would be common in a musicology paper. Rather, I would hope to use a lot of text and images to describe what is going on historically.
+I would use a lot of text and images to describe what is going on historically and link them to the musical/artistic practices and movements that were in fashion at the time. It is common that art reflects what is happening in people's lives. Evidentely, music is a cultural product, and we can use music to analyze history too. In the context of this website, I also hope to answer how Art Music has made its way into a path of "canon"; their reputation allows it to continue to thrive in the context of the Classical Music genre. 
 
 I want to make soemthing like a timeline. So we will have 1) Baroque 2) Classical 3) Romantic 4) 20th century 5) Present day/Contemporary. 
 
@@ -27,4 +27,4 @@ Lastly, a paragraph on how this time period's music has become a part of "Classi
 
 So far, that's all I could think of, but I will link certain websites if needed for more elaboration. 
 
-In the Present Day/Contemporary, I wouldn't necessarily be talking about Contemporary classical music, but rather the practice of performing Classical Music -> this may become a bit less historical and more sociological. Is Classical Music "dying" as we only play the same things over and over again (as in, the same pieces that are popular even in the canon), how can we employ social media to make it more accesible, why do we have so many competitions. 
+In the Present Day/Contemporary, I wouldn't necessarily be talking about Contemporary classical music, but rather the practice of performing Classical Music -> this may become a bit less historical and more sociological. Is Classical Music "dying" as we only play the same things over and over again (as in, the same pieces that are popular even in the canon)? How can we employ social media to make it more accesible (a common theme throughout culture, what is considered lowbrow or highbrow, how and why do we make things accessible to a wider audience?
