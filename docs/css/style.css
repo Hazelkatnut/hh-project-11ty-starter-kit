@@ -181,7 +181,7 @@ ul.tdbc-column-container {
 hr {
   margin-top: 4rem;
   margin-bottom: 4rem;
-  border: 1px solid #b9f1ec;
+  border: 1px solid #729e74;
 }
 
 body.front-page .logo {
@@ -340,7 +340,7 @@ blockquote {
   margin-left: 0;
   margin-right: 0;
   padding-left: 1.5rem;
-  border-left: 2px solid #b9f1ec;
+  border-left: 2px solid #729e74;
   color: #6c726d;
 }
 blockquote,
@@ -427,20 +427,20 @@ blockquote :last-child {
   background-color: #e3ece3;
 }
 .tdbc-button--secondary {
-  background-color: #b9f1ec;
+  background-color: #729e74;
 }
 .tdbc-button--secondary:focus {
-  box-shadow: 0 0 0 3px #4fdccf;
+  box-shadow: 0 0 0 3px #4e714f;
 }
 .tdbc-button-outlined--secondary {
-  border-color: #cdf7f3;
-  color: #b9f1ec;
+  border-color: #92c594;
+  color: #729e74;
 }
 .tdbc-button-outlined--secondary:focus {
-  box-shadow: 0 0 0 3px #4fdccf;
+  box-shadow: 0 0 0 3px #4e714f;
 }
 .tdbc-button-outlined--secondary:hover, .tdbc-button-outlined--secondary:focus {
-  background-color: #f8fefd;
+  background-color: #f1f5f1;
 }
 .tdbc-button--light {
   background-color: #fff;
@@ -782,7 +782,7 @@ pre[class*=language-] {
 }
 
 .tdbc-background--secondary {
-  background-color: #b9f1ec;
+  background-color: #729e74;
 }
 
 .tdbc-background--background {
@@ -808,7 +808,7 @@ a.tdbc-ink--primary {
 
 .tdbc-ink--secondary,
 a.tdbc-ink--secondary {
-  color: #b9f1ec;
+  color: #729e74;
 }
 
 .tdbc-ink--secondary > a:not(.tdbc-button) {
