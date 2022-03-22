@@ -5,7 +5,7 @@
 	
 	<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/feed/" rel="self"/>
 	<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/"/>
-	<updated>2022-03-11T20:12:45Z</updated>
+	<updated>2022-03-22T14:42:31Z</updated>
 	<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/</id>
 	<author>
 		<name>Hazel Ng</name>
@@ -287,6 +287,51 @@ Prettier extension and update your VSCode settings to &amp;quot;Format on Save&a
 &lt;p&gt;This is a historical exploration to the development of what we call Classical Music today. We associate it with a certain sound, which I believe some of us will already have a few pieces playing in their head: Bach&#39;s Cello Suite #1 in G major (that famous melody that Yo Yo Ma likes to play), Mozart&#39;s &lt;em&gt;Eine Kleine Nachtmusik&lt;/em&gt;, Beethoven&#39;s &lt;em&gt;Für Elise&lt;/em&gt;, to name a few.&lt;/p&gt;
 &lt;p&gt;Classical Music has stereotypes that continue into today&#39;s day and age: maybe it seems elitist, it always sticks to tradition and makes it difficult for wider public accessibility. These are some things we can explore here. Of course, these stereotypes are not completely wrong: Classical music was originally written for aristocratic patrons, therefore seeming very high brow. But it was eventually written for the wider general public after the Industrial Revolution. There is this tendancy to stick to tradition, by certain scholars, performers, critics, and listerns. Some people did try to stray away from tradition to create modern and contemporary versions of what they learnt as tradition, even completely disregard tradition during Modernism (late 19th to mid 20th century).&lt;/p&gt;
 &lt;p&gt;So, how did Classical Music earn its title of being &amp;quot;Classical&amp;quot;? Well, there&#39;s a long history in Western European Arts Music, where certain musical traits and practices were held to high regard (such as the fugue, sonata forms, the creation of the orchestra), some composers and their contributions were held to high regard, and such reputation remained with these pieces through performances, scholarship, criticism, and education, all the way into the present day. There is a lot to unpack, so let&#39;s dive in.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Baroque Era (~1600-1750)</title>
+		<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/Baroque%20Era/"/>
+		<updated>2022-03-22T13:51:32Z</updated>
+		<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/Baroque%20Era/</id>
+		<content type="html">&lt;h2 id=&quot;overview&quot; tabindex=&quot;-1&quot;&gt;Overview&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Baroque%20Era/#overview&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Classical Era (~1750-1820)</title>
+		<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/Classical%20Era/"/>
+		<updated>2022-03-22T13:52:27Z</updated>
+		<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/Classical%20Era/</id>
+		<content type="html">&lt;h2 id=&quot;overview&quot; tabindex=&quot;-1&quot;&gt;Overview&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Classical%20Era/#overview&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Romanticism (~1820-1880)</title>
+		<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/Romantic%20Era/"/>
+		<updated>2022-03-22T13:53:21Z</updated>
+		<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/Romantic%20Era/</id>
+		<content type="html">&lt;h2 id=&quot;overview&quot; tabindex=&quot;-1&quot;&gt;Overview&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Romantic%20Era/#overview&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>20th Century and Modernism (~1880-early 1900s)</title>
+		<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/20th%20Century/"/>
+		<updated>2022-03-22T13:54:08Z</updated>
+		<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/20th%20Century/</id>
+		<content type="html">&lt;h2 id=&quot;overview&quot; tabindex=&quot;-1&quot;&gt;Overview&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/20th%20Century/#overview&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Present Day</title>
+		<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/Now%20idk/"/>
+		<updated>2022-03-22T14:42:31Z</updated>
+		<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/Now%20idk/</id>
+		<content type="html">&lt;h2 id=&quot;overview&quot; tabindex=&quot;-1&quot;&gt;Overview&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Now%20idk/#overview&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
 </content>
 	</entry>
 </feed>
