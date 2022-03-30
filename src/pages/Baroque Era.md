@@ -55,7 +55,12 @@ Here are some musical characteristics that defined the Baroque musical sound:
 
 **Let's start off with some popular Baroque pieces people think about that are referred to as "Classical Music":**
 
-- Vivaldi: Four Seasons
+- Vivaldi: Four Seasons 
+
+[https://youtu.be/3LiztfE1X7E](/about).
+
+[https://www.wired.com/2012/06/google-x-neural-network/](/about).
+
 - Bach: Cello Suite 1 Prelude
 - Handel: Messiah, Hallujah
 - Pachelbel: Canon in D
