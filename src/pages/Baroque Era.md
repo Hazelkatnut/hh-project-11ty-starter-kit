@@ -26,44 +26,49 @@ There was growing awareness to use music to evoke emotions, or affects. Followin
 
 In Baroque music, many pieces have distinctive movements, sections, or dances in a collection, or suite. Each distinct section presents a well-defined emotional charactersitic. Though this structure of distinct sections was carried over by the past centuries, they were mostly sections of church music to accompany a service; they were not meant to evoke a certain emotion.   
 
-Here are some musical characteristics that defined the Baroque musical sound:
+_Here are some musical characteristics that defined the Baroque musical sound:_
 
--Melody
-    -More diverse melodic lines to incorporate:
-        -Dramatic virtuoso singing
-        -Idiomatic writing; basically melodies specifically written to show off the technical strentghs of each instrument
--Harmony
-    -using the tonal system (the very familiar major and minor keys) rather than the modal system used in church music for the past centuries
-        -this tonal system will be the basis of Western European Arts Music hamony
-    -here's an example of both 
--Rhythm
-    -More rhythmic unity with strict patterns rather than the smooth, indistinct rhythmic pattern in past music
--Dynamics
-    -Terraced dynamics: shifitng the volume suddnely from one level to another
-        -this can be done by adding voices (actual human voice or instruments) to provide volume change or textural change
+- Melody
+    - More diverse melodic lines to incorporate:
+        - Dramatic virtuoso singing
+        - Idiomatic writing; basically melodies specifically written to show off the technical strentghs of each instrument
+- Harmony
+    - using the tonal system (the very familiar major and minor keys) rather than the modal system used in church music for the past centuries
+        - this tonal system will be the basis of Western European Arts Music hamony
+    - here's an example of both 
+- Rhythm
+    - More rhythmic unity with strict patterns rather than the smooth, indistinct rhythmic pattern in past music
+- Dynamics
+    - Terraced dynamics: shifitng the volume suddnely from one level to another
+        - this can be done by adding voices (actual human voice or instruments) to provide volume change or textural change
         -gradual dynamic change was not possible at this time due to the technological limitations on instruments 
--Texture
-    -the formation of the orchestra, a rather a stablized group of instruments that will eventually form what we know as the orchestra today, where they will contribute to the contrasting musical textures.
--Basso Continuo
-    -an instrument or small ensemble that provide the harmonic founcation for the melody. This is usually the harpsichord in the background.
--Dance
-    -It is important to note that dance styles were used for inspiration to compose pieces, not meant to be danced to necessarily.
+- Texture
+    - the formation of the orchestra, a rather a stablized group of instruments that will eventually form what we know as the orchestra today, where they will contribute to the contrasting musical textures.
+- Basso Continuo
+    - an instrument or small ensemble that provide the harmonic founcation for the melody. This is usually the harpsichord in the background.
+- Dance
+    - It is important to note that dance styles were used for inspiration to compose pieces, not meant to be danced to necessarily.
  
 ---
 
 ## What of the Baroque Era contributes to the Classical Music sound? 
 
 **Let's start off with some popular Baroque pieces people think about that are referred to as "Classical Music":**
+will add more text later, just making notes for myself now
 
-- Vivaldi: Four Seasons 
+Vivaldi: Spring 
 
-[https://youtu.be/3LiztfE1X7E](/about).
+https://youtu.be/3LiztfE1X7E
 
-[https://www.wired.com/2012/06/google-x-neural-network/](/about).
+Bach: Cello Suite 1 Prelude??
 
-- Bach: Cello Suite 1 Prelude
+https://youtu.be/1prweT95Mo0
+
 - Handel: Messiah, Hallujah
-- Pachelbel: Canon in D
+
+- Bach Toccata and Fugue
+
+
 
 
 
