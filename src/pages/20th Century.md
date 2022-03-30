@@ -13,7 +13,13 @@ description: "A brief introduction to this starter."
 will add more text later, just making notes for myself now
 
 - Debussy Claire de Lune 
+
+https://youtu.be/8O-1wkQ-6T0
+
 - Gershwin Rhapsody in Blue
+
+https://youtu.be/cH2PH0auTUU
+
 - Satie Gymnopedie
 ???
 -

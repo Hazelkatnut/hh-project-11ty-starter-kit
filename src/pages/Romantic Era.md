@@ -13,7 +13,19 @@ description: "A brief introduction to this starter."
 will add more text later, just making notes for myself now
 
 -Tchaik Nutcraker
--Chopin?
+-Chopin Nocturne No 9
+
+https://youtu.be/tV5U8kVYS88
+
 -Johann Strauss Blue Danube
+
+https://youtu.be/IDaJ7rFg66A
+
 -Richard Strauss Also Spratch thingy
+
+https://youtu.be/Szdziw4tI9o
+
 -Grieg peer gynt
+
+- Liszt La Campenella
+https://youtu.be/cIxGUAnj46U

@@ -12,8 +12,21 @@ description: "A brief introduction to this starter."
 **Let's start off with some popular Baroque pieces people think about that are referred to as "Classical Music":**
 will add more text later, just making notes for myself now
 
-- earlier stuff?
-- Haydn earlier?  Symphony
+- CPE Bach?
+- 
+
+- Haydn Farewell Symphony
+
+https://youtu.be/OpD9ofCm6Ak
+
 - Mozart queen of the night aria?
+
+https://youtu.be/YuBeBjqKSGQ
+
+- Mozart Eine Kleine
+
+https://youtu.be/f3u5-MkFY5E
+
 - Beethoven fur elise
--
+
+https://youtu.be/wfF0zHeU3Zs
