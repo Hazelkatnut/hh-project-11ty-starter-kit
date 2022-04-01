@@ -51,10 +51,16 @@ _Here are some musical characteristics that defined the Baroque musical sound:_
  
 ---
 
-## What of the Baroque Era contributes to the Classical Music sound? 
+### What of the Baroque Era contributes to the Classical Music sound? 
 
 **Let's start off with some popular Baroque pieces people think about that are referred to as "Classical Music":**
 will add more text later, just making notes for myself now
+
+{% youtubebox "https://www.youtube.com/watch?v=T4XuU2loLi4" %}
+### RATM
+
+thisi s a video
+{% endyoutubebox %}
 
 Vivaldi: Spring 
 
@@ -64,14 +70,15 @@ Bach: Cello Suite 1 Prelude??
 
 https://youtu.be/1prweT95Mo0
 
-- Handel: Messiah, Hallujah
+Handel: Messiah, Hallujah
 
 https://youtu.be/IUZEtVbJT5c
 
-- Bach Toccata and Fugue
+Bach Toccata and Fugue
 
 https://youtu.be/Nnuq9PXbywA
--
+
+
 
 
 

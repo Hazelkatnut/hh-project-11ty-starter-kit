@@ -1,8 +1,9 @@
 ---
 title: "Classical Era (~1750-1820)"
-description: "A brief introduction to this starter."
+description: "The Actual Classical."
 ---
 ## Overview
+
 
 
 ---

@@ -3,6 +3,10 @@ const socialImages = require("@11tyrocks/eleventy-plugin-social-images");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 
+// use youtube-embed's built-in embed function
+// function w/ 3 parameters: youtube link, options, index (not sure how to deal w/ that)
+const youtubeBuilder= require('eleventy-plugin-youtube-embed/lib/buildEmbed')
+
 // Helper packages
 const slugify = require("slugify");
 const markdownIt = require("markdown-it");
@@ -35,6 +39,18 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
   eleventyConfig.addShortcode("packageVersion", () => `v${packageVersion}`);
 
+  eleventyConfig.addPairedShortcode("youtubebox", function(content, url){
+    let youtubeItem = youtubeBuilder(url, {}, 0)
+    return `<section class="youtube-box">
+<section class="youtube-description">
+
+${content}
+
+</section>
+${youtubeItem}
+</section>
+`
+  })  
   eleventyConfig.addFilter("slug", (str) => {
     if (!str) {
       return;
