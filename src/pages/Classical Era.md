@@ -2,8 +2,11 @@
 title: "Classical Era (~1750-1820)"
 description: "The Actual Classical."
 ---
-## Overview
+## The Classical of "Classical Music"
+In the Arts, it is common to call a "Golden Age" in any medium the "Classical" or "Classic" period. In a way, this period can be a "golden age" due to many solidified developments 
 
+
+## What is the Classical Era
 
 
 ---

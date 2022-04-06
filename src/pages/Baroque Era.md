@@ -57,23 +57,23 @@ _Here are some musical characteristics that defined the Baroque musical sound:_
 will add more text later, just making notes for myself now
 
 {% youtubebox "https://youtu.be/3LiztfE1X7E" %} 
-#### Vialdi: Spring
 
+Vivaldi: Spring
 
 {% endyoutubebox %} 
 
 {% youtubebox "https://youtu.be/1prweT95Mo0" %} 
-#### Bach: Cello Suite 1 Prelude??
+Bach: Cello Suite 1 Prelude??
 
 {% endyoutubebox %} 
 
 {% youtubebox "https://youtu.be/IUZEtVbJT5c" %} 
-#### Handel: Messiah, Hallujah
+Handel: Messiah, Hallelujah
 
 {% endyoutubebox %} 
 
 {% youtubebox "https://youtu.be/Nnuq9PXbywA" %} 
-#### Bach Toccata and Fugue
+Bach Toccata and Fugue
 
 {% endyoutubebox% }
 
