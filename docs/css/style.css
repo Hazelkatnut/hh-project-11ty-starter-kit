@@ -904,3 +904,8 @@ a.tdbc-ink--dark {
 .tdbc-mb-none {
   margin-bottom: 0;
 }
+
+section.youtube-box {
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+}

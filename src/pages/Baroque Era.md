@@ -56,27 +56,26 @@ _Here are some musical characteristics that defined the Baroque musical sound:_
 **Let's start off with some popular Baroque pieces people think about that are referred to as "Classical Music":**
 will add more text later, just making notes for myself now
 
-{% youtubebox "https://www.youtube.com/watch?v=T4XuU2loLi4" %}
-### RATM
+{% youtubebox "https://youtu.be/3LiztfE1X7E" %} 
+#### Vialdi: Spring
 
-thisi s a video
-{% endyoutubebox %}
 
-Vivaldi: Spring 
+{% endyoutubebox %} 
 
-https://youtu.be/3LiztfE1X7E
+{% youtubebox "https://youtu.be/1prweT95Mo0" %} 
+#### Bach: Cello Suite 1 Prelude??
 
-Bach: Cello Suite 1 Prelude??
+{% endyoutubebox %} 
 
-https://youtu.be/1prweT95Mo0
+{% youtubebox "https://youtu.be/IUZEtVbJT5c" %} 
+#### Handel: Messiah, Hallujah
 
-Handel: Messiah, Hallujah
+{% endyoutubebox %} 
 
-https://youtu.be/IUZEtVbJT5c
+{% youtubebox "https://youtu.be/Nnuq9PXbywA" %} 
+#### Bach Toccata and Fugue
 
-Bach Toccata and Fugue
-
-https://youtu.be/Nnuq9PXbywA
+{% endyoutubebox% }
 
 
 
