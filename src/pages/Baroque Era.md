@@ -16,26 +16,32 @@ vivid expressions and realism in sculpture and visual arts (look at that realist
 and the use of dark and richer colours to provide stark contrast of light and dark to provide emotional intensity in paintings.
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_Calling_of_Saint_Matthew-Caravaggo_%281599-1600%29.jpg/450px-The_Calling_of_Saint_Matthew-Caravaggo_%281599-1600%29.jpg)
 
-> **Basically, the Baroque was all about using art to express an intense emotion (affects) and showing off the grand and elaborate details in the artwork.**
+> **Basically, the Baroque was all about using art to express an intense emotion (affects; pronounced ah-fects) and showing off the grand and elaborate details in the artwork.**
 
 _So, how do we translate those visual examples above into music?_ 
 
 When listening to Baroque pieces, one might pick up lots of quick notes in succesion or a few quick notes before a certain note (trills, grace notes). This is called ornamentation, which can add flare to a musical piece for the virtuoso singers and instramentalists to show off their skills or used when repeating the same sections to make each repetition seem different.
 
-There was growing awareness to use music to evoke emotions, or affects. Following the medical theory on humors at the time, where eating and refraining from certain foods can equilibrize the imablance of bodily humors, there was growing beleif that musical emotions were another method to counter with the imbalance of humours, or spirit vapours. Lorenzo Giacomini wrote in his _Oratoni e discorsi_ that affects are not the same as emotions, and external factors like musical affects stimulate the body to alter the state of the humors. There was even a 17th century theory called the Doctrine of Affections, stating that different musical moods could and should be used to influences the affects of the listener.
+This video gives a good overview of common ornamentations to embilish the music
 
-In Baroque music, many pieces have distinctive movements, sections, or dances in a collection, or suite. Each distinct section presents a well-defined emotional charactersitic. Though this structure of distinct sections was carried over by the past centuries, they were mostly sections of church music to accompany a service; they were not meant to evoke a certain emotion.   
+{% youtubebox "https://youtu.be/1EVvB_pri6Y" %} 
+This video gives a good overview of common ornamentations to embilish the music
+{% endyoutubebox %} 
+
+There was growing awareness to use music to evoke emotions, or affects. Following the medical theory on humors at the time, where eating and refraining from certain foods can equilibrize the imablance of bodily humors, there was growing beleif that musical emotions were another method to counter with the imbalance of humours, or spirit vapours. Lorenzo Giacomini wrote in his _Oratoni e discorsi_ that external factors like musical affects stimulate the body to alter the state of the humors. There was even a 17th century theory called the Doctrine of Affections, stating that different musical moods could and should be used to influences the affects of the listener.
+
+In Baroque music, many pieces have distinctive movements, sections, or dances in a collection (called a suite). Each distinct section presents a well-defined emotional charactersitic. Though this structure of distinct sections was carried over by the past centuries, these pre-Baroque musical sections were church music used to accompany different parts of the service; not to evoke a certain emotion.   
 
 _Here are some musical characteristics that defined the Baroque musical sound:_
 
 - Melody
     - More diverse melodic lines to incorporate:
-        - Dramatic virtuoso singing
+        - Dramatic virtuoso singing (melismas, Da Capo Aria)
         - Idiomatic writing; basically melodies specifically written to show off the technical strentghs of each instrument
 - Harmony
-    - using the tonal system (the very familiar major and minor keys) rather than the modal system used in church music for the past centuries
+    - using the tonal system (the major and minor keys we know of today) rather than the modal system used in church music for the past centuries
         - this tonal system will be the basis of Western European Arts Music hamony
-    - here's an example of both 
+    -
 - Rhythm
     - More rhythmic unity with strict patterns rather than the smooth, indistinct rhythmic pattern in past music
 - Dynamics
@@ -56,25 +62,38 @@ _Here are some musical characteristics that defined the Baroque musical sound:_
 **Let's start off with some popular Baroque pieces people think about that are referred to as "Classical Music":**
 
 {% youtubebox "https://www.youtube.com/watch?v=3LiztfE1X7E" %} 
-Vivaldi: Spring
+A. Vivaldi: Concerto No. 1 in E major, Op. 8, RV 269, "Spring" (La primavera) from _The Four Seasons (Le quattro stagioni)_
 
-harpischord basso continuo in background
+- basso continuo on harpsichord
+- swelling on the strings; no vibrato (rapid pitch changing while sustaining on that note)
+- Violin's idiomatic writing - showing off the skills of the violin 
+- Word painting - this was a new technique to show affects - a story/image setting that accompanies the music so the audience can follow the poem with what the music was expression: bird chirps (0:30), the river (1:15), the storm (1:49), people dancing in the field (6:27) 
+- This ensemble used Baroque tuning (~415hz), which sounds flater than the pitches we are used to. Today, we would tune our instruments to A=440-42hz
+
 {% endyoutubebox %} 
 
-{% youtubebox "https://youtu.be/1prweT95Mo0" %} 
-Bach: Cello Suite 1 Prelude??
+{% youtubebox "https://youtu.be/RZHC7JBNhRk" %} 
+D. Scarlatti: Keyboard Sonata in E major, K.380
+
+- Idiomatic writing on the harpsichord - showing off the harpsichordist's skills
+- Lots of ornamentation, room for the soloist to show off their improvisation skills on repetitive portions
+- terraced dynamics - due to instrument technicalities, the way to create "loud" and "soft" dynamics was to change the pitch (the same notes but more to the left for softer or right louder) and adding octaves to create more "voices" 
+
 {% endyoutubebox %} 
 
-{% youtubebox "https://youtu.be/IUZEtVbJT5c" %} 
-Handel: Messiah, Hallelujah
+{% youtubebox "https://youtu.be/5WVKyxFOCkY" %} 
+G.F. Handel: Rejoice Greatly from _Messiah_ (HWV 56)
+- Melisma - style of virtuosic singing by holding a syllable over a series of notes (in this example, Handel purposely put the melismas on the word "rejoice" to emphasize this word in 0:20-22 and 0:35-41)
+- Da Capo Aria (A-B-A form) - a musical form to show off with improvisation and ormanentation by the soloist in the repeats of the A sections (from 3:04 the repeat of this section has added ornamentation to sound different than the first by adding more notes)
+
 {% endyoutubebox %} 
 
 {% youtubebox "https://youtu.be/Nnuq9PXbywA" %} 
-Bach Toccata and Fugue
+J.S. Bach: Toccata and Fugue in D minor, BWV 565 
+- Counterpoint and the Fugue
+- The organ was a common instrument used in the Baroque era, especially for churches. Although, this is a secular organ piece
+- Idiomatic writing - showing off the organist's skills
 
-organ 
-
-use of counterpoint -> the fugue
 {% endyoutubebox %}
 
 
