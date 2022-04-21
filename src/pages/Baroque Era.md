@@ -41,25 +41,30 @@ _Here are some musical characteristics that defined the Baroque musical sound:_
 - Harmony
     - using the tonal system (the major and minor keys we know of today) rather than the modal system used in church music for the past centuries
         - this tonal system will be the basis of Western European Arts Music hamony
-    -
+    - chromatic harmony was used for expressive effect
 - Rhythm
-    - More rhythmic unity with strict patterns rather than the smooth, indistinct rhythmic pattern in past music
+    - Predominantly a single rhythm to provide a steady pulse, but can be freer in vocal music (due to its influence from free-flowing church vocal music)
 - Dynamics
     - Terraced dynamics: shifitng the volume suddnely from one level to another
         - this can be done by adding voices (actual human voice or instruments) to provide volume change or textural change
         -gradual dynamic change was not possible at this time due to the technological limitations on instruments 
 - Texture
+    - Preference of polyphony (many voices doing its own thing) over homophony (a main voice and an accompnying voice) 
+- Instrumentation
     - the formation of the orchestra, a rather a stablized group of instruments that will eventually form what we know as the orchestra today, where they will contribute to the contrasting musical textures.
+
+    {% youtubebox "https://youtu.be/teh22szdnRQ" %} 
+    Here's an example. You can skip the "monophony" section (0:15-1:30) since it is not very relevant to this discussion
+    {% endyoutubebox %} 
+
 - Basso Continuo
     - an instrument or small ensemble that provide the harmonic founcation for the melody. This is usually the harpsichord in the background.
-- Dance
-    - It is important to note that dance styles were used for inspiration to compose pieces, not meant to be danced to necessarily.
  
 ---
 
-### What of the Baroque Era contributes to the Classical Music sound? 
+### Let's apply the above traits into music 
 
-**Let's start off with some popular Baroque pieces people think about that are referred to as "Classical Music":**
+**Below are some popular Baroque pieces to provide our examples:**
 
 {% youtubebox "https://www.youtube.com/watch?v=3LiztfE1X7E" %} 
 A. Vivaldi: Concerto No. 1 in E major, Op. 8, RV 269, "Spring" (La primavera) from _The Four Seasons (Le quattro stagioni)_
@@ -96,7 +101,9 @@ J.S. Bach: Toccata and Fugue in D minor, BWV 565
 
 {% endyoutubebox %}
 
+For many listerners, the first impression can be that it sounds quite busy with so many musical voices playing simultaneously and so much embellishments in a piece of music through variation in repeteating sections or a soloist showing off their skills. This is all a part of the "ornate" characterstic of Baroque music, and can seem very majestic and grand. It is quite common in advertisements and movies to use Baroque music to accompany a sense of grandeur or an intense emotion; like Bach's Toccata and Fugue being associated with a scary Vampire lair and Vivaldi's Spring used for joyous settings like a "high tea" restaurant. 
 
+Baroque music can be associated with the extravagence, but also hints at being perused by high-class members of society. Yes, these pieces were mostly written for royalty, nobility, and the church, which does explain why it feel grandiose and courtly, but it is also able to elicit a certain emotion and provide a source of entertainment. And to that, it does complete its goal well in today's audiences too.
 
 
 
