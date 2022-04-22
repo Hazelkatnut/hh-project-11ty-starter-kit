@@ -5,7 +5,7 @@
 	
 	<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/feed/" rel="self"/>
 	<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/"/>
-	<updated>2022-03-22T14:42:31Z</updated>
+	<updated>2022-03-22T13:54:08Z</updated>
 	<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/</id>
 	<author>
 		<name>Hazel Ng</name>
@@ -256,42 +256,6 @@ Prettier extension and update your VSCode settings to &amp;quot;Format on Save&a
 	</entry>
 	
 	<entry>
-		<title>Proposal</title>
-		<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/proposal/"/>
-		<updated>2022-03-11T20:11:52Z</updated>
-		<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/proposal/</id>
-		<content type="html">&lt;h1 id=&quot;topic&quot; tabindex=&quot;-1&quot;&gt;Topic&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/proposal/#topic&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;Why Classical Music? The history of how Western European Arts Music came to be&lt;/p&gt;
-&lt;p&gt;Why do we call music from the 1600s-early 1950s &amp;quot;Classical Music&amp;quot;. In general terms, this seems to be the general name from music of that time period, associated with a certain &amp;quot;sound&amp;quot; and being seen as &amp;quot;high brow&amp;quot; (even if some of it wasn&#39;t always considered so in the past). I will be looking at musical elements such as musical forms, rhythms, tonal structures, and the history behind the development of so-called &amp;quot;Art Music&amp;quot; with its socio-economic linkages to the aristocracy and bougeois all the way to the middle class. All in an attempt to explain how this genre has came to be how we know it today.&lt;/p&gt;
-&lt;h2 id=&quot;audience&quot; tabindex=&quot;-1&quot;&gt;Audience&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/proposal/#audience&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;My targeted audience is for people who have some knowledge of Classical Music. I am aiming to dive more into the historical perspectives of Classical Music, whether it is social class distinctions, historical facts about composers, historical livlihoods to explain social and political changes, and how that had affected the perception of Classical Music at the time.&lt;/p&gt;
-&lt;p&gt;I am hoping that the above target audience, even those who do not study Music intensely, will be able to find something interesting to learn about. Either weird composer stories, the political movements (nationalism, opporesive regimes, censorship) or support (patronage, comissions)and its effect on the Arts, readers can look at a different perspective to accompany the music that they listen to, to enrich their understanding of the music or just look at music with a different perspective.&lt;/p&gt;
-&lt;h3 id=&quot;structure&quot; tabindex=&quot;-1&quot;&gt;Structure&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/proposal/#structure&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;I would use a lot of text and images to describe what is going on historically and link them to the musical/artistic practices and movements that were in fashion at the time. It is common that art reflects what is happening in people&#39;s lives. Evidentely, music is a cultural product, and we can use music to analyze history too. In the context of this website, I also hope to answer how Art Music has made its way into a path of &amp;quot;canon&amp;quot;; their reputation allows it to continue to thrive in the context of the Classical Music genre.&lt;/p&gt;
-&lt;p&gt;I want to make soemthing like a timeline. So we will have 1) Baroque 2) Classical 3) Romantic 4) 20th century 5) Present day/Contemporary.&lt;/p&gt;
-&lt;p&gt;In each era I will put notable composers and pieces so people have an understanding of the type of &amp;quot;sound&amp;quot; they are hearing, plus a description of what that sound is in words.&lt;/p&gt;
-&lt;p&gt;Then a section on society at the time in relation to Arts Music; were composers writing mainly for aristocrats? How did the Middle Class affect Arts Music after the Indsutrial Revolution? How did Artists react to such changes in society (war, nationalism, making a career on their own without being employed under patronage).&lt;/p&gt;
-&lt;p&gt;Lastly, a paragraph on how this time period&#39;s music has become a part of &amp;quot;Classical Music&amp;quot;. What makes it &amp;quot;classic&amp;quot;. As in the respect to the the stabilization of equal temperament on tuning, several classical forms on fugues, sonatas, concertoes, symphonies, the Western tonal harmony, and eventually tarnishing all of that to create a newer version of everything. What has made them &amp;quot;timeless&amp;quot;, that we would continue playing them in concert halls or on YouTube at home, that we would study them in music lessons and musciology lectures.&lt;/p&gt;
-&lt;p&gt;So far, that&#39;s all I could think of, but I will link certain websites if needed for more elaboration.&lt;/p&gt;
-&lt;p&gt;In the Present Day/Contemporary, I wouldn&#39;t necessarily be talking about Contemporary classical music, but rather the practice of performing Classical Music -&amp;gt; this may become a bit less historical and more sociological. Is Classical Music &amp;quot;dying&amp;quot; as we only play the same things over and over again (as in, the same pieces that are popular even in the canon)? How can we employ social media to make it more accesible (a common theme throughout culture, what is considered lowbrow or highbrow, how and why do we make things accessible to a wider audience?&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>Introduction</title>
-		<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/Introduction/"/>
-		<updated>2022-03-11T20:12:45Z</updated>
-		<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/Introduction/</id>
-		<content type="html">&lt;h2 id=&quot;welcome&quot; tabindex=&quot;-1&quot;&gt;Welcome&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Introduction/#welcome&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Hello!&lt;/p&gt;
-&lt;p&gt;This is a historical exploration to the development of what we call Classical Music today. We associate it with a certain sound, which I believe some of us will already have a few pieces playing in their head: Bach&#39;s Cello Suite #1 in G major (that famous melody that Yo Yo Ma likes to play), Mozart&#39;s &lt;em&gt;Eine Kleine Nachtmusik&lt;/em&gt;, Beethoven&#39;s &lt;em&gt;Für Elise&lt;/em&gt;, to name a few.&lt;/p&gt;
-&lt;p&gt;Classical Music has stereotypes that continue into today&#39;s day and age: maybe it seems elitist, it always sticks to tradition and makes it difficult for wider public accessibility. These are some things we can explore here. Of course, these stereotypes are not completely wrong: Classical music was originally written for aristocratic patrons, therefore seeming very high brow. But it was eventually written for the wider general public after the Industrial Revolution. There is this tendancy to stick to tradition, by certain scholars, performers, critics, and listerns. Some people did try to stray away from tradition to create modern and contemporary versions of what they learnt as tradition, even completely disregard tradition during Modernism (late 19th to mid 20th century).&lt;/p&gt;
-&lt;p&gt;**For the sake of time, I will be skipping over Medieval and Renaissance eras since these two are usually less discussed in comparison to the other eras.&lt;/p&gt;
-&lt;p&gt;So, how did Classical Music earn its title of being &amp;quot;Classical&amp;quot;? Well, there&#39;s a long history in Western European Arts Music, where certain musical traits and practices were held to high regard (such as the fugue, sonata forms, the creation of the orchestra), some composers and their contributions were held to high regard, and such reputation remained with these pieces through performances, scholarship, criticism, and education, all the way into the present day. There is a lot to unpack, so let&#39;s dive in.&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
 		<title>Baroque Era (~1600-1750)</title>
 		<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/Baroque%20Era/"/>
 		<updated>2022-03-22T13:51:32Z</updated>
@@ -306,40 +270,51 @@ This can be seen with the use of cartouches and stucco in architecture (see the 
 &lt;p&gt;and the use of dark and richer colours to provide stark contrast of light and dark to provide emotional intensity in paintings.
 &lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_Calling_of_Saint_Matthew-Caravaggo_%281599-1600%29.jpg/450px-The_Calling_of_Saint_Matthew-Caravaggo_%281599-1600%29.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Basically, the Baroque was all about using art to express an intense emotion (affects) and showing off the grand and elaborate details in the artwork.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Basically, the Baroque was all about using art to express an intense emotion (affects; pronounced ah-fects) and showing off the grand and elaborate details in the artwork.&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;em&gt;So, how do we translate those visual examples above into music?&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;When listening to Baroque pieces, one might pick up lots of quick notes in succesion or a few quick notes before a certain note (trills, grace notes). This is called ornamentation, which can add flare to a musical piece for the virtuoso singers and instramentalists to show off their skills or used when repeating the same sections to make each repetition seem different.&lt;/p&gt;
-&lt;p&gt;There was growing awareness to use music to evoke emotions, or affects. Following the medical theory on humors at the time, where eating and refraining from certain foods can equilibrize the imablance of bodily humors, there was growing beleif that musical emotions were another method to counter with the imbalance of humours, or spirit vapours. Lorenzo Giacomini wrote in his &lt;em&gt;Oratoni e discorsi&lt;/em&gt; that affects are not the same as emotions, and external factors like musical affects stimulate the body to alter the state of the humors. There was even a 17th century theory called the Doctrine of Affections, stating that different musical moods could and should be used to influences the affects of the listener.&lt;/p&gt;
-&lt;p&gt;In Baroque music, many pieces have distinctive movements, sections, or dances in a collection, or suite. Each distinct section presents a well-defined emotional charactersitic. Though this structure of distinct sections was carried over by the past centuries, they were mostly sections of church music to accompany a service; they were not meant to evoke a certain emotion.&lt;/p&gt;
+&lt;p&gt;This video gives a good overview of common ornamentations to embilish the music&lt;/p&gt;
+&lt;section class=&quot;youtube-box&quot;&gt;
+&lt;section class=&quot;youtube-description&quot;&gt;
+&lt;p&gt;This video gives a good overview of common ornamentations to embilish the music&lt;/p&gt;
+&lt;/section&gt;
+&lt;div id=&quot;https://youtu.be/1EVvB_pri6Y&quot; class=&quot;undefined&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;&lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/https://youtu.be/1EVvB_pri6Y&quot; allow=&quot;undefined&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;/section&gt;
+&lt;p&gt;There was growing awareness to use music to evoke emotions, or affects. Following the medical theory on humors at the time, where eating and refraining from certain foods can equilibrize the imablance of bodily humors, there was growing beleif that musical emotions were another method to counter with the imbalance of humours, or spirit vapours. Lorenzo Giacomini wrote in his &lt;em&gt;Oratoni e discorsi&lt;/em&gt; that external factors like musical affects stimulate the body to alter the state of the humors. There was even a 17th century theory called the Doctrine of Affections, stating that different musical moods could and should be used to influences the affects of the listener.&lt;/p&gt;
+&lt;p&gt;In Baroque music, many pieces have distinctive movements, sections, or dances in a collection (called a suite). Each distinct section presents a well-defined emotional charactersitic. Though this structure of distinct sections was carried over by the past centuries, these pre-Baroque musical sections were church music used to accompany different parts of the service; not to evoke a certain emotion.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Here are some musical characteristics that defined the Baroque musical sound:&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Melody
+&lt;li&gt;
+&lt;p&gt;Melody&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;More diverse melodic lines to incorporate:
 &lt;ul&gt;
-&lt;li&gt;Dramatic virtuoso singing&lt;/li&gt;
+&lt;li&gt;Dramatic virtuoso singing (melismas, Da Capo Aria)&lt;/li&gt;
 &lt;li&gt;Idiomatic writing; basically melodies specifically written to show off the technical strentghs of each instrument&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Harmony
+&lt;li&gt;
+&lt;p&gt;Harmony&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;using the tonal system (the very familiar major and minor keys) rather than the modal system used in church music for the past centuries
+&lt;li&gt;using the tonal system (the major and minor keys we know of today) rather than the modal system used in church music for the past centuries
 &lt;ul&gt;
 &lt;li&gt;this tonal system will be the basis of Western European Arts Music hamony&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;here&#39;s an example of both&lt;/li&gt;
+&lt;li&gt;chromatic harmony was used for expressive effect&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Rhythm
+&lt;li&gt;
+&lt;p&gt;Rhythm&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;More rhythmic unity with strict patterns rather than the smooth, indistinct rhythmic pattern in past music&lt;/li&gt;
+&lt;li&gt;Predominantly a single rhythm to provide a steady pulse, but can be freer in vocal music (due to its influence from free-flowing church vocal music)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Dynamics
+&lt;li&gt;
+&lt;p&gt;Dynamics&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Terraced dynamics: shifitng the volume suddnely from one level to another
 &lt;ul&gt;
@@ -349,52 +324,83 @@ This can be seen with the use of cartouches and stucco in architecture (see the 
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Texture
+&lt;li&gt;
+&lt;p&gt;Texture&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Preference of polyphony (many voices doing its own thing) over homophony (a main voice and an accompnying voice)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Instrumentation&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;the formation of the orchestra, a rather a stablized group of instruments that will eventually form what we know as the orchestra today, where they will contribute to the contrasting musical textures.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
+  &lt;section class=&quot;youtube-box&quot;&gt;
+&lt;/section&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;section class=&quot;youtube-description&quot;&gt;
+&lt;pre&gt;&lt;code&gt;Here&#39;s an example. You can skip the &amp;quot;monophony&amp;quot; section (0:15-1:30) since it is not very relevant to this discussion
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/section&gt;
+&lt;div id=&quot;https://youtu.be/teh22szdnRQ&quot; class=&quot;undefined&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;&lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/https://youtu.be/teh22szdnRQ&quot; allow=&quot;undefined&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;ul&gt;
 &lt;li&gt;Basso Continuo
 &lt;ul&gt;
 &lt;li&gt;an instrument or small ensemble that provide the harmonic founcation for the melody. This is usually the harpsichord in the background.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Dance
-&lt;ul&gt;
-&lt;li&gt;It is important to note that dance styles were used for inspiration to compose pieces, not meant to be danced to necessarily.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr /&gt;
-&lt;h3 id=&quot;what-of-the-baroque-era-contributes-to-the-classical-music-sound&quot; tabindex=&quot;-1&quot;&gt;What of the Baroque Era contributes to the Classical Music sound?&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Baroque%20Era/#what-of-the-baroque-era-contributes-to-the-classical-music-sound&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Let&#39;s start off with some popular Baroque pieces people think about that are referred to as &amp;quot;Classical Music&amp;quot;:&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;lets-apply-the-above-traits-into-music&quot; tabindex=&quot;-1&quot;&gt;Let&#39;s apply the above traits into music&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Baroque%20Era/#lets-apply-the-above-traits-into-music&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Below are some popular Baroque pieces to provide our examples:&lt;/strong&gt;&lt;/p&gt;
 &lt;section class=&quot;youtube-box&quot;&gt;
 &lt;section class=&quot;youtube-description&quot;&gt;
-&lt;p&gt;Vivaldi: Spring&lt;/p&gt;
-&lt;p&gt;harpischord basso continuo in background&lt;/p&gt;
+&lt;p&gt;A. Vivaldi: Concerto No. 1 in E major, Op. 8, RV 269, &amp;quot;Spring&amp;quot; (La primavera) from &lt;em&gt;The Four Seasons (Le quattro stagioni)&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;basso continuo on harpsichord&lt;/li&gt;
+&lt;li&gt;swelling on the strings; no vibrato (rapid pitch changing while sustaining on that note)&lt;/li&gt;
+&lt;li&gt;Violin&#39;s idiomatic writing - showing off the skills of the violin&lt;/li&gt;
+&lt;li&gt;Word painting - this was a new technique to show affects - a story/image setting that accompanies the music so the audience can follow the poem with what the music was expression: bird chirps (0:30), the river (1:15), the storm (1:49), people dancing in the field (6:27)&lt;/li&gt;
+&lt;li&gt;This ensemble used Baroque tuning (~415hz), which sounds flater than the pitches we are used to. Today, we would tune our instruments to A=440-42hz&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/section&gt;
 &lt;div id=&quot;https://www.youtube.com/watch?v=3LiztfE1X7E&quot; class=&quot;undefined&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;&lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/https://www.youtube.com/watch?v=3LiztfE1X7E&quot; allow=&quot;undefined&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;/section&gt;
 &lt;section class=&quot;youtube-box&quot;&gt;
 &lt;section class=&quot;youtube-description&quot;&gt;
-&lt;p&gt;Bach: Cello Suite 1 Prelude??&lt;/p&gt;
+&lt;p&gt;D. Scarlatti: Keyboard Sonata in E major, K.380&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Idiomatic writing on the harpsichord - showing off the harpsichordist&#39;s skills&lt;/li&gt;
+&lt;li&gt;Lots of ornamentation, room for the soloist to show off their improvisation skills on repetitive portions&lt;/li&gt;
+&lt;li&gt;terraced dynamics - due to instrument technicalities, the way to create &amp;quot;loud&amp;quot; and &amp;quot;soft&amp;quot; dynamics was to change the pitch (the same notes but more to the left for softer or right louder) and adding octaves to create more &amp;quot;voices&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/section&gt;
-&lt;div id=&quot;https://youtu.be/1prweT95Mo0&quot; class=&quot;undefined&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;&lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/https://youtu.be/1prweT95Mo0&quot; allow=&quot;undefined&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;div id=&quot;https://youtu.be/RZHC7JBNhRk&quot; class=&quot;undefined&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;&lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/https://youtu.be/RZHC7JBNhRk&quot; allow=&quot;undefined&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;/section&gt;
 &lt;section class=&quot;youtube-box&quot;&gt;
 &lt;section class=&quot;youtube-description&quot;&gt;
-&lt;p&gt;Handel: Messiah, Hallelujah&lt;/p&gt;
+&lt;p&gt;G.F. Handel: Rejoice Greatly from &lt;em&gt;Messiah&lt;/em&gt; (HWV 56)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Melisma - style of virtuosic singing by holding a syllable over a series of notes (in this example, Handel purposely put the melismas on the word &amp;quot;rejoice&amp;quot; to emphasize this word in 0:20-22 and 0:35-41)&lt;/li&gt;
+&lt;li&gt;Da Capo Aria (A-B-A form) - a musical form to show off with improvisation and ormanentation by the soloist in the repeats of the A sections (from 3:04 the repeat of this section has added ornamentation to sound different than the first by adding more notes)&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/section&gt;
-&lt;div id=&quot;https://youtu.be/IUZEtVbJT5c&quot; class=&quot;undefined&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;&lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/https://youtu.be/IUZEtVbJT5c&quot; allow=&quot;undefined&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;div id=&quot;https://youtu.be/5WVKyxFOCkY&quot; class=&quot;undefined&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;&lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/https://youtu.be/5WVKyxFOCkY&quot; allow=&quot;undefined&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;/section&gt;
 &lt;section class=&quot;youtube-box&quot;&gt;
 &lt;section class=&quot;youtube-description&quot;&gt;
-&lt;p&gt;Bach Toccata and Fugue&lt;/p&gt;
-&lt;p&gt;organ&lt;/p&gt;
-&lt;p&gt;use of counterpoint -&amp;gt; the fugue&lt;/p&gt;
+&lt;p&gt;J.S. Bach: Toccata and Fugue in D minor, BWV 565&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Counterpoint and the Fugue&lt;/li&gt;
+&lt;li&gt;The organ was a common instrument used in the Baroque era, especially for churches. Although, this is a secular organ piece&lt;/li&gt;
+&lt;li&gt;Idiomatic writing - showing off the organist&#39;s skills&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/section&gt;
 &lt;div id=&quot;https://youtu.be/Nnuq9PXbywA&quot; class=&quot;undefined&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;&lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/https://youtu.be/Nnuq9PXbywA&quot; allow=&quot;undefined&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;/section&gt;
+&lt;p&gt;For many listerners, the first impression can be that it sounds quite busy with so many musical voices playing simultaneously and so much embellishments in a piece of music through variation in repeteating sections or a soloist showing off their skills. This is all a part of the &amp;quot;ornate&amp;quot; characterstic of Baroque music, and can seem very majestic and grand. It is quite common in advertisements and movies to use Baroque music to accompany a sense of grandeur or an intense emotion; like Bach&#39;s Toccata and Fugue being associated with a scary Vampire lair and Vivaldi&#39;s Spring used for joyous settings like a &amp;quot;high tea&amp;quot; restaurant.&lt;/p&gt;
+&lt;p&gt;Baroque music can be associated with the extravagence, but also hints at being perused by high-class members of society. Yes, these pieces were mostly written for royalty, nobility, and the church, which does explain why it feel grandiose and courtly, but it is also able to elicit a certain emotion and provide a source of entertainment. And to that, it does complete its goal well in today&#39;s audiences too.&lt;/p&gt;
 </content>
 	</entry>
 	
@@ -404,47 +410,214 @@ This can be seen with the use of cartouches and stucco in architecture (see the 
 		<updated>2022-03-22T13:52:27Z</updated>
 		<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/Classical%20Era/</id>
 		<content type="html">&lt;h2 id=&quot;the-classical-of-classical-music&quot; tabindex=&quot;-1&quot;&gt;The Classical of &amp;quot;Classical Music&amp;quot;&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Classical%20Era/#the-classical-of-classical-music&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;In the Arts, it is common to call a &amp;quot;Golden Age&amp;quot; in any medium the &amp;quot;Classical&amp;quot; or &amp;quot;Classic&amp;quot; period. In a way, this period can be a &amp;quot;golden age&amp;quot; due to many solidified developments&lt;/p&gt;
+&lt;p&gt;The Classical Era in music fell in sync with the Age of Enlightenment, where puruit of knowledge, rational thinking, and idealogies of equality amongst all were growing. This period is referred to as the Classical Era due to it&#39;s core values being rooted in the rediscovery and revival of the Greco-Roman art style of simplicity, clean-cut lines, and proportion, contrasting the overly ornate style of the Baroque. The biggest achievement developed was the Sonata form, a form that emphasized a strict structural form to write music, commonly employed in the popular and &amp;quot;massive&amp;quot; genres of instrumental and chamber music: sonatas, concertos, string quartets, and symphonies.&lt;/p&gt;
 &lt;h2 id=&quot;what-is-the-classical-era&quot; tabindex=&quot;-1&quot;&gt;What is the Classical Era&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Classical%20Era/#what-is-the-classical-era&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Following the 18th century artistic movement known as Classicism, the Arts tried to revive and emulate the culture, art, and literature of Classical Antiquity of Ancient Greece. This is characterized by order and hierarchy, simplicity, proportion,perfection, restrained emotion, and intellectual appeal.&lt;/p&gt;
+&lt;p&gt;It is quite common to see in certain European cities today where certain buildings were trying to mimic the perfect symmetry and proportion of Ancient Classcism in Ancient Greece.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.mayfairgallery.com/media/wysiwyg/Main-_The_Madeleine__Paris__France__ca._1890-1900.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Such politics Ancient Greeck Classicism were also a common topic among philosophers and intellectuals. As could be reflected in the royalty as well, there were the Absolute monarchs who pracitced their leadership based on the principles of the Enlightened; they were entrusted on the power to rule on the basis of the social contract. One influential aboslutist monarch in music was Holy Roman Emperor Joseph II, who&#39;s home was in the music capital: Vienna, of which many musicians would be attracted to the city due to its rich musical community of patrons and musicians alike.&lt;/p&gt;
+&lt;p&gt;Such revival also entertained the revival of Greek drama and music. Opera, originally an Italian invention made popular during the Baroque era, was now also a source of comedic entertainment (opera buffa, singspiel), aiming to combine singing, dancing, similar to what they thought was done in Classical Greek theatre.&lt;/p&gt;
+&lt;p&gt;Towards the latter end of the Classical Era, it was common to hear of independent musicians; of which Mozart, Haydn were independent near the latter part of their career, and Beethoven is mostly considered an independent musicians, rather than being employed by royal courts or church service (although these roles were still quite common).&lt;/p&gt;
+&lt;p&gt;The Enlightenment Era also affected the artistic world in terms of its tastes and audience. Like the logical order demanded from scientific inquiry, we see structures in music through the established Sonata Form, or the shift from polyphony (the multi-voiced counterpoint) to homophony (melody over a clear accopaniment). Due to the main patronage being the nobility (rather than the church and the royalty in the Baroque) due to economic order and social structure, there was the growth of more instrumental music, of which performance styles has changed to suit this need by providing a larger orchestra and standard instrumental groups and specific notations for large ensemble music (rather than sharing parts with available instruments at hand). It was also starting to become common to have &amp;quot;rehearsals&amp;quot; in the latter part of the era as patrons and audiences wanted to listen to music produced by previous generations as well. With Beethoven, especially, as instrumental technology allowed more virtuosic skill to be demonstrated, it was becoming essential for instrumentalists to be able to practice their parts with each other, thus rehearsing, rather than sightread their parts during performance (a norm during Baroque era performances).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Melody
+&lt;ul&gt;
+&lt;li&gt;Symetrical melody, balanced phraes and cadences&lt;/li&gt;
+&lt;li&gt;Easy to remember; tuneful&lt;/li&gt;
+&lt;li&gt;Sometimes characterized as &amp;quot;elegant&amp;quot;, &amp;quot;light&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Harmony
+&lt;ul&gt;
+&lt;li&gt;The tonal system expanded to further develop the tonic-dominant relationship (the first and fifth degree notes in a tonal harmony scale)
+&lt;ul&gt;
+&lt;li&gt;Simply, in the tonal system, there are 24 main scales, 12 major and 12 minor. Each scale has 8 degrees which create an &amp;quot;octave&amp;quot;.&lt;/li&gt;
+&lt;li&gt;Ex. Using the C major scale, we have C-D-E-F-G-A-B-C. In this case, our C is the first degree (tonic/I; number 1 in roman numerals) and our G is the fifrth degree (dominant/V; number 5 in roman numerals). The relationship between these two notes are emphasized in order to establish the harmony and has become common practice to use them in Classical era pieces.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;section class=&quot;youtube-box&quot;&gt;
+&lt;/section&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;section class=&quot;youtube-description&quot;&gt;
+&lt;pre&gt;&lt;code&gt;Here&#39;s a video explanation that explains chord progressions to give a better sense of how the scale in a tonal system works 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/section&gt;
+&lt;div id=&quot;https://youtu.be/D2ltRa2BosE&quot; class=&quot;undefined&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;&lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/https://youtu.be/D2ltRa2BosE&quot; allow=&quot;undefined&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Rhythm&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Favoured dance rhythms and regularly recurring accents to establish rhythm&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dynamics&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Better instrumental technology allowed for more gradual increase (crescendo) and decrease (decrescendo/diminuendo) in volume, and continously changes throughout the piece&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Texture&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Homophonic texture (melody over chordal accompaniment).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Instrumentation&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The orchestra is now standardized into 4 families: strings, woodwinds, brass, percussion. The piano is also coming into prominence as more a soloist.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Musical Form&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The Sonata Form comes into development (development attributed especially at the &amp;quot;Father of the String Quartet and Symphony&amp;quot;: Joseph Haydn).&lt;/li&gt;
+&lt;li&gt;With the artistic movement that calls for balance and proportion, the Sonata Form does exactly that. It is a 3-part musical form that can organize music, which was developed from the ternary form used commonly in Baroque pieces (such as the Da Capo Aria): Exposition (section A) -Development (Section B)-Recapituation (Section A repeated again, but different).&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;section class=&quot;youtube-box&quot;&gt;
+&lt;/section&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;section class=&quot;youtube-description&quot;&gt;
+&lt;pre&gt;&lt;code&gt;Here&#39;s a video explanation that explains the sonata form using musical examples 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/section&gt;
+&lt;div id=&quot;https://youtu.be/2G6xMcUUbEA&quot; class=&quot;undefined&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;&lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/https://youtu.be/2G6xMcUUbEA&quot; allow=&quot;undefined&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
 &lt;hr /&gt;
-&lt;h2 id=&quot;what-of-the-baroque-era-contributes-to-the-classical-music-sound&quot; tabindex=&quot;-1&quot;&gt;What of the Baroque Era contributes to the Classical Music sound?&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Classical%20Era/#what-of-the-baroque-era-contributes-to-the-classical-music-sound&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Let&#39;s start off with some popular Baroque pieces people think about that are referred to as &amp;quot;Classical Music&amp;quot;:&lt;/strong&gt;
-will add more text later, just making notes for myself now&lt;/p&gt;
+&lt;h3 id=&quot;lets-apply-the-above-traits-into-music&quot; tabindex=&quot;-1&quot;&gt;Let&#39;s apply the above traits into music&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Classical%20Era/#lets-apply-the-above-traits-into-music&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Below are some popular Classical pieces to provide our examples:&lt;/strong&gt;&lt;/p&gt;
+&lt;section class=&quot;youtube-box&quot;&gt;
+&lt;section class=&quot;youtube-description&quot;&gt;
+&lt;p&gt;J. Stamitz - Symphony in F, Op. 4, No. 1 (0:00-3:16)&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;CPE Bach?&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Haydn Farewell Symphony&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;The father of the Mannheim orchestra; a school of performance that highlighted the crescendos and diminuendos in the entire orchestra and required every player to be disciplined and skilled instrumentalists, just like the logic and order required of Classicism&#39;s characteristics.&lt;/li&gt;
+&lt;li&gt;This orchestra is organized similarly to how we would listen to a modern day orchestra, although emphasis is still placed on the strings.&lt;/li&gt;
+&lt;li&gt;A preliminary version of Sonata Form; it is symetrical that the first and last sections mimics the other&lt;/li&gt;
+&lt;li&gt;easy to remember melody&lt;/li&gt;
+&lt;li&gt;Harmony is mostly based around the tonic and dominant chords throghout the piece, not much harmonic exploration.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;https://youtu.be/OpD9ofCm6Ak&lt;/p&gt;
+&lt;/section&gt;
+&lt;div id=&quot;https://youtu.be/CdW6R1mkBUI&quot; class=&quot;undefined&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;&lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/https://youtu.be/CdW6R1mkBUI&quot; allow=&quot;undefined&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;/section&gt;
+&lt;section class=&quot;youtube-box&quot;&gt;
+&lt;section class=&quot;youtube-description&quot;&gt;
+&lt;p&gt;J. Haydn Trumpet Concerto in E-flat major Hob. VIIe/1&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Mozart queen of the night aria?&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;For all of you &amp;quot;Squid Game&amp;quot; fans out there&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Due to better instrument technology, the brass instruments were starting to also have as solo instruments in chamber music and concertos (orchestra accompnying a soloist).&lt;/li&gt;
+&lt;li&gt;This was inspired by a dance form - the rondo, where the first section keeps returning with various other musical material in between those repeititons.&lt;/li&gt;
+&lt;li&gt;Dynamic control of the trumpet was also better improved in its construction so it allowed for more dynamic changes (especially on the quieter side).&lt;/li&gt;
+&lt;li&gt;It also sounds very grand and welcoming, like a grand entrance (similar to the function of an announcement on Squid Game), contributing to its elegant style of Classcism.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;https://youtu.be/YuBeBjqKSGQ&lt;/p&gt;
+&lt;/section&gt;
+&lt;div id=&quot;https://youtu.be/hb5MSJcBb9o&quot; class=&quot;undefined&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;&lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/https://youtu.be/hb5MSJcBb9o&quot; allow=&quot;undefined&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;/section&gt;
+&lt;section class=&quot;youtube-box&quot;&gt;
+&lt;section class=&quot;youtube-description&quot;&gt;
+&lt;p&gt;W.A. Mozart Serenade No. 13 for Strings &amp;quot;Eine Kleine Nachtmusik&amp;quot; K. 525&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Mozart Eine Kleine&lt;/li&gt;
+&lt;li&gt;The sonata allegro form&lt;/li&gt;
+&lt;li&gt;Sounds extremely elegant, possibly written for public entertainment&lt;/li&gt;
+&lt;li&gt;The second movement (at 5:54) is a slow movement, a common section to contrast and mirror the quick sections before and after the slow movements. It is also another exercise of balance between lyricism and restraint of emotion.&lt;/li&gt;
+&lt;li&gt;The homophonic texture is quite evident even though it is for a string ensemble - the melody is usually played in the 1st violins while the rest provides accompaniment.&lt;/li&gt;
+&lt;li&gt;The accents are quite important in order to establish the rhythm, whether to reflect a dance rhythm or a stately rhythm for the piece overall.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;https://youtu.be/f3u5-MkFY5E&lt;/p&gt;
+&lt;/section&gt;
+&lt;div id=&quot;https://youtu.be/QZWKUszkbXU&quot; class=&quot;undefined&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;&lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/https://youtu.be/QZWKUszkbXU&quot; allow=&quot;undefined&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;/section&gt;
+&lt;section class=&quot;youtube-box&quot;&gt;
+&lt;section class=&quot;youtube-description&quot;&gt;
+&lt;p&gt;Beethoven Piano Sonata in C minor, op. 13 &amp;quot;Pathetique&amp;quot;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Beethoven fur elise&lt;/li&gt;
+&lt;li&gt;A common genre at the time was the piano sonatas, which were key in bringing out this new keyboard instrument to a level of stardom of its own. It has difficult piano techniques which make it essential that the instrumentalist needed to be able to rehearse and practice this on their own prior to performance&lt;/li&gt;
+&lt;li&gt;There is a slow introduction prior to its symmetrical Sonata Form, it achieves its own balance of lyricism and restraint.&lt;/li&gt;
+&lt;li&gt;Harmonically, as Beethoven was experimenting with music in different ways than his Classical era predecessors, decides to establish the tonic key by exploring other degrees of the tonal harmony scale. But, in keeping with symmetry, they are harmonically symetrical in the exposition and recapitulation.&lt;/li&gt;
+&lt;li&gt;Melodically, the motif repeats throughout, which provides a tuneful idea to it, and is a tool to balance the phrases and cadences&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;https://youtu.be/wfF0zHeU3Zs&lt;/p&gt;
+&lt;/section&gt;
+&lt;div id=&quot;https://youtu.be/91MTUXla-lE&quot; class=&quot;undefined&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;&lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/https://youtu.be/91MTUXla-lE&quot; allow=&quot;undefined&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;/section&gt;
+&lt;p&gt;Listeners would probably associate music from the Classical era as &amp;quot;elegant&amp;quot; and &amp;quot;light&amp;quot; due to the balance and proportion required of the musical tastes of the time. Oftentimes, the music from this era is accompanied with movie scenes of the nobility mingling or even played in high-class restaurants, which can make people attribute the music to the upper class audience. Although many pieces were dedicated to or written to these high class patrons (who would have the composers under their employment or through comission), it&#39;s main goal was to provide a sense of entertainment. Whether as background music or something for enjoyment in a concert hall to feel relaxed and mingle (common concert etiquette at the time). Indeed, these were also written in mind of many skilled musicians, such as the trumpet concerto or the piano sonata, where the music was written for a skilled performer for an upcoming concert.&lt;/p&gt;
+&lt;p&gt;In contrast to the extremely embelished Baroque period, they were in no way less enjoyed by their audiences. It was also a product of the philosophies and societal changes of their time, where the musician plays a larger role in public life, and starts to gain more freedom in their career. The symmetry and balance asked of the artistic movement has created important musical developments on ordering music (harmonically, melodically, or through form) and has started to serve more to the entertainment sphere as the Enlightened monarchs start to invest more into music as pure entertainment rather than for a specfic purpose.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
-		<title>Romanticism (~1820-1880)</title>
+		<title>Romantic Era (~1820-1880)</title>
 		<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/Romantic%20Era/"/>
 		<updated>2022-03-22T13:53:21Z</updated>
 		<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/Romantic%20Era/</id>
 		<content type="html">&lt;h2 id=&quot;overview&quot; tabindex=&quot;-1&quot;&gt;Overview&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Romantic%20Era/#overview&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The Romantic Era was one where the concept of the individual and virtuoso musician started to flourish. Music was becoming more readily available to the masses due to more affordable methods of being able to come across Classical music: the Industrial Revolution allowed for instruments to be more easily purchased, more people were able to afford music lessons or send children to study music in Conservatories, music was not especially reliant on purely the nobility and can be written for the the average middle-class venues such as concert halls and opera theatres. The idea of individual expression and display of technical prowess was on the rise, and the instrumentalist and the composer was starting to form a distinct line, similar to today where even the instrumentalist could earn fame without having to compose music.&lt;/p&gt;
+&lt;h2 id=&quot;what-is-the-romantic-era&quot; tabindex=&quot;-1&quot;&gt;What is the Romantic Era?&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Romantic%20Era/#what-is-the-romantic-era&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Romanticism was all the rage in Europe, especially with the uproar of the Industrial Revolution and the French Revolution by the turn of the 19th century, where ideas such as liberalism, individualism, and nationalism was taking place in society and politics. It was a reaction against the strict, logical thinking that occured with the Scientific Revolution in its previous century, and the social norms of 18th century Europe. It emphasized the emotions of the individual self, the weariness of science and industrialization in favour of nature, and took inspiration from the heroism by looking back into the ideals of Medieval society.&lt;/p&gt;
+&lt;p&gt;These ideas were presented prominently in the Arts, which were vastly created with subject material that was more able to describe the lifestyles and imaginations of a wider audience: embracing inspiration from the distant past, the inner turmoil of the individual, the herocisim and glorification of death. Because artists were branching outside of confined rules for inspiration, other sources such as long-lost folktales, spiritual sightings, exoticism, were all used to describe the glorious distant past, the exciting adventures that can be found outside one&#39;s daily life, and the emotional or spiritual connections that can only expressed about their deep desires.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.eh-resources.org/wp-content/uploads/2015/05/above_the_sea_of_fog.jpg&quot; alt=&quot;&quot; /&gt;
+Caspar David Friedrich, &lt;em&gt;Wanderer above the Sea of Fog&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.theartstory.org/images20/works/romanticism_9.jpg?1&quot; alt=&quot;&quot; /&gt;
+Eugène Delacroix &lt;em&gt;Liberty Leading the People&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Popularly studied in school, Romantic literature and poetry were known for their ability to emote and a vehicle to dive into the personal expressions of the author and their characters. It was usually emotionally driven, the focus was always on the self, and allowed that freedom to express human nature. It also questioned society&#39;s quick-building industries and institutions in favour of returning to a free-spirited nature, a scenery commonly visited in many forms of Art.&lt;/p&gt;
+&lt;p&gt;Similarly in music, composers rid of the rigidity and structure of the Classical Era by taking previous developments of music and exploring as much as possible within and outside those boundaries. Beethoven was credited to being one main contributor to the development of the Romantic Era due to his radical ideas, musically and socially, that made him seem like the Romantic artist: his belief in Revolutionary ideas for &amp;quot;Liberté, Franternité, Equalité&amp;quot;, and his musical ideas that seem to flow endlessly and moving in and out of sturctural boundaries, criticized during his day but eventually accepted years after his death and was deemed a &amp;quot;genius&amp;quot;, a celebrated concept for any Romantic artist that has been determined to produce orignal work from &amp;quot;nothing&amp;quot;.&lt;/p&gt;
+&lt;p&gt;New genres were created or developed immensely for the Romantic purpose, and has reflected well on society&#39;s reception to Classical music. The upright piano was becoming a staple in middle-class homes, and was an accessible method to learning and playing Classical music. It was also attractive to amateurs where unlike other string or wind instruments, one person could play both the melody and harmony together. Or in other cases, it was useful for intimate settings where friends and acquantancses can gather and play together, whether it was four-hand piano arrangments of large works such as symphonies and operas or chamber music of quartets or a vocalist/solo string or wind instrumentalist with a piano accompaniment.&lt;/p&gt;
+&lt;p&gt;Such intimate settings lead to a common social-artistic trend of the time: the Salon. It was a gathering of artists and intellectuals in one&#39;s home where each member would discuss current trends in the Arts, society, and politics. Musical salons especially would have performers play a specific program for an intimate group, similar to the concept of the &amp;quot;recital&amp;quot; we have today. Below is an artistic imagination of what a Salon would look like with images of various well-known artists; musicians Franz Liszt, Niccolo Paganini, Giacomo Rossini, and novelists George Sand, Alexandre Dumas Sr. and Victor Hugo.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/e/e0/Josef_Danhauser_Liszt_am_Fl%C3%BCgel_1840_01.jpg&quot; alt=&quot;&quot; /&gt;
+Josef Danhauser &lt;em&gt;Liszt at the Piano&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The recital and the concert allowed a new path for independent musicians: the virtuosos, soloists who excelled at their instrument through technical prowess. Liszt and Paganini were and still famous for their virtuosic abilities and their shows. They can be seen as the equivalent of today&#39;s rockstars as they garnered many fans (Liszt especially, having lots of female fans) through their new compositions or arrangmenets that had much technical difficutly but delivered them with ease while performing tricks. Paganini once purposely broke all 3 of his strings one-by-one so he would perform the rest of the difficult music on one string. Liszt popularized the current practice of piano performance: memorizing all his music while performing and turning the piano to the side so the audience can see his face (rather than seeing the pianist&#39;s back or hidden behind the orchestra as common in the past). It was essentially a large show but very few succesful musicians were able to pull them off, and eventually these difficult technical abilities were written into modern day requirements in music performance syllabi.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://media.wnyc.org/i/1280/640/c/80/1/liszt-hoseman.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Programatic music was another large trend that took off from the second half of the 19th century. Inspired by the connection of various types of art working together, program music was based off the opera overture, the short piece prior to the opera to give the audience an idea of what is to happen in the plot. It allowed composers to combine their favorite works of literature to base the music from, and included a small pamphlet for the audience to understand how each part of the music relates to a part of the story/poem. Like operas in the Romantic era, it was able to convey political and moral issues, and even various folktales and fairytales, which was quite important to the rising sense of nationalism and liberalism across Europe.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Melody
+&lt;ul&gt;
+&lt;li&gt;Free-flowing, expansive, lyrical, more varied&lt;/li&gt;
+&lt;li&gt;may have more chromatic inflections&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Harmony
+&lt;ul&gt;
+&lt;li&gt;Increased use of chromaticism&lt;/li&gt;
+&lt;li&gt;More adventurous in exploring the harmonies of the entire tonal system (rather than much emphasis placed on the tonic and dominant)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Rhythm
+&lt;ul&gt;
+&lt;li&gt;much more rhythmic diversity througout a piece&lt;/li&gt;
+&lt;li&gt;The concept of rubato (stolen time) becomes more common place as a tool of expression (to slow down or speed up certain beginnings and endings of phrases)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Dynamics
+&lt;ul&gt;
+&lt;li&gt;Used extensively, was a way to capture the individual and the extreme emotion the music is portraying&lt;/li&gt;
+&lt;li&gt;Much wider range of dynamics, including sudden changes or very large gradual changes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Texture
+&lt;ul&gt;
+&lt;li&gt;Homophonic texture, although polyphony (similar to the Baroque era) starts to become used again near the end of the era&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Form
+&lt;ul&gt;
+&lt;li&gt;No strict form that must be followed. In fact, breaking traditional ideas of form from the Classical era was quite common (such as single-movement rather than multi-movement sonatas and symphonies). The important idea is the ability to capture the emotion or story of the piece.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Instrumentation
+&lt;ul&gt;
+&lt;li&gt;Allowed for better technical skills across various instruments which allowed for the virtuso performer.&lt;/li&gt;
+&lt;li&gt;Since it was based much on the composer&#39;s rendition of their individual expression, the musical score was much stricter in terms of instruction for the performer&lt;/li&gt;
+&lt;li&gt;Much larger orchestra (Baroque: 15 people, Classical: 20-40 people, Romantic: maybe as large as 100 people) with new instrument additions to display a wider sound and texture range (ex. the tuba, English horn, saxaphone).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Epression
+&lt;ul&gt;
+&lt;li&gt;Expression is no longer restraint, it can represent almost anything thought to mind: the atmosphere, the mod, interest to display the strange and macabre&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr /&gt;
-&lt;h2 id=&quot;what-of-the-baroque-era-contributes-to-the-classical-music-sound&quot; tabindex=&quot;-1&quot;&gt;What of the Baroque Era contributes to the Classical Music sound?&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Romantic%20Era/#what-of-the-baroque-era-contributes-to-the-classical-music-sound&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Let&#39;s start off with some popular Baroque pieces people think about that are referred to as &amp;quot;Classical Music&amp;quot;:&lt;/strong&gt;
-will add more text later, just making notes for myself now&lt;/p&gt;
+&lt;h3 id=&quot;lets-apply-the-above-traits-into-music&quot; tabindex=&quot;-1&quot;&gt;Let&#39;s apply the above traits into music&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Romantic%20Era/#lets-apply-the-above-traits-into-music&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Below are some popular Romantic pieces to provide our examples:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;-Tchaik Nutcraker
 -Chopin Nocturne No 9&lt;/p&gt;
 &lt;p&gt;https://youtu.be/tV5U8kVYS88&lt;/p&gt;
@@ -483,15 +656,6 @@ will add more text later, just making notes for myself now&lt;/p&gt;
 ???&lt;/li&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>Present Day</title>
-		<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/Now%20idk/"/>
-		<updated>2022-03-22T14:42:31Z</updated>
-		<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/Now%20idk/</id>
-		<content type="html">&lt;h2 id=&quot;overview&quot; tabindex=&quot;-1&quot;&gt;Overview&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Now%20idk/#overview&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
 </content>
 	</entry>
 </feed>

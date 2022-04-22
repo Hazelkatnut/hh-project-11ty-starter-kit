@@ -9,7 +9,8 @@ The Classical Era in music fell in sync with the Age of Enlightenment, where pur
 Following the 18th century artistic movement known as Classicism, the Arts tried to revive and emulate the culture, art, and literature of Classical Antiquity of Ancient Greece. This is characterized by order and hierarchy, simplicity, proportion,perfection, restrained emotion, and intellectual appeal.
 
 It is quite common to see in certain European cities today where certain buildings were trying to mimic the perfect symmetry and proportion of Ancient Classcism in Ancient Greece.
-![] (https://troyelizaga.files.wordpress.com/2016/01/picture1.jpg?w=584)
+
+![](https://www.mayfairgallery.com/media/wysiwyg/Main-_The_Madeleine__Paris__France__ca._1890-1900.jpg)
 
 Such politics Ancient Greeck Classicism were also a common topic among philosophers and intellectuals. As could be reflected in the royalty as well, there were the Absolute monarchs who pracitced their leadership based on the principles of the Enlightened; they were entrusted on the power to rule on the basis of the social contract. One influential aboslutist monarch in music was Holy Roman Emperor Joseph II, who's home was in the music capital: Vienna, of which many musicians would be attracted to the city due to its rich musical community of patrons and musicians alike.
 
@@ -54,38 +55,37 @@ The Enlightenment Era also affected the artistic world in terms of its tastes an
 
 {% youtubebox "https://youtu.be/CdW6R1mkBUI" %}
 J. Stamitz - Symphony in F, Op. 4, No. 1 (0:00-3:16)
-    - The father of the Mannheim orchestra; a school of performance that highlighted the crescendos and diminuendos in the entire orchestra and required every player to be disciplined and skilled instrumentalists, just like the logic and order required of Classicism's characteristics.
-    - This orchestra is organized similarly to how we would listen to a modern day orchestra, although emphasis is still placed on the strings.
-    - A preliminary version of Sonata Form; it is symetrical that the first and last sections mimics the other
-    - easy to remember melody
-    - Harmony is mostly based around the tonic and dominant chords throghout the piece, not much harmonic exploration. 
-    {% endyoutubebox %} 
+- The father of the Mannheim orchestra; a school of performance that highlighted the crescendos and diminuendos in the entire orchestra and required every player to be disciplined and skilled instrumentalists, just like the logic and order required of Classicism's characteristics.
+- This orchestra is organized similarly to how we would listen to a modern day orchestra, although emphasis is still placed on the strings.
+- A preliminary version of Sonata Form; it is symetrical that the first and last sections mimics the other
+- easy to remember melody
+- Harmony is mostly based around the tonic and dominant chords throghout the piece, not much harmonic exploration. 
+{% endyoutubebox %} 
 
 {% youtubebox "https://youtu.be/hb5MSJcBb9o" %}
 J. Haydn Trumpet Concerto in E-flat major Hob. VIIe/1 
-    - _For all of you "Squid Game" fans out there_
-    - Due to better instrument technology, the brass instruments were starting to also have as solo instruments in chamber music and concertos (orchestra accompnying a soloist). 
-    - This was inspired by a dance form - the rondo, where the first section keeps returning with various other musical material in between those repeititons.
-    - Dynamic control of the trumpet was also better improved in its construction so it allowed for more dynamic changes (especially on the quieter side).
-    - It also sounds very grand and welcoming, like a grand entrance (similar to the function of an announcement on Squid Game), contributing to its elegant style of Classcism. 
-    {% endyoutubebox %} 
+- _For all of you "Squid Game" fans out there_
+- Due to better instrument technology, the brass instruments were starting to also have as solo instruments in chamber music and concertos (orchestra accompnying a soloist). 
+- This was inspired by a dance form - the rondo, where the first section keeps returning with various other musical material in between those repeititons.
+- Dynamic control of the trumpet was also better improved in its construction so it allowed for more dynamic changes (especially on the quieter side).
+- It also sounds very grand and welcoming, like a grand entrance (similar to the function of an announcement on Squid Game), contributing to its elegant style of Classcism. 
+{% endyoutubebox %} 
 
 {% youtubebox "https://youtu.be/QZWKUszkbXU" %}
 W.A. Mozart Serenade No. 13 for Strings "Eine Kleine Nachtmusik" K. 525
-    - The sonata allegro form 
-    - Sounds extremely elegant, possibly written for public entertainment 
-    - The second movement (at 5:54) is a slow movement, a common section to contrast and mirror the quick sections before and after the slow movements. It is also another exercise of balance between lyricism and restraint of emotion. 
-    - The homophonic texture is quite evident even though it is for a string ensemble - the melody is usually played in the 1st violins while the rest provides accompaniment. 
-    - The accents are quite important in order to establish the rhythm, whether to reflect a dance rhythm or a stately rhythm for the piece overall.
-
+- The sonata allegro form 
+- Sounds extremely elegant, possibly written for public entertainment 
+- The second movement (at 5:54) is a slow movement, a common section to contrast and mirror the quick sections before and after the slow movements. It is also another exercise of balance between lyricism and restraint of emotion. 
+- The homophonic texture is quite evident even though it is for a string ensemble - the melody is usually played in the 1st violins while the rest provides accompaniment. 
+- The accents are quite important in order to establish the rhythm, whether to reflect a dance rhythm or a stately rhythm for the piece overall.
 {% endyoutubebox %} 
 
 {% youtubebox "https://youtu.be/91MTUXla-lE" %} 
 Beethoven Piano Sonata in C minor, op. 13 "Pathetique"
-    - A common genre at the time was the piano sonatas, which were key in bringing out this new keyboard instrument to a level of stardom of its own. It has difficult piano techniques which make it essential that the instrumentalist needed to be able to rehearse and practice this on their own prior to performance
-    - There is a slow introduction prior to its symmetrical Sonata Form, it achieves its own balance of lyricism and restraint. 
-    - Harmonically, as Beethoven was experimenting with music in different ways than his Classical era predecessors, decides to establish the tonic key by exploring other degrees of the tonal harmony scale. But, in keeping with symmetry, they are harmonically symetrical in the exposition and recapitulation. 
-    - Melodically, the motif repeats throughout, which provides a tuneful idea to it, and is a tool to balance the phrases and cadences 
+- A common genre at the time was the piano sonatas, which were key in bringing out this new keyboard instrument to a level of stardom of its own. It has difficult piano techniques which make it essential that the instrumentalist needed to be able to rehearse and practice this on their own prior to performance
+- There is a slow introduction prior to its symmetrical Sonata Form, it achieves its own balance of lyricism and restraint. 
+- Harmonically, as Beethoven was experimenting with music in different ways than his Classical era predecessors, decides to establish the tonic key by exploring other degrees of the tonal harmony scale. But, in keeping with symmetry, they are harmonically symetrical in the exposition and recapitulation. 
+- Melodically, the motif repeats throughout, which provides a tuneful idea to it, and is a tool to balance the phrases and cadences 
 {% endyoutubebox %} 
 
 Listeners would probably associate music from the Classical era as "elegant" and "light" due to the balance and proportion required of the musical tastes of the time. Oftentimes, the music from this era is accompanied with movie scenes of the nobility mingling or even played in high-class restaurants, which can make people attribute the music to the upper class audience. Although many pieces were dedicated to or written to these high class patrons (who would have the composers under their employment or through comission), it's main goal was to provide a sense of entertainment. Whether as background music or something for enjoyment in a concert hall to feel relaxed and mingle (common concert etiquette at the time). Indeed, these were also written in mind of many skilled musicians, such as the trumpet concerto or the piano sonata, where the music was written for a skilled performer for an upcoming concert. 
