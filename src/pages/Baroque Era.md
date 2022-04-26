@@ -22,11 +22,9 @@ _So, how do we translate those visual examples above into music?_
 
 When listening to Baroque pieces, one might pick up lots of quick notes in succesion or a few quick notes before a certain note (trills, grace notes). This is called ornamentation, which can add flare to a musical piece for the virtuoso singers and instramentalists to show off their skills or used when repeating the same sections to make each repetition seem different.
 
+https://youtu.be/1EVvB_pri6Y
 This video gives a good overview of common ornamentations to embilish the music
 
-{% youtubebox "https://youtu.be/1EVvB_pri6Y" %} 
-This video gives a good overview of common ornamentations to embilish the music
-{% endyoutubebox %} 
 
 There was growing awareness to use music to evoke emotions, or affects. Following the medical theory on humors at the time, where eating and refraining from certain foods can equilibrize the imablance of bodily humors, there was growing beleif that musical emotions were another method to counter with the imbalance of humours, or spirit vapours. Lorenzo Giacomini wrote in his _Oratoni e discorsi_ that external factors like musical affects stimulate the body to alter the state of the humors. There was even a 17th century theory called the Doctrine of Affections, stating that different musical moods could and should be used to influences the affects of the listener.
 
@@ -53,9 +51,8 @@ _Here are some musical characteristics that defined the Baroque musical sound:_
 - Instrumentation
     - the formation of the orchestra, a rather a stablized group of instruments that will eventually form what we know as the orchestra today, where they will contribute to the contrasting musical textures.
 
-    {% youtubebox "https://youtu.be/teh22szdnRQ" %} 
+https://youtu.be/teh22szdnRQ
     Here's an example. You can skip the "monophony" section (0:15-1:30) since it is not very relevant to this discussion
-    {% endyoutubebox %} 
 
 - Basso Continuo
     - an instrument or small ensemble that provide the harmonic founcation for the melody. This is usually the harpsichord in the background.
@@ -66,8 +63,8 @@ _Here are some musical characteristics that defined the Baroque musical sound:_
 
 **Below are some popular Baroque pieces to provide our examples:**
 
-{% youtubebox "https://www.youtube.com/watch?v=3LiztfE1X7E" %} 
 A. Vivaldi: Concerto No. 1 in E major, Op. 8, RV 269, "Spring" (La primavera) from _The Four Seasons (Le quattro stagioni)_
+https://www.youtube.com/watch?v=3LiztfE1X7E
 
 - basso continuo on harpsichord
 - swelling on the strings; no vibrato (rapid pitch changing while sustaining on that note)
@@ -75,31 +72,24 @@ A. Vivaldi: Concerto No. 1 in E major, Op. 8, RV 269, "Spring" (La primavera) fr
 - Word painting - this was a new technique to show affects - a story/image setting that accompanies the music so the audience can follow the poem with what the music was expression: bird chirps (0:30), the river (1:15), the storm (1:49), people dancing in the field (6:27) 
 - This ensemble used Baroque tuning (~415hz), which sounds flater than the pitches we are used to. Today, we would tune our instruments to A=440-42hz
 
-{% endyoutubebox %} 
-
-{% youtubebox "https://youtu.be/RZHC7JBNhRk" %} 
 D. Scarlatti: Keyboard Sonata in E major, K.380
+https://youtu.be/RZHC7JBNhRk
 
 - Idiomatic writing on the harpsichord - showing off the harpsichordist's skills
 - Lots of ornamentation, room for the soloist to show off their improvisation skills on repetitive portions
 - terraced dynamics - due to instrument technicalities, the way to create "loud" and "soft" dynamics was to change the pitch (the same notes but more to the left for softer or right louder) and adding octaves to create more "voices" 
 
-{% endyoutubebox %} 
-
-{% youtubebox "https://youtu.be/5WVKyxFOCkY" %} 
 G.F. Handel: Rejoice Greatly from _Messiah_ (HWV 56)
+https://youtu.be/5WVKyxFOCkY 
+
 - Melisma - style of virtuosic singing by holding a syllable over a series of notes (in this example, Handel purposely put the melismas on the word "rejoice" to emphasize this word in 0:20-22 and 0:35-41)
 - Da Capo Aria (A-B-A form) - a musical form to show off with improvisation and ormanentation by the soloist in the repeats of the A sections (from 3:04 the repeat of this section has added ornamentation to sound different than the first by adding more notes)
 
-{% endyoutubebox %} 
-
-{% youtubebox "https://youtu.be/Nnuq9PXbywA" %} 
-J.S. Bach: Toccata and Fugue in D minor, BWV 565 
+https://youtu.be/Nnuq9PXbywA 
+J.S. Bach: Toccata and Fugue in D minor, BWV 565 (The infamous Vampire tune)
 - Counterpoint and the Fugue
 - The organ was a common instrument used in the Baroque era, especially for churches. Although, this is a secular organ piece
 - Idiomatic writing - showing off the organist's skills
-
-{% endyoutubebox %}
 
 For many listerners, the first impression can be that it sounds quite busy with so many musical voices playing simultaneously and so much embellishments in a piece of music through variation in repeteating sections or a soloist showing off their skills. This is all a part of the "ornate" characterstic of Baroque music, and can seem very majestic and grand. It is quite common in advertisements and movies to use Baroque music to accompany a sense of grandeur or an intense emotion; like Bach's Toccata and Fugue being associated with a scary Vampire lair and Vivaldi's Spring used for joyous settings like a "high tea" restaurant. 
 
