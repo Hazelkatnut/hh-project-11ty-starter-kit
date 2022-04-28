@@ -30,6 +30,7 @@ Josef Danhauser _Liszt at the Piano_
 The recital and the concert allowed a new path for independent musicians: the virtuosos, soloists who excelled at their instrument through technical prowess. Liszt and Paganini were and still famous for their virtuosic abilities and their shows. They can be seen as the equivalent of today's rockstars as they garnered many fans (Liszt especially, having lots of female fans) through their new compositions or arrangmenets that had much technical difficutly but delivered them with ease while performing tricks. Paganini once purposely broke all 3 of his strings one-by-one so he would perform the rest of the difficult music on one string. Liszt popularized the current practice of piano performance: memorizing all his music while performing and turning the piano to the side so the audience can see his face (rather than seeing the pianist's back or hidden behind the orchestra as common in the past). It was essentially a large show but very few succesful musicians were able to pull them off, and eventually these difficult technical abilities were written into modern day requirements in music performance syllabi.
 
 ![](https://media.wnyc.org/i/1280/640/c/80/1/liszt-hoseman.jpg)
+Unknown sketch of Franz Liszt's concert with his fans going crazy for him
 
 
 Programatic music was another large trend that took off from the second half of the 19th century. Inspired by the connection of various types of art working together, program music was based off the opera overture, the short piece prior to the opera to give the audience an idea of what is to happen in the plot. It allowed composers to combine their favorite works of literature to base the music from, and included a small pamphlet for the audience to understand how each part of the music relates to a part of the story/poem. Like operas in the Romantic era, it was able to convey political and moral issues, and even various folktales and fairytales, which was quite important to the rising sense of nationalism and liberalism across Europe. Richard Wagner would eventually carve out a new genre, _Gesamkuntswerk_ in attempt to combine everything as one piece of cohesive artwork: drama, music, set design, plot, rather than regarding the music as seperable from the drama where it was common for plots to be nonsensical and mainly pay attention to only the music.
@@ -62,16 +63,18 @@ Programatic music was another large trend that took off from the second half of 
 
 **Below are some popular Romantic pieces to provide our examples:**
 
-N. Paganini: Caprice No. 24 in A minor
 https://youtu.be/eOjO4ekcJQA
+
+N. Paganini: Caprice No. 24 in A minor
 
 - This is a modern example of what violin virtuoso Paganini might actually do when he gave his flashy performances: playing impressive technical things on his instrument while also doing other wild things (although I doubt hula hoops were invented in his time). 
 - Paganini was also trying out new techniques with the violin, including holding it in the position that is common for modern violin playing today.
 - This was in a free flowing form -> it was a theme with various variations that tackle a different technical ability, but it did include various charactersitics of Romantic music such as the use of rubato in the slower variations and a more adventurous harmonic language (although did not deviate too much away from the standard Classical style of tonic and dominant emphasis).
 - This type of performance could also be common in salon playing, since it only required a solo violinist to play.
 
-H. Berlioz: Symphonie Fantastique
 https://youtu.be/5HgqPpjIH5c
+
+H. Berlioz: Symphonie Fantastique
 
 *Since this clip is so long, I would recommend listening to the 4th (39:58) and 5th (44:28) movements since those are the more exciting portions of the symphony
 - A huge orchestra with invented instruments (the octobass) for lower range notes. There is a large sonal range (from as high as piccolos to as low as tubas and the invented octobass).
@@ -81,8 +84,9 @@ https://youtu.be/5HgqPpjIH5c
 - This piece takes Romanticism to heart, of using the personal desires and hauntings as inspiration for the entire program (story). It starts with yearning and passion to meet his beloved (movement 1), then partcipating in a ball reminiscent of the Classical ideals of balance and symmetry with its form and style (movement 2), then loneliness that surrounds the composer's emotions (movement 3), killing his beloved and knowingly heading towards his death penalty (movement 4), and finally facing Hell where he sees Witches holding a sabbath in his funeral (movement 5).
 - The main importance to this piece was the idée fixe, French for "fixed idea", which can be explained like a recurring motive played througout each movement as a method to show how his desire seeps througout each movement, whether it was a passionate movement, the movement where Berlioz dreamt of killing his crush, or tied up by witches in the final movement to face his wrongdoings. 
 
-F. Chopin: Fantaisie Impromptu in C-Sharp minor Op. 66
 https://youtu.be/Gy5UHK4EeM8
+
+F. Chopin: Fantaisie Impromptu in C-Sharp minor Op. 66
 
 - Much chromaticism in the melody and harmony, seemingly never-ending
 - Impromptu itself already gives a hint to say that it is meant to be free flowing and spontaneous (though there is still some structure given to this form)
@@ -90,8 +94,9 @@ https://youtu.be/Gy5UHK4EeM8
 - A rhthymic challenge for the player is cross-rhythm - meaning they have to balance two different complicated rhythm patterns on each hand in order to give it a specific rhythmic drive
 - It is also free flowing in the way that the melody seems like a improvisation - it keeps going, uses trills and fast 16th notes and rubato to make it feel like the melody is spontaneous.
 
-G. Verdi: Va, pensiero (Chorus of the Hebrew Slaves) from _Nabucco_
 https://youtu.be/XttF0vg0MGo?t=13
+
+G. Verdi: Va, pensiero (Chorus of the Hebrew Slaves) from _Nabucco_
 
 - Verdi was seen as Italy's nationalist composer -> although througout his life he had his ups and downs with this label, but his operas were a way for the Italian government to reunite all the Italian states to became one large country: Italy, in the mid 1800s.
 - Although based on a biblical work, it was given focus to the Jewish population, a minority population in Europe, which was often done in a poor light in the Arts. This message was a means of hoping to reunite and face the challenges of building everyone into a single nation.

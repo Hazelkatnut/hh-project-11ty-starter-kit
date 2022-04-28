@@ -12,6 +12,95 @@
 	</author>
 	
 	<entry>
+		<title>Style Demo</title>
+		<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/"/>
+		<updated>2022-03-11T19:41:53Z</updated>
+		<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/</id>
+		<content type="html">&lt;blockquote&gt;
+&lt;p&gt;Credit for the kitchen sink elements to the &lt;a href=&quot;https://github.com/pmarsceill/just-the-docs&quot;&gt;&amp;quot;Just the Docs&amp;quot;&lt;/a&gt; project by &lt;a href=&quot;https://github.com/pmarsceill&quot;&gt;pmarsceill&lt;/a&gt;, and to the original author of the starterkit.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;introduction&quot; tabindex=&quot;-1&quot;&gt;Introduction&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#introduction&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Most of your time on this project will be spent writing in markdown. This page lives here as a reminder of how to write in markdown. Please note that I&#39;ve appended a brief discussion of how to use footnotes here.&lt;/p&gt;
+&lt;h1 id=&quot;header-1&quot; tabindex=&quot;-1&quot;&gt;Header 1&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#header-1&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.&lt;/p&gt;
+&lt;p&gt;Text can be &lt;strong&gt;bold&lt;/strong&gt;, &lt;em&gt;italic&lt;/em&gt;, or &lt;s&gt;strikethrough&lt;/s&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://hackinghistory.github.io/about&quot;&gt;Link to another page&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;header-2&quot; tabindex=&quot;-1&quot;&gt;Header 2&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#header-2&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a blockquote following a header.&lt;/p&gt;
+&lt;p&gt;When something is important enough, you do it even if the odds are not in your favor.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;header-3&quot; tabindex=&quot;-1&quot;&gt;Header 3&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#header-3&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// Javascript code with syntax highlighting.&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;fun&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;lang&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;l&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;br /&gt;  dateformat&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;i18n &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;./lang/&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; l&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;br /&gt;  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token boolean&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&quot;language-ruby&quot;&gt;&lt;code class=&quot;language-ruby&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;# Ruby code with syntax highlighting&lt;/span&gt;&lt;br /&gt;GitHubPages&lt;span class=&quot;token double-colon punctuation&quot;&gt;::&lt;/span&gt;Dependencies&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;gems&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;each&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;do&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;|&lt;/span&gt;gem&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; version&lt;span class=&quot;token operator&quot;&gt;|&lt;/span&gt;&lt;br /&gt;  s&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;add_dependency&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;gem&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string-literal&quot;&gt;&lt;span class=&quot;token string&quot;&gt;&quot;= &lt;/span&gt;&lt;span class=&quot;token interpolation&quot;&gt;&lt;span class=&quot;token delimiter punctuation&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;version&lt;/span&gt;&lt;span class=&quot;token delimiter punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token keyword&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4&gt;Header 4&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;This is an unordered list following a header.&lt;/li&gt;
+&lt;li&gt;This is an unordered list following a header.&lt;/li&gt;
+&lt;li&gt;This is an unordered list following a header.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;Header 5&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;This is an ordered list following a header.&lt;/li&gt;
+&lt;li&gt;This is an ordered list following a header.&lt;/li&gt;
+&lt;li&gt;This is an ordered list following a header.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&quot;theres-a-horizontal-rule-below-this&quot; tabindex=&quot;-1&quot;&gt;There&#39;s a horizontal rule below this.&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#theres-a-horizontal-rule-below-this&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;here-is-an-unordered-list&quot; tabindex=&quot;-1&quot;&gt;Here is an unordered list:&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#here-is-an-unordered-list&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Item foo&lt;/li&gt;
+&lt;li&gt;Item bar&lt;/li&gt;
+&lt;li&gt;Item baz&lt;/li&gt;
+&lt;li&gt;Item zip&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;and-an-ordered-list&quot; tabindex=&quot;-1&quot;&gt;And an ordered list:&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#and-an-ordered-list&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Item one&lt;/li&gt;
+&lt;li&gt;Item two&lt;/li&gt;
+&lt;li&gt;Item three&lt;/li&gt;
+&lt;li&gt;Item four&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&quot;and-a-nested-list&quot; tabindex=&quot;-1&quot;&gt;And a nested list:&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#and-a-nested-list&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;level 1 item
+&lt;ul&gt;
+&lt;li&gt;level 2 item&lt;/li&gt;
+&lt;li&gt;level 2 item
+&lt;ul&gt;
+&lt;li&gt;level 3 item&lt;/li&gt;
+&lt;li&gt;level 3 item&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;level 1 item
+&lt;ul&gt;
+&lt;li&gt;level 2 item&lt;/li&gt;
+&lt;li&gt;level 2 item&lt;/li&gt;
+&lt;li&gt;level 2 item&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;level 1 item
+&lt;ul&gt;
+&lt;li&gt;level 2 item&lt;/li&gt;
+&lt;li&gt;level 2 item&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;level 1 item&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;small-image&quot; tabindex=&quot;-1&quot;&gt;Small Image&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#small-image&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://picsum.photos/200&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;large-image&quot; tabindex=&quot;-1&quot;&gt;Large image&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#large-image&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://picsum.photos/800/300&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;footnotes&quot; tabindex=&quot;-1&quot;&gt;Footnotes&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#footnotes&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;We use a &lt;a href=&quot;https://github.com/markdown-it/markdown-it-footnote&quot;&gt;plugin&lt;/a&gt; for rendering simple footnotes. It&#39;s not ideal but at lest youu can insert references here, which I find somewhat straightforward to do &lt;a href=&quot;https://forums.zotero.org/discussion/93521/available-for-beta-testing-markdown-export-of-notes&quot;&gt;using the technique described here&lt;/a&gt;. Howver, it could be painful or at least awkward if you&#39;re using html format instead.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
 		<title>Baroque Era (~1600-1750)</title>
 		<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/Baroque%20Era/"/>
 		<updated>2022-03-22T13:51:32Z</updated>
@@ -30,8 +119,8 @@ This can be seen with the use of cartouches and stucco in architecture (see the 
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;em&gt;So, how do we translate those visual examples above into music?&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;When listening to Baroque pieces, one might pick up lots of quick notes in succesion or a few quick notes before a certain note (trills, grace notes). This is called ornamentation, which can add flare to a musical piece for the virtuoso singers and instramentalists to show off their skills or used when repeating the same sections to make each repetition seem different.&lt;/p&gt;
-&lt;p&gt;https://youtu.be/1EVvB_pri6Y
-This video gives a good overview of common ornamentations to embilish the music&lt;/p&gt;
+&lt;p&gt;https://youtu.be/1EVvB_pri6Y&lt;/p&gt;
+&lt;p&gt;This video gives a good overview of common ornamentations to embilish the music&lt;/p&gt;
 &lt;p&gt;There was growing awareness to use music to evoke emotions, or affects. Following the medical theory on humors at the time, where eating and refraining from certain foods can equilibrize the imablance of bodily humors, there was growing beleif that musical emotions were another method to counter with the imbalance of humours, or spirit vapours. Lorenzo Giacomini wrote in his &lt;em&gt;Oratoni e discorsi&lt;/em&gt; that external factors like musical affects stimulate the body to alter the state of the humors. There was even a 17th century theory called the Doctrine of Affections, stating that different musical moods could and should be used to influences the affects of the listener.&lt;/p&gt;
 &lt;p&gt;In Baroque music, many pieces have distinctive movements, sections, or dances in a collection (called a suite). Each distinct section presents a well-defined emotional charactersitic. Though this structure of distinct sections was carried over by the past centuries, these pre-Baroque musical sections were church music used to accompany different parts of the service; not to evoke a certain emotion.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Here are some musical characteristics that defined the Baroque musical sound:&lt;/em&gt;&lt;/p&gt;
@@ -94,8 +183,8 @@ Here&#39;s an example. You can skip the &amp;quot;monophony&amp;quot; section (0
 &lt;hr /&gt;
 &lt;h3 id=&quot;lets-apply-the-above-traits-into-music&quot; tabindex=&quot;-1&quot;&gt;Let&#39;s apply the above traits into music&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Baroque%20Era/#lets-apply-the-above-traits-into-music&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Below are some popular Baroque pieces to provide our examples:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A. Vivaldi: Concerto No. 1 in E major, Op. 8, RV 269, &amp;quot;Spring&amp;quot; (La primavera) from &lt;em&gt;The Four Seasons (Le quattro stagioni)&lt;/em&gt;
-https://www.youtube.com/watch?v=3LiztfE1X7E&lt;/p&gt;
+&lt;p&gt;https://www.youtube.com/watch?v=3LiztfE1X7E&lt;/p&gt;
+&lt;p&gt;A. Vivaldi: Concerto No. 1 in E major, Op. 8, RV 269, &amp;quot;Spring&amp;quot; (La primavera) from &lt;em&gt;The Four Seasons (Le quattro stagioni)&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;basso continuo on harpsichord&lt;/li&gt;
 &lt;li&gt;swelling on the strings; no vibrato (rapid pitch changing while sustaining on that note)&lt;/li&gt;
@@ -103,21 +192,21 @@ https://www.youtube.com/watch?v=3LiztfE1X7E&lt;/p&gt;
 &lt;li&gt;Word painting - this was a new technique to show affects - a story/image setting that accompanies the music so the audience can follow the poem with what the music was expression: bird chirps (0:30), the river (1:15), the storm (1:49), people dancing in the field (6:27)&lt;/li&gt;
 &lt;li&gt;This ensemble used Baroque tuning (~415hz), which sounds flater than the pitches we are used to. Today, we would tune our instruments to A=440-42hz&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;D. Scarlatti: Keyboard Sonata in E major, K.380
-https://youtu.be/RZHC7JBNhRk&lt;/p&gt;
+&lt;p&gt;https://youtu.be/RZHC7JBNhRk&lt;/p&gt;
+&lt;p&gt;D. Scarlatti: Keyboard Sonata in E major, K.380&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Idiomatic writing on the harpsichord - showing off the harpsichordist&#39;s skills&lt;/li&gt;
 &lt;li&gt;Lots of ornamentation, room for the soloist to show off their improvisation skills on repetitive portions&lt;/li&gt;
 &lt;li&gt;terraced dynamics - due to instrument technicalities, the way to create &amp;quot;loud&amp;quot; and &amp;quot;soft&amp;quot; dynamics was to change the pitch (the same notes but more to the left for softer or right louder) and adding octaves to create more &amp;quot;voices&amp;quot;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;G.F. Handel: Rejoice Greatly from &lt;em&gt;Messiah&lt;/em&gt; (HWV 56)
-https://youtu.be/5WVKyxFOCkY&lt;/p&gt;
+&lt;p&gt;https://youtu.be/5WVKyxFOCkY&lt;/p&gt;
+&lt;p&gt;G.F. Handel: Rejoice Greatly from &lt;em&gt;Messiah&lt;/em&gt; (HWV 56)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Melisma - style of virtuosic singing by holding a syllable over a series of notes (in this example, Handel purposely put the melismas on the word &amp;quot;rejoice&amp;quot; to emphasize this word in 0:20-22 and 0:35-41)&lt;/li&gt;
 &lt;li&gt;Da Capo Aria (A-B-A form) - a musical form to show off with improvisation and ormanentation by the soloist in the repeats of the A sections (from 3:04 the repeat of this section has added ornamentation to sound different than the first by adding more notes)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;https://youtu.be/Nnuq9PXbywA
-J.S. Bach: Toccata and Fugue in D minor, BWV 565 (The infamous Vampire tune)&lt;/p&gt;
+&lt;p&gt;https://youtu.be/Nnuq9PXbywA&lt;/p&gt;
+&lt;p&gt;J.S. Bach: Toccata and Fugue in D minor, BWV 565 (The infamous Vampire tune)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Counterpoint and the Fugue&lt;/li&gt;
 &lt;li&gt;The organ was a common instrument used in the Baroque era, especially for churches. Although, this is a secular organ piece&lt;/li&gt;
@@ -158,12 +247,12 @@ J.S. Bach: Toccata and Fugue in D minor, BWV 565 (The infamous Vampire tune)&lt;
 &lt;li&gt;The tonal system expanded to further develop the tonic-dominant relationship (the first and fifth degree notes in a tonal harmony scale)
 &lt;ul&gt;
 &lt;li&gt;Simply, in the tonal system, there are 24 main scales, 12 major and 12 minor. Each scale has 8 degrees which create an &amp;quot;octave&amp;quot;.&lt;/li&gt;
-&lt;li&gt;Ex. Using the C major scale, we have C-D-E-F-G-A-B-C. In this case, our C is the first degree (tonic/I; number 1 in roman numerals) and our G is the fifrth degree (dominant/V; number 5 in roman numerals). The relationship between these two notes are emphasized in order to establish the harmony and has become common practice to use them in Classical era pieces.
-https://youtu.be/D2ltRa2BosE
-Here&#39;s a video explanation that explains chord progressions to give a better sense of how the scale in a tonal system works&lt;/li&gt;
+&lt;li&gt;Ex. Using the C major scale, we have C-D-E-F-G-A-B-C. In this case, our C is the first degree (tonic/I; number 1 in roman numerals) and our G is the fifrth degree (dominant/V; number 5 in roman numerals). The relationship between these two notes are emphasized in order to establish the harmony and has become common practice to use them in Classical era pieces.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;https://youtu.be/D2ltRa2BosE&lt;/p&gt;
+&lt;p&gt;Here&#39;s a video explanation that explains chord progressions to give a better sense of how the scale in a tonal system works&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Rhythm&lt;/p&gt;
@@ -193,17 +282,17 @@ Here&#39;s a video explanation that explains chord progressions to give a better
 &lt;p&gt;Musical Form&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The Sonata Form comes into development (development attributed especially at the &amp;quot;Father of the String Quartet and Symphony&amp;quot;: Joseph Haydn).&lt;/li&gt;
-&lt;li&gt;With the artistic movement that calls for balance and proportion, the Sonata Form does exactly that. It is a 3-part musical form that can organize music, which was developed from the ternary form used commonly in Baroque pieces (such as the Da Capo Aria): Exposition (section A) -Development (Section B)-Recapituation (Section A repeated again, but different).
-https://youtu.be/2G6xMcUUbEA
-Here&#39;s a video explanation that explains the sonata form using musical examples&lt;/li&gt;
+&lt;li&gt;With the artistic movement that calls for balance and proportion, the Sonata Form does exactly that. It is a 3-part musical form that can organize music, which was developed from the ternary form used commonly in Baroque pieces (such as the Da Capo Aria): Exposition (section A) -Development (Section B)-Recapituation (Section A repeated again, but different).&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;https://youtu.be/2G6xMcUUbEA&lt;/p&gt;
+&lt;p&gt;Here&#39;s a video explanation that explains the sonata form using musical examples&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr /&gt;
 &lt;h3 id=&quot;lets-apply-the-above-traits-into-music&quot; tabindex=&quot;-1&quot;&gt;Let&#39;s apply the above traits into music&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Classical%20Era/#lets-apply-the-above-traits-into-music&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Below are some popular Classical pieces to provide our examples:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;J. Stamitz: Symphony in F, Op. 4, No. 1 (0:00-3:16)
-https://youtu.be/CdW6R1mkBUI&lt;/p&gt;
+&lt;p&gt;https://youtu.be/CdW6R1mkBUI&lt;/p&gt;
+&lt;p&gt;J. Stamitz: Symphony in F, Op. 4, No. 1 (0:00-3:16)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The father of the Mannheim orchestra; a school of performance that highlighted the crescendos and diminuendos in the entire orchestra and required every player to be disciplined and skilled instrumentalists, just like the logic and order required of Classicism&#39;s characteristics.&lt;/li&gt;
 &lt;li&gt;This orchestra is organized similarly to how we would listen to a modern day orchestra, although emphasis is still placed on the strings.&lt;/li&gt;
@@ -211,8 +300,8 @@ https://youtu.be/CdW6R1mkBUI&lt;/p&gt;
 &lt;li&gt;easy to remember melody&lt;/li&gt;
 &lt;li&gt;Harmony is mostly based around the tonic and dominant chords throghout the piece, not much harmonic exploration.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;J. Haydn: Trumpet Concerto in E-flat major Hob. VIIe/1
-https://youtu.be/hb5MSJcBb9o&lt;/p&gt;
+&lt;p&gt;https://youtu.be/hb5MSJcBb9o&lt;/p&gt;
+&lt;p&gt;J. Haydn: Trumpet Concerto in E-flat major Hob. VIIe/1&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;For all of you &amp;quot;Squid Game&amp;quot; fans out there&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;Due to better instrument technology, the brass instruments were starting to also have as solo instruments in chamber music and concertos (orchestra accompnying a soloist).&lt;/li&gt;
@@ -220,8 +309,8 @@ https://youtu.be/hb5MSJcBb9o&lt;/p&gt;
 &lt;li&gt;Dynamic control of the trumpet was also better improved in its construction so it allowed for more dynamic changes (especially on the quieter side).&lt;/li&gt;
 &lt;li&gt;It also sounds very grand and welcoming, like a grand entrance (similar to the function of an announcement on Squid Game), contributing to its elegant style of Classcism.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;W.A. Mozart: Serenade No. 13 for Strings &amp;quot;Eine Kleine Nachtmusik&amp;quot; K. 525
-https://youtu.be/QZWKUszkbXU&lt;/p&gt;
+&lt;p&gt;https://youtu.be/QZWKUszkbXU&lt;/p&gt;
+&lt;p&gt;W.A. Mozart: Serenade No. 13 for Strings &amp;quot;Eine Kleine Nachtmusik&amp;quot; K. 525&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The sonata allegro form&lt;/li&gt;
 &lt;li&gt;Sounds extremely elegant, possibly written for public entertainment&lt;/li&gt;
@@ -229,8 +318,8 @@ https://youtu.be/QZWKUszkbXU&lt;/p&gt;
 &lt;li&gt;The homophonic texture is quite evident even though it is for a string ensemble - the melody is usually played in the 1st violins while the rest provides accompaniment.&lt;/li&gt;
 &lt;li&gt;The accents are quite important in order to establish the rhythm, whether to reflect a dance rhythm or a stately rhythm for the piece overall.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;L.v. Beethoven: Piano Sonata in C minor, op. 13 &amp;quot;Pathetique&amp;quot;
-https://youtu.be/91MTUXla-lE&lt;/p&gt;
+&lt;p&gt;https://youtu.be/91MTUXla-lE&lt;/p&gt;
+&lt;p&gt;L.v. Beethoven: Piano Sonata in C minor, op. 13 &amp;quot;Pathetique&amp;quot;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;A common genre at the time was the piano sonatas, which were key in bringing out this new keyboard instrument to a level of stardom of its own. It has difficult piano techniques which make it essential that the instrumentalist needed to be able to rehearse and practice this on their own prior to performance&lt;/li&gt;
 &lt;li&gt;There is a slow introduction prior to its symmetrical Sonata Form, it achieves its own balance of lyricism and restraint.&lt;/li&gt;
@@ -263,7 +352,8 @@ Eugène Delacroix &lt;em&gt;Liberty Leading the People&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/e/e0/Josef_Danhauser_Liszt_am_Fl%C3%BCgel_1840_01.jpg&quot; alt=&quot;&quot; /&gt;
 Josef Danhauser &lt;em&gt;Liszt at the Piano&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;The recital and the concert allowed a new path for independent musicians: the virtuosos, soloists who excelled at their instrument through technical prowess. Liszt and Paganini were and still famous for their virtuosic abilities and their shows. They can be seen as the equivalent of today&#39;s rockstars as they garnered many fans (Liszt especially, having lots of female fans) through their new compositions or arrangmenets that had much technical difficutly but delivered them with ease while performing tricks. Paganini once purposely broke all 3 of his strings one-by-one so he would perform the rest of the difficult music on one string. Liszt popularized the current practice of piano performance: memorizing all his music while performing and turning the piano to the side so the audience can see his face (rather than seeing the pianist&#39;s back or hidden behind the orchestra as common in the past). It was essentially a large show but very few succesful musicians were able to pull them off, and eventually these difficult technical abilities were written into modern day requirements in music performance syllabi.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://media.wnyc.org/i/1280/640/c/80/1/liszt-hoseman.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://media.wnyc.org/i/1280/640/c/80/1/liszt-hoseman.jpg&quot; alt=&quot;&quot; /&gt;
+Unknown sketch of Franz Liszt&#39;s concert with his fans going crazy for him&lt;/p&gt;
 &lt;p&gt;Programatic music was another large trend that took off from the second half of the 19th century. Inspired by the connection of various types of art working together, program music was based off the opera overture, the short piece prior to the opera to give the audience an idea of what is to happen in the plot. It allowed composers to combine their favorite works of literature to base the music from, and included a small pamphlet for the audience to understand how each part of the music relates to a part of the story/poem. Like operas in the Romantic era, it was able to convey political and moral issues, and even various folktales and fairytales, which was quite important to the rising sense of nationalism and liberalism across Europe. Richard Wagner would eventually carve out a new genre, &lt;em&gt;Gesamkuntswerk&lt;/em&gt; in attempt to combine everything as one piece of cohesive artwork: drama, music, set design, plot, rather than regarding the music as seperable from the drama where it was common for plots to be nonsensical and mainly pay attention to only the music.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Melody
@@ -316,16 +406,16 @@ Josef Danhauser &lt;em&gt;Liszt at the Piano&lt;/em&gt;&lt;/p&gt;
 &lt;hr /&gt;
 &lt;h3 id=&quot;lets-apply-the-above-traits-into-music&quot; tabindex=&quot;-1&quot;&gt;Let&#39;s apply the above traits into music&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Romantic%20Era/#lets-apply-the-above-traits-into-music&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Below are some popular Romantic pieces to provide our examples:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;N. Paganini: Caprice No. 24 in A minor
-https://youtu.be/eOjO4ekcJQA&lt;/p&gt;
+&lt;p&gt;https://youtu.be/eOjO4ekcJQA&lt;/p&gt;
+&lt;p&gt;N. Paganini: Caprice No. 24 in A minor&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;This is a modern example of what violin virtuoso Paganini might actually do when he gave his flashy performances: playing impressive technical things on his instrument while also doing other wild things (although I doubt hula hoops were invented in his time).&lt;/li&gt;
 &lt;li&gt;Paganini was also trying out new techniques with the violin, including holding it in the position that is common for modern violin playing today.&lt;/li&gt;
 &lt;li&gt;This was in a free flowing form -&amp;gt; it was a theme with various variations that tackle a different technical ability, but it did include various charactersitics of Romantic music such as the use of rubato in the slower variations and a more adventurous harmonic language (although did not deviate too much away from the standard Classical style of tonic and dominant emphasis).&lt;/li&gt;
 &lt;li&gt;This type of performance could also be common in salon playing, since it only required a solo violinist to play.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;H. Berlioz: Symphonie Fantastique
-https://youtu.be/5HgqPpjIH5c&lt;/p&gt;
+&lt;p&gt;https://youtu.be/5HgqPpjIH5c&lt;/p&gt;
+&lt;p&gt;H. Berlioz: Symphonie Fantastique&lt;/p&gt;
 &lt;p&gt;*Since this clip is so long, I would recommend listening to the 4th (39:58) and 5th (44:28) movements since those are the more exciting portions of the symphony&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;A huge orchestra with invented instruments (the octobass) for lower range notes. There is a large sonal range (from as high as piccolos to as low as tubas and the invented octobass).&lt;/li&gt;
@@ -335,8 +425,8 @@ https://youtu.be/5HgqPpjIH5c&lt;/p&gt;
 &lt;li&gt;This piece takes Romanticism to heart, of using the personal desires and hauntings as inspiration for the entire program (story). It starts with yearning and passion to meet his beloved (movement 1), then partcipating in a ball reminiscent of the Classical ideals of balance and symmetry with its form and style (movement 2), then loneliness that surrounds the composer&#39;s emotions (movement 3), killing his beloved and knowingly heading towards his death penalty (movement 4), and finally facing Hell where he sees Witches holding a sabbath in his funeral (movement 5).&lt;/li&gt;
 &lt;li&gt;The main importance to this piece was the idée fixe, French for &amp;quot;fixed idea&amp;quot;, which can be explained like a recurring motive played througout each movement as a method to show how his desire seeps througout each movement, whether it was a passionate movement, the movement where Berlioz dreamt of killing his crush, or tied up by witches in the final movement to face his wrongdoings.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;F. Chopin: Fantaisie Impromptu in C-Sharp minor Op. 66
-https://youtu.be/Gy5UHK4EeM8&lt;/p&gt;
+&lt;p&gt;https://youtu.be/Gy5UHK4EeM8&lt;/p&gt;
+&lt;p&gt;F. Chopin: Fantaisie Impromptu in C-Sharp minor Op. 66&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Much chromaticism in the melody and harmony, seemingly never-ending&lt;/li&gt;
 &lt;li&gt;Impromptu itself already gives a hint to say that it is meant to be free flowing and spontaneous (though there is still some structure given to this form)&lt;/li&gt;
@@ -344,8 +434,8 @@ https://youtu.be/Gy5UHK4EeM8&lt;/p&gt;
 &lt;li&gt;A rhthymic challenge for the player is cross-rhythm - meaning they have to balance two different complicated rhythm patterns on each hand in order to give it a specific rhythmic drive&lt;/li&gt;
 &lt;li&gt;It is also free flowing in the way that the melody seems like a improvisation - it keeps going, uses trills and fast 16th notes and rubato to make it feel like the melody is spontaneous.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;G. Verdi: Va, pensiero (Chorus of the Hebrew Slaves) from &lt;em&gt;Nabucco&lt;/em&gt;
-https://youtu.be/XttF0vg0MGo?t=13&lt;/p&gt;
+&lt;p&gt;https://youtu.be/XttF0vg0MGo?t=13&lt;/p&gt;
+&lt;p&gt;G. Verdi: Va, pensiero (Chorus of the Hebrew Slaves) from &lt;em&gt;Nabucco&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Verdi was seen as Italy&#39;s nationalist composer -&amp;gt; although througout his life he had his ups and downs with this label, but his operas were a way for the Italian government to reunite all the Italian states to became one large country: Italy, in the mid 1800s.&lt;/li&gt;
 &lt;li&gt;Although based on a biblical work, it was given focus to the Jewish population, a minority population in Europe, which was often done in a poor light in the Arts. This message was a means of hoping to reunite and face the challenges of building everyone into a single nation.&lt;/li&gt;
@@ -367,15 +457,17 @@ https://youtu.be/XttF0vg0MGo?t=13&lt;/p&gt;
 &lt;p&gt;Other than Wagner&#39;s &amp;quot;Total Art Work&amp;quot;, much of Romanticism learnt in Conservatories and Academies was rejected from modernists as they felt like it was not able to describe the realities of current life. How can you convey the truth: the expression (not just beauty or herosism, but the ugly, the Freudian subconscious), reality of what is being seen (the horrors of war, not idolizing the Revolution), how there are many perspectives in one frame or one person as they talk to you. The -isms were quickly created by artists, critics, or historians (after the movement) to describe the various movements happening. Such examples were the lush and rich harmonies, the never-ending flowing melodies, playing with more complex rhythms (polyrhythm, constant changing meters), reacting against the complexity of Western Art Music traditions by embracing more popular styles, and continously inventing new trends in music (just like in visual arts, literuatre, drama, and film).&lt;/p&gt;
 &lt;p&gt;Since there were so many trends and artist influxes that were in various artistic circles, I will highlight some trends that are considered major contributions to the history of Classical Music:&lt;/p&gt;
 &lt;p&gt;Impressionism (1890s-1930s) - Termed by critics, it was to describe the &amp;quot;in the moment&amp;quot; period that the art is trying to convey. It is not trying to portray the picture as a whole. The most difinitive example that &amp;quot;started&amp;quot; the trend was Monet&#39;s &lt;em&gt;Impression, Sunrise&lt;/em&gt;, which captured the exact moment of the light on the water, the water&#39;s movement, without excess detail on the people in the water, nor the boats and trees in the background.
-[]!(https://www.monetpaintings.org/Impression%20Sunrise%20Claude%20Monet.jpg?ezimgfmt=rs:400x327/rscb2/ng:webp/ngcb2)
-Claude Debussy and Maurice Ravel were considered impressionists, although they did not particularly like the label critics gave them. It is characterized by the use of the whole tone scale, embracing dissonance (unlike traditionally where there was a need to resolve dissonances, aka uncomfortable sounding chords) shape of the melody with notes very close together, blurry sense of rhythmic meter, wider use of the orchestra&#39;s winds and brass for added &amp;quot;colour&amp;quot;, these notes together made the music sound dreamy - like a blur, similar to the brushstrokes on Monet&#39;s painting, very &amp;quot;in the moment&amp;quot;. This style prominent in France.&lt;/p&gt;
-&lt;p&gt;https://youtu.be/lof6AHvXCPw
-Video explanation on Music Impressionism&lt;/p&gt;
+&lt;img src=&quot;https://www.monetpaintings.org/Impression%20Sunrise%20Claude%20Monet.jpg?ezimgfmt=rs:400x327/rscb2/ng:webp/ngcb2&quot; alt=&quot;&quot; /&gt;
+C. Monet: &lt;em&gt;Impression, Sunrise&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Claude Debussy and Maurice Ravel were considered impressionists, although they did not particularly like the label critics gave them. It is characterized by the use of the whole tone scale, embracing dissonance (unlike traditionally where there was a need to resolve dissonances, aka uncomfortable sounding chords) shape of the melody with notes very close together, blurry sense of rhythmic meter, wider use of the orchestra&#39;s winds and brass for added &amp;quot;colour&amp;quot;, these notes together made the music sound dreamy - like a blur, similar to the brushstrokes on Monet&#39;s painting, very &amp;quot;in the moment&amp;quot;. This style prominent in France.&lt;/p&gt;
+&lt;p&gt;https://youtu.be/lof6AHvXCPw&lt;/p&gt;
+&lt;p&gt;Video explanation on Music Impressionism&lt;/p&gt;
 &lt;p&gt;Expressionism (1900-1930s) - A Central European (mainly German) style in reaction to the fluffy, blurry French Impressionism, it seems like its complete opposite. Impressionists was all about the outer world, while Expressionists were all about the inner world, further inspired by Freudian theory of subconsciousness and desires. In visual arts, it is all about the ugly and sharp contrasting colours, murky colours, focusing on that very subject&#39;s emotional being. The most famous example would be Edvard Munch&#39;s &lt;em&gt;The Scream&lt;/em&gt;, where you can see a clearly distressed individual on the bridge with all these murky colours surroudning his body, yet there are 2 other people on the bridge who do not care about this person, and the outer frames of the image display a bright sunset. This is clearly the inner turmoils of this individual.
-[]!(https://www.theartstory.org/images20/works/expressionism_1.jpg?1)
-It is characterized by wide spaced and angular melodic lines, instruments at their most extreme registers (the highest and lowest pitches), and even the reason for atonality&#39;s appearance: the invention of the Twelve-Tone Scale by Arnold Schoenberg: to get to those extremes that could never be possible with traditional Classical music harmonies. It sounds intense, uncomfortable, ugly, in-your-face, but that&#39;s the point! It makes people face them right there on stage so they have to think about the ugliness.&lt;/p&gt;
-&lt;p&gt;https://youtu.be/1k3yb0o2uU0
-Here is a video on atonality and how it is used by 20th century composers&lt;/p&gt;
+&lt;img src=&quot;https://www.theartstory.org/images20/works/expressionism_1.jpg?1&quot; alt=&quot;&quot; /&gt;
+E. Munch: &lt;em&gt;The Scream&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;It is characterized by wide spaced and angular melodic lines, instruments at their most extreme registers (the highest and lowest pitches), and even the reason for atonality&#39;s appearance: the invention of the Twelve-Tone Scale by Arnold Schoenberg: to get to those extremes that could never be possible with traditional Classical music harmonies. It sounds intense, uncomfortable, ugly, in-your-face, but that&#39;s the point! It makes people face them right there on stage so they have to think about the ugliness.&lt;/p&gt;
+&lt;p&gt;https://youtu.be/1k3yb0o2uU0&lt;/p&gt;
+&lt;p&gt;Here is a video on atonality and how it is used by 20th century composers&lt;/p&gt;
 &lt;p&gt;Neoclassicism (1920s-50s) - The revival of the musical styles of the Baroque and Classical eras. Revival of previous eras were popular trends throughout the generations, and modernists sought to revive the music of the masters and revive them in their modernist language. They kept the Classical ideas of symmetry, balance, proportion in form, the chamber music genres that populated the aristocratic buildings of the Enlightenemnt, but now brought to the concert stage. They also revived the fugue and counterpoint from the Baroque era, something that was mostly ignored after Conservatory graduation by Romantic composers.&lt;/p&gt;
 &lt;p&gt;Of course, not every composer &amp;quot;belonged&amp;quot; to a certain artistic -ism, sometimes they compose music that follows one trend and later another, sometimes they are inspired by one and wanted to compose in that style. Sometimes their composing abilities just happen to fit the trends that were popular.&lt;/p&gt;
 &lt;ul&gt;
@@ -389,17 +481,22 @@ Here is a video on atonality and how it is used by 20th century composers&lt;/p&
 &lt;li&gt;
 &lt;p&gt;Harmony&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Embracing dissonance. It was always expected to &amp;quot;resolve&amp;quot; the uncomfortable or tension that is caused by dissonances, that is, an interval/chord that played by itself, sounds strange.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Embracing dissonance. It was always expected to &amp;quot;resolve&amp;quot; the uncomfortable or tension that is caused by dissonances, that is, an interval/chord that played by itself, sounds strange.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;                          _There&#39;s an apple in the tree,_ 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You would expect me to complete it since there&#39;s a comma, but I just left it there, so now you probably seem a bit confused as to why I would leave it without completion. That&#39;s what a dissonance sounds like, the feeling that something has to complete it. Well, modernists decided to just let dissonances be, and use that uncomfortable/confusion/tension to their advantage through explicit uncomfortableness or blurriness.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;There&#39;s an apple in the tree,&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;You would expect me to complete it since there&#39;s a comma, but I just left it there, so now you probably seem a bit confused as to why I would leave it without completion. That&#39;s what a dissonance sounds like, the feeling that something has to complete it. Well, modernists decided to just let dissonances be, and use that uncomfortable/confusion/tension to their advantage through explicit uncomfortableness or blurriness.
-https://youtu.be/sGTRB9w8c8g
-Short (quite theoretical) video on consonant (nice soudning) vs dissoance (tension/unconfortable sounding) intervals&lt;/p&gt;
+&lt;p&gt;https://youtu.be/sGTRB9w8c8g&lt;/p&gt;
+&lt;p&gt;Short (quite theoretical) video on consonant (nice soudning) vs dissoance (tension/unconfortable sounding) intervals&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Atonality is another popular harmonic trend, especially with the development of the Twelve-Tone Technique by Schoenberg, where he completely turned the table on Western Art Music: the concept of tonality was just...gone. There was not one chord/note that was the main one. Now, each of the 12 pitches on the scale have equal importance as they must all be played, and allows for a combination that was previously considered &amp;quot;ugly/forbidden&amp;quot;. Such as really, really extreme dissonances, or really nice consonants.
-https://youtu.be/Har_7-S3Cgc
-Again, quite theoretical video on the Twelve-Tone Technique, but when you get to atonality, there is no way to explain it without getting technical.&lt;/li&gt;
+&lt;li&gt;Atonality is another popular harmonic trend, especially with the development of the Twelve-Tone Technique by Schoenberg, where he completely turned the table on Western Art Music: the concept of tonality was just...gone. There was not one chord/note that was the main one. Now, each of the 12 pitches on the scale have equal importance as they must all be played, and allows for a combination that was previously considered &amp;quot;ugly/forbidden&amp;quot;. Such as really, really extreme dissonances, or really nice consonants.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;https://youtu.be/Har_7-S3Cgc&lt;/p&gt;
+&lt;p&gt;Again, quite theoretical video on the Twelve-Tone Technique, but when you get to atonality, there is no way to explain it without getting technical.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Rhythm&lt;/p&gt;
@@ -428,10 +525,8 @@ Again, quite theoretical video on the Twelve-Tone Technique, but when you get to
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Let&#39;s start off with some popular Modernist pieces people think about that are referred to as &amp;quot;Classical Music&amp;quot;:&lt;/strong&gt;
 will add more text later, just making notes for myself now&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;C. Debussy: Claire de Lune
-https://youtu.be/8O-1wkQ-6T0&lt;/p&gt;
+&lt;p&gt;https://youtu.be/8O-1wkQ-6T0&lt;/p&gt;
+&lt;p&gt;C. Debussy: Claire de Lune&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Impresionist style&lt;/li&gt;
 &lt;li&gt;able to convey the dreamy image through the bluriness of the harmony (whole tone harmonies)&lt;/li&gt;
@@ -439,43 +534,32 @@ https://youtu.be/8O-1wkQ-6T0&lt;/p&gt;
 &lt;li&gt;due to syncopation (strong beats displaced in other parts of the meter), the meter does not seem emphasized, which alludes to that peaceful, nightime feeling&lt;/li&gt;
 &lt;li&gt;Lots of parallel intervals, which made the music seem like it was &amp;quot;gliding&amp;quot;, also a big characterstic for Impressionism&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;A. Schoenberg Pierrot Lunnaire, Op. 21, I. &amp;quot;Mondestrunken&amp;quot;
-https://youtu.be/O5DNxRG2-ow&lt;/p&gt;
+&lt;p&gt;https://www.youtube.com/watch?v=O5DNxRG2-ow&lt;/p&gt;
+&lt;p&gt;A. Schoenberg Pierrot Lunnaire, Op. 21, I. &amp;quot;Mondestrunken&amp;quot;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Expressionist style&lt;/li&gt;
-&lt;li&gt;Use of atonality and the 12-tone technique - each of the 12 pitches are treated equally. The feeling of not having a stable tonal pitch to land on makes the piece present better: a narrator lost in its path full of despair.
-&lt;ul&gt;
+&lt;li&gt;Use of atonality and the 12-tone technique - each of the 12 pitches are treated equally. The feeling of not having a stable tonal pitch to land on makes the piece present better: a narrator lost in its path full of despair.&lt;/li&gt;
 &lt;li&gt;The entire work is a 3-part song cycle (collectiong of songs) of music based on various poems by the Albert Giraud. The narrator is a drunk man wandering in the nightime talking to himself about love, religion, sex, violence, crime, his home, and his past that haunts him.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
 &lt;li&gt;Very angular melodic lines (and harmonic lines)&lt;/li&gt;
 &lt;li&gt;Creative orchestration for a small ensemble (flute, piccolo, clarinet, bass clarinet, violin, viola, cello, piano) + vocal soloist.&lt;/li&gt;
 &lt;li&gt;The entire song cycle includes some popular Baroque musical forms such as the canon, fugue, rondo, passacaglia, and countepoint&lt;/li&gt;
 &lt;li&gt;To add to the Expressionist style, the vocalist uses a technique called Sprechstimme/Sprechgesang, directing the vocalist to use specified rhythms and pitches but not to sustain its pitch, allowing it to drop or rise similar to German speech patterns. It allows for more shrills and haunting tones to better emphasize the text.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;I. Stravinsky: Le Sacre du printemps (The Rite of Spring), Danse Sacrale
-https://youtu.be/d6d8wacBjPQ&lt;/p&gt;
+&lt;p&gt;https://youtu.be/d6d8wacBjPQ&lt;/p&gt;
+&lt;p&gt;I. Stravinsky: Le Sacre du printemps (The Rite of Spring), Danse Sacrale&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;This final dance in the entire ballet is known especially for its constant changing rhythm. It is joked by orchestral members that it is extremely difficult for the players and the conductor to keep time because it is so irregular (odd number meters) and always changing.&lt;/li&gt;
 &lt;li&gt;The harmony is an exaple of polychords, stacking two traditional harmony chords together to make an even more dissonant chord. As this is a sacrificial dance, the use of this harmony in a striking manner makes it even more dance-like and ritual-like.&lt;/li&gt;
 &lt;li&gt;Play with syncopation and accents is another aspect to the rhythm - in one part, to help the dancer keep count during her performance, and for the orchestra to give the feeling of being lost into the dancer&#39;s dance as she dances her way to death.&lt;/li&gt;
 &lt;li&gt;The subject matter is modernist idea - the idea of retrieving folk tales of non-European ancestry started to gain speed after Romanticism. Although the plot is based off a fake tale of Russian tribe, it allowed Stravinsky to use Russian folk melodies and incorporate them in his music. The trend of using folk melodies to inspire or incorporate played a part in incoproating popular music into the Classical Music repetoire.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;G. Gershwin: Rhapsody in Blue
-https://youtu.be/cH2PH0auTUU&lt;/p&gt;
+&lt;p&gt;https://youtu.be/cH2PH0auTUU&lt;/p&gt;
+&lt;p&gt;G. Gershwin: Rhapsody in Blue&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;An experimental piece in attempt to bring the Jazz genre into the Classical reptoire. Gershwin himself was a Jazz pianist and wanted to bring an often looked-down upon popular genre into more academic sphres.&lt;/li&gt;
 &lt;li&gt;Neoclassical hints where it required an Classical orchestra, although replaced some instruments with more brass and percussion. Additionally, this piece can be seen as a concerto as well, since the piano is considered the soloist&lt;/li&gt;
 &lt;li&gt;Due to its influence from African-American musical styles, rhythmic aspects such as syncopation was extremely important&lt;/li&gt;
 &lt;li&gt;Harmonies leaned more into Jazz harmonies, wanting it to seem like Jazz brass bands and imporvisatory performances from the Harlem jazz community.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Modernism is such a widespread genre that it itself has a lot more to say. Although they would not be instantly recognized as Classical Music, nor were they meant to be seen as especially academic works like they are today, it achieved a goal in the &amp;quot;shock factor&amp;quot;; making people seem in awe of new trends in the Arts and to reflect on how the music plays into their current life (although not many patrons of these musics did entirely understand it). So much so, even today&#39;s audiences need to read it the background of the music a bit before understanding the context of the music. What&#39;s ironic was that these pieces were meant to reflect the modern life of the 20th century, and now they are seen as academic works essential to study in Classical Music History.&lt;/p&gt;
 &lt;p&gt;Music has come a long way from the past centuries, and has changed very drastically. These are only slight overviews of what Classical Music has to offer, and what contributes to the Classical Music sound.&lt;/p&gt;

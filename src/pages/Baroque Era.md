@@ -23,6 +23,7 @@ _So, how do we translate those visual examples above into music?_
 When listening to Baroque pieces, one might pick up lots of quick notes in succesion or a few quick notes before a certain note (trills, grace notes). This is called ornamentation, which can add flare to a musical piece for the virtuoso singers and instramentalists to show off their skills or used when repeating the same sections to make each repetition seem different.
 
 https://youtu.be/1EVvB_pri6Y
+
 This video gives a good overview of common ornamentations to embilish the music
 
 
@@ -63,8 +64,9 @@ https://youtu.be/teh22szdnRQ
 
 **Below are some popular Baroque pieces to provide our examples:**
 
-A. Vivaldi: Concerto No. 1 in E major, Op. 8, RV 269, "Spring" (La primavera) from _The Four Seasons (Le quattro stagioni)_
 https://www.youtube.com/watch?v=3LiztfE1X7E
+
+A. Vivaldi: Concerto No. 1 in E major, Op. 8, RV 269, "Spring" (La primavera) from _The Four Seasons (Le quattro stagioni)_
 
 - basso continuo on harpsichord
 - swelling on the strings; no vibrato (rapid pitch changing while sustaining on that note)
@@ -72,21 +74,25 @@ https://www.youtube.com/watch?v=3LiztfE1X7E
 - Word painting - this was a new technique to show affects - a story/image setting that accompanies the music so the audience can follow the poem with what the music was expression: bird chirps (0:30), the river (1:15), the storm (1:49), people dancing in the field (6:27) 
 - This ensemble used Baroque tuning (~415hz), which sounds flater than the pitches we are used to. Today, we would tune our instruments to A=440-42hz
 
-D. Scarlatti: Keyboard Sonata in E major, K.380
 https://youtu.be/RZHC7JBNhRk
+
+D. Scarlatti: Keyboard Sonata in E major, K.380
 
 - Idiomatic writing on the harpsichord - showing off the harpsichordist's skills
 - Lots of ornamentation, room for the soloist to show off their improvisation skills on repetitive portions
 - terraced dynamics - due to instrument technicalities, the way to create "loud" and "soft" dynamics was to change the pitch (the same notes but more to the left for softer or right louder) and adding octaves to create more "voices" 
 
-G.F. Handel: Rejoice Greatly from _Messiah_ (HWV 56)
 https://youtu.be/5WVKyxFOCkY 
+
+G.F. Handel: Rejoice Greatly from _Messiah_ (HWV 56)
 
 - Melisma - style of virtuosic singing by holding a syllable over a series of notes (in this example, Handel purposely put the melismas on the word "rejoice" to emphasize this word in 0:20-22 and 0:35-41)
 - Da Capo Aria (A-B-A form) - a musical form to show off with improvisation and ormanentation by the soloist in the repeats of the A sections (from 3:04 the repeat of this section has added ornamentation to sound different than the first by adding more notes)
 
 https://youtu.be/Nnuq9PXbywA 
+
 J.S. Bach: Toccata and Fugue in D minor, BWV 565 (The infamous Vampire tune)
+
 - Counterpoint and the Fugue
 - The organ was a common instrument used in the Baroque era, especially for churches. Although, this is a secular organ piece
 - Idiomatic writing - showing off the organist's skills
