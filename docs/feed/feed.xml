@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>Why Classical?... Music</title>
+	<title>What is Classical Music</title>
 	<subtitle>A brief history of how the genre Classical Music came to be</subtitle>
 	
 	<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/feed/" rel="self"/>
@@ -10,250 +10,6 @@
 	<author>
 		<name>Hazel Ng</name>
 	</author>
-	
-	<entry>
-		<title>About</title>
-		<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/"/>
-		<updated>2022-03-11T19:41:53Z</updated>
-		<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/</id>
-		<content type="html">&lt;h2 id=&quot;intro-to-jumpstart&quot; tabindex=&quot;-1&quot;&gt;Intro to Jumpstart&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#intro-to-jumpstart&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;This project starter kit, &lt;a href=&quot;https://github.com/5t3ph/11ty-netlify-jumpstart&quot;&gt;forked from the original 11ty jumpstart repo&lt;/a&gt;, is intended to be &lt;em&gt;just enough&lt;/em&gt; to be a functional site using 11ty, and also to introduce essential 11ty features.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://hackinghistory.github.io/index.html#quickstart&quot;&gt;&lt;strong&gt;Review the &amp;quot;Quick Start&amp;quot;&lt;/strong&gt;&lt;/a&gt; on the home page for how to get this starter up and running for your project.&lt;/p&gt;
-&lt;p&gt;Meanwhile, here are the original docs about this starter kit. Most of it you don&#39;t have to worry about, but you might want to look at VSCode Tips.&lt;/p&gt;
-&lt;h3 id=&quot;jump-to&quot; tabindex=&quot;-1&quot;&gt;Jump to:&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#jump-to&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#global-site-data-and-env&quot;&gt;Global Site Data and .env&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#template-languages-used&quot;&gt;Template Languages Used&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#layout-hierarchy-and-features&quot;&gt;Layout Hierarchy and Features&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#expected-frontmatter&quot;&gt;Expected Frontmatter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#permalink-style&quot;&gt;Permalink Style&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#asset-handling&quot;&gt;Asset Handling&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#linting&quot;&gt;Linting&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#sass-framework&quot;&gt;Sass Framework&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#anchor-links&quot;&gt;Anchor links&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#sitemap&quot;&gt;Sitemap&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#rss-feed&quot;&gt;RSS Feed&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#social-share-preview-images&quot;&gt;Social Share Preview Images&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#prism-syntax-highlighting&quot;&gt;Prism Syntax Highlighting&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#eleventyjs-config-features&quot;&gt;.eleventy.js Config Features&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#vscode-tips&quot;&gt;VSCode Tips&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;global-site-data-and-env&quot; tabindex=&quot;-1&quot;&gt;Global Site Data and .env&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#global-site-data-and-env&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;As noted in the &lt;a href=&quot;https://hackinghistory.github.io/#quickstart&quot;&gt;Quick Start&lt;/a&gt;, there are global site data variables in &lt;code&gt;src/_data/meta.json&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;Those include:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;url&lt;/code&gt; - should remain unchanged, reads from the single expected &lt;code&gt;.env&lt;/code&gt; value of &lt;code&gt;URL&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;siteName&lt;/code&gt; - your &amp;quot;brand&amp;quot; if you will, appended to the &lt;code&gt;&amp;lt;title&amp;gt;&lt;/code&gt; tag, shown in the &lt;code&gt;sitenav&lt;/code&gt;, displayed in the &amp;quot;hero&amp;quot; for the &lt;code&gt;home&lt;/code&gt; layout, in the footer by the copyright, as the &amp;quot;credit&amp;quot; for social share images, and as the identifier throughout the RSS feed&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;siteDescription&lt;/code&gt; - used in the &amp;quot;description&amp;quot; meta tag, and below the &lt;code&gt;siteName&lt;/code&gt; on the &lt;code&gt;home&lt;/code&gt; layout&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;authorName&lt;/code&gt; - Used in the RSS feed, intended to be your full name&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;twitterUsername&lt;/code&gt; - without the &amp;quot;@&amp;quot;, this value is used for the Twitter meta tags, and for the URL of the icon link in the footer&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;env&quot; tabindex=&quot;-1&quot;&gt;.env&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#env&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;See &lt;code&gt;.env-sample&lt;/code&gt; for the single expected value of &lt;code&gt;URL&lt;/code&gt; which should be set to your localhost. The sample uses the default 11ty port, so you can simply rename the file to &lt;code&gt;.env&lt;/code&gt; if you haven&#39;t changed the port.&lt;/p&gt;
-&lt;p&gt;The &lt;code&gt;URL&lt;/code&gt; value is then available via the global data described previously, and can be used in templates with &lt;code&gt;meta.url&lt;/code&gt;. You can see this used for the RSS feed and sitemap as well as meta tag links to the social share preview images to create the absolute URLs.&lt;/p&gt;
-&lt;h2 id=&quot;template-languages-used&quot; tabindex=&quot;-1&quot;&gt;Template Languages Used&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#template-languages-used&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Page templates are created as Nunjucks (&lt;code&gt;.njk&lt;/code&gt;), and feature are added that expect Markdown for most page content.&lt;/p&gt;
-&lt;p&gt;The home page - &lt;code&gt;src/index.njk&lt;/code&gt; - is set to process first as Markdown followed by Nunjucks. This allows mixing HTML with Markdown, with benefits being code syntax highlighting and ability to include classes on HTML elements. This functionality is provided by the &lt;code&gt;templateEngineOverride: md, njk&lt;/code&gt; in the frontmatter.&lt;/p&gt;
-&lt;p&gt;A unique case uses Nunjucks to create the &lt;code&gt;json&lt;/code&gt; that is used to generate the &lt;a href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#social-share-preview-images&quot;&gt;social share preview images&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Review the list of &lt;a href=&quot;https://www.11ty.dev/docs/languages/&quot;&gt;available templating languages&lt;/a&gt; in the 11ty docs.&lt;/p&gt;
-&lt;h2 id=&quot;layout-hierarchy-and-features&quot; tabindex=&quot;-1&quot;&gt;Layout Hierarchy and Features&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#layout-hierarchy-and-features&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;There are two layouts and one partial included.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;New in v1.1.0&lt;/strong&gt; - layouts are customized to be located in &lt;code&gt;src/_layouts&lt;/code&gt;.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;code&gt;_layouts/base.njk&lt;/code&gt; includes the standard HTML boilerplate including meta and &amp;quot;og&amp;quot; tags in &lt;code&gt;&amp;lt;head&amp;gt;&lt;/code&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;code&gt;_layouts/page.njk&lt;/code&gt; includes the &lt;code&gt;sitenav.njk&lt;/code&gt; partial and chains up to &lt;code&gt;base&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The &lt;code&gt;src/index.njk&lt;/code&gt; template chains to the &lt;code&gt;base&lt;/code&gt; layout and includes a loop that will create &amp;quot;cards&amp;quot; for everything in &lt;code&gt;collections.pages&lt;/code&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;expected-frontmatter&quot; tabindex=&quot;-1&quot;&gt;Expected Frontmatter&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#expected-frontmatter&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;There are only two fields expected:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;title&lt;/code&gt; - essentially required, by default is used in the page &lt;code&gt;&amp;lt;title&amp;gt;&lt;/code&gt;, in the layout &amp;quot;hero&amp;quot;, in social share preview images, and in social share meta tags.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;description&lt;/code&gt; - optional, by default appears below the title for the &lt;code&gt;page&lt;/code&gt; template and is used as for the &amp;quot;description&amp;quot; meta tag and social share meta tag descriptions.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;permalink-style&quot; tabindex=&quot;-1&quot;&gt;Permalink Style&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#permalink-style&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;The default setup expects content - using any template language - within &lt;code&gt;pages/&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;The &lt;code&gt;pages.json&lt;/code&gt; in that directory includes a &lt;code&gt;permalink&lt;/code&gt; setting so that the file name is used directly to prevent &#39;pages&#39; being the base of the URL.&lt;/p&gt;
-&lt;p&gt;You can &lt;a href=&quot;https://www.11ty.dev/docs/permalinks/&quot;&gt;override permalinks per file&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;asset-handling&quot; tabindex=&quot;-1&quot;&gt;Asset Handling&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#asset-handling&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;In the &lt;code&gt;.eleventy.js&lt;/code&gt; config, there are included &amp;quot;pass-throughs&amp;quot; for an &lt;code&gt;img/&lt;/code&gt; directory as well as &lt;code&gt;favicon.png&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;You can replace the included favicon, and create an &lt;code&gt;img&lt;/code&gt; directory or remove the &lt;code&gt;addPassthroughCopy&lt;/code&gt; if you do not have need of images.&lt;/p&gt;
-&lt;p&gt;Creating an &lt;code&gt;img&lt;/code&gt; directory and keeping the pass-through directive will make images available at &lt;code&gt;/img/[image-file-path]&lt;/code&gt; relative to the site root.&lt;/p&gt;
-&lt;h2 id=&quot;linting&quot; tabindex=&quot;-1&quot;&gt;Linting&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#linting&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;For Sass, &lt;a href=&quot;https://stylelint.io/&quot;&gt;stylelint&lt;/a&gt; is included. If you want to keep it, you may want to do a find/replace for &lt;code&gt;tdbc&lt;/code&gt; to the prefix of your choice. If not, you&#39;ll want to remove the related files at the project root as well as the related items in the &lt;code&gt;package.json&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;A &lt;code&gt;prettier&lt;/code&gt; config is included, with the only update being &lt;code&gt;printWidth: 100&lt;/code&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;sass-framework&quot; tabindex=&quot;-1&quot;&gt;Sass Framework&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#sass-framework&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Review the &lt;a href=&quot;https://5t3ph.github.io/html-sass-jumpstart/&quot;&gt;styling documentation&lt;/a&gt; for the included minimal Sass framework, particularly the theme variables, to quickly customize the starter.&lt;/p&gt;
-&lt;p&gt;The only notable differences are:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;code&gt;sitenav&lt;/code&gt; - adjust the styles for the navigation header that appears on pages&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;tdbc-anchor&lt;/code&gt; - styles for the &lt;code&gt;#&lt;/code&gt; anchor that appears next to page headings (&lt;a href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#anchor-links&quot;&gt;or turn that feature off&lt;/a&gt;) can be adjusted in &lt;code&gt;sass/_utilities&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Additional &lt;code&gt;article&lt;/code&gt;-scoped styling for typography as it appears on &lt;code&gt;pages&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;A theme for the &lt;a href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#prism-syntax-highlighting&quot;&gt;&lt;code&gt;prism&lt;/code&gt; syntax highlighting&lt;/a&gt; for code blocks. You can adjust or replace the theme in &lt;code&gt;sass/_prism&lt;/code&gt;.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&quot;fonts&quot; tabindex=&quot;-1&quot;&gt;Fonts&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#fonts&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;The default font is &lt;a href=&quot;https://fonts.google.com/specimen/Baloo+2&quot;&gt;Baloo 2&lt;/a&gt; and is locally hosted with files in &lt;code&gt;fonts/&lt;/code&gt;. If you swap to a different font, be sure to remove the font files as well as the &lt;code&gt;@font-face&lt;/code&gt; rules at the top of &lt;code&gt;sass/_fonts.scss&lt;/code&gt;, and update the &lt;code&gt;$tdbc-font-family&lt;/code&gt; Sass variable.&lt;/p&gt;
-&lt;h2 id=&quot;anchor-links&quot; tabindex=&quot;-1&quot;&gt;Anchor Links&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#anchor-links&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Anchor links next to headings throughout Markdown content are generated by an add-on plugin for &lt;code&gt;markdownIt&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;This feature can be adjusted or removed in the &lt;code&gt;.eleventy.js&lt;/code&gt; config file.&lt;/p&gt;
-&lt;h2 id=&quot;generated-features&quot; tabindex=&quot;-1&quot;&gt;Generated Features&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#generated-features&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;h3 id=&quot;sitemap&quot; tabindex=&quot;-1&quot;&gt;Sitemap&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#sitemap&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;A &lt;code&gt;sitemap.xml&lt;/code&gt; is generated from all available content.&lt;/p&gt;
-&lt;p&gt;To exclude non-page or non-public content from the sitemap, include &lt;code&gt;eleventyExcludeFromCollections: true&lt;/code&gt; in frontmatter, or &lt;a href=&quot;https://www.11ty.dev/docs/collections/#advanced-custom-filtering-and-sorting&quot;&gt;create a custom filter&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&quot;rss-feed&quot; tabindex=&quot;-1&quot;&gt;RSS Feed&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#rss-feed&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;An RSS feed is included, and output at &lt;code&gt;[siteurl]/feed/feed.xml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;If publishing from Netlify, the included &lt;code&gt;netlify.toml&lt;/code&gt; file will create a redirect so that the feed becomes available at &lt;code&gt;[siteurl]/feed&lt;/code&gt;.&lt;/p&gt;
-&lt;h3 id=&quot;social-share-preview-images&quot; tabindex=&quot;-1&quot;&gt;Social Share Preview Images&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#social-share-preview-images&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Upon use of the build command, social share preview images are generated for each page + the home page, and available in &lt;code&gt;docs/previews/[title-as-slug].png&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;Here&#39;s an example of the default template:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://hackinghistory.github.io/previews/hello-world.png&quot; alt=&quot;default social share preview image template&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;As of v0.5.0, these images now use my Eleventy plugin - &lt;code&gt;@11tyrocks/eleventy-plugin-social-images&lt;/code&gt; - with the default blue theme and a customized template.&lt;/p&gt;
-&lt;p&gt;Any changes made can be previewed by running the build command and reviewing the contents of &lt;code&gt;docs/previews/&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.npmjs.com/package/@11tyrocks/eleventy-plugin-social-images&quot;&gt;Review the plugin docs&lt;/a&gt; for the full details of how to customize the behavior, and read on to learn how this starter is currently setup for the social images.&lt;/p&gt;
-&lt;h4&gt;Update social image template HTML&lt;/h4&gt;
-&lt;p&gt;HTML can be changed in &lt;code&gt;_generate/socialtemplate.njk&lt;/code&gt; - be sure to leave the &lt;code&gt;&amp;lt;style&amp;gt;&lt;/code&gt; block and the template tag within so that the plugin can insert your styles.&lt;/p&gt;
-&lt;p&gt;The only requirement for the generator to work is to keep an &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; to populate with the content title, but the rest of the template is up to you!&lt;/p&gt;
-&lt;h4&gt;Update social image template style&lt;/h4&gt;
-&lt;p&gt;There are two options:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Select a different theme to use from the plugin&#39;s &lt;a href=&quot;https://github.com/5t3ph/eleventy-plugin-social-images/tree/main/themes&quot;&gt;predefined theme options&lt;/a&gt; and amend the &lt;code&gt;social-images&lt;/code&gt; script to set the &lt;code&gt;--theme&lt;/code&gt; option&lt;/li&gt;
-&lt;li&gt;Create a custom stylesheet (such as social.scss) and add the included &lt;code&gt;build:sass-social&lt;/code&gt; script at the end of the &lt;code&gt;build:sass&lt;/code&gt; command&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;If choosing to create your own styles for option #2, the CSS will be output in &lt;code&gt;social/style.css&lt;/code&gt; with provided stubbed out script. You will need to add this as the value for the &lt;code&gt;--stylesPath&lt;/code&gt; option within the &lt;code&gt;social-images&lt;/code&gt; script to ensure your custom styles are used.&lt;/p&gt;
-&lt;h4&gt;Change included pages OR available data&lt;/h4&gt;
-&lt;p&gt;Adjust the collections loop in &lt;code&gt;_generate/pagesjson.njk&lt;/code&gt;, but keep the defined keys of &lt;code&gt;title&lt;/code&gt; and &lt;code&gt;imgName&lt;/code&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;prism-syntax-highlighting&quot; tabindex=&quot;-1&quot;&gt;Prism Syntax Highlighting&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#prism-syntax-highlighting&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Syntax highlighting of inline or code blocks found within Markdown content is provided by Prism via &lt;code&gt;@11ty/eleventy-plugin-syntaxhighlight&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;You can change the theme used in &lt;code&gt;sass/_prism.scss&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;Or, remove the plugin if you are not in need of code highlighting.&lt;/p&gt;
-&lt;h2 id=&quot;eleventyjs-config-features&quot; tabindex=&quot;-1&quot;&gt;.eleventy.js Config Features&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#eleventyjs-config-features&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;h3 id=&quot;overrides&quot; tabindex=&quot;-1&quot;&gt;Overrides&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#overrides&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Input directory&lt;/strong&gt;: &lt;code&gt;src&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Output directory&lt;/strong&gt;: &lt;code&gt;docs&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Layout directory&lt;/strong&gt;: &lt;code&gt;_layouts&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Also, &lt;code&gt;markdownLibrary&lt;/code&gt; is extended to add the &lt;code&gt;markdownItAnchor&lt;/code&gt; plugin for &lt;a href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#anchor-links&quot;&gt;anchor links&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&quot;shortcode-year&quot; tabindex=&quot;-1&quot;&gt;Shortcode: &lt;code&gt;year&lt;/code&gt;&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#shortcode-year&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Returns the current &lt;code&gt;YYYY&lt;/code&gt; year, used by the footer copyright.&lt;/p&gt;
-&lt;h3 id=&quot;filter-slug&quot; tabindex=&quot;-1&quot;&gt;Filter: &lt;code&gt;slug&lt;/code&gt;&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#filter-slug&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Makes the default &lt;code&gt;slug&lt;/code&gt; function more strict to ensure things like excluding emojis and enforcing lowercase.&lt;/p&gt;
-&lt;h2 id=&quot;vscode-tips&quot; tabindex=&quot;-1&quot;&gt;VSCode Tips&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#vscode-tips&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;h3 id=&quot;nunjucks&quot; tabindex=&quot;-1&quot;&gt;Nunjucks&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#nunjucks&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;If you haven&#39;t previously worked with Nunjucks, you will want a syntax highlighting extension: &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=ronnidc.nunjucks&quot;&gt;Nunjucks&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;In addition, you may want to ensure Emmet works on &lt;code&gt;.njk&lt;/code&gt; files by updating/adding the following in the &lt;code&gt;settings.json&lt;/code&gt;:&lt;/p&gt;
-&lt;pre class=&quot;language-json&quot;&gt;&lt;code class=&quot;language-json&quot;&gt;&lt;span class=&quot;token property&quot;&gt;&quot;emmet.includeLanguages&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;br /&gt;	&lt;span class=&quot;token property&quot;&gt;&quot;nunjucks&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;html&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;h3 id=&quot;formatting&quot; tabindex=&quot;-1&quot;&gt;Formatting&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#formatting&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;As noted previously, a &lt;code&gt;prettier&lt;/code&gt; config is included, and you may want to get the
-Prettier extension and update your VSCode settings to &amp;quot;Format on Save&amp;quot;.&lt;/p&gt;
-&lt;p&gt;However, to format template files Prettier doesn&#39;t recognize like &lt;code&gt;.njk&lt;/code&gt;, you can update the &amp;quot;Language Mode&amp;quot; on the currently open file from &amp;quot;Nunjucks&amp;quot; (or other current templating language) to &amp;quot;HTML&amp;quot; to allow formatting to be applied. Then, flip it back to re-allow the syntax highlighting if needed.&lt;/p&gt;
-&lt;p&gt;This is located in the VSCode bottom toolbar near the right-hand side and will display the value of the current file&#39;s detected language. Click the name to open the selector.&lt;/p&gt;
-&lt;h3 id=&quot;colophon&quot; tabindex=&quot;-1&quot;&gt;Colophon&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/about/#colophon&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;this starter kit was originally written by Stephanie Eckles - @5t3ph on &lt;a href=&quot;https://twitter.com/5t3ph&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;https://github.com/5t3ph&quot;&gt;Github&lt;/a&gt;, &lt;a href=&quot;https://codepen.com/5t3ph&quot;&gt;CodePen&lt;/a&gt;, and &lt;a href=&quot;https://dev.to/5t3ph&quot;&gt;DEV&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Here&#39;s what she has to say about herself:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;You may know me as the author of &lt;a href=&quot;https://moderncss.dev/&quot;&gt;ModernCSS.dev&lt;/a&gt; or the creator of &lt;a href=&quot;https://stylestage.dev/&quot;&gt;StyleStage.dev&lt;/a&gt;. I can also be found on &lt;a href=&quot;https://egghead.io/instructors/stephanie-eckles?af=2s65ms&quot;&gt;egghead as an instructor&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Check out my extended collection of Eleventy resources available on &lt;a href=&quot;https://11ty.rocks/&quot;&gt;11ty.Rocks&lt;/a&gt;!&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;I spent a decade creating WordPress themes and plugins then flipped to product development + leading development of a multi-platform enterprise design system. My intro to Jamstack was with Gatsby, but 11ty fills a special place that is so needed for truly static sites. I&#39;m in love, and I think you will be, too.&lt;/p&gt;
-&lt;/blockquote&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>Style Demo</title>
-		<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/"/>
-		<updated>2022-03-11T19:41:53Z</updated>
-		<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/</id>
-		<content type="html">&lt;blockquote&gt;
-&lt;p&gt;Credit for the kitchen sink elements to the &lt;a href=&quot;https://github.com/pmarsceill/just-the-docs&quot;&gt;&amp;quot;Just the Docs&amp;quot;&lt;/a&gt; project by &lt;a href=&quot;https://github.com/pmarsceill&quot;&gt;pmarsceill&lt;/a&gt;, and to the original author of the starterkit.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h1 id=&quot;introduction&quot; tabindex=&quot;-1&quot;&gt;Introduction&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#introduction&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;Most of your time on this project will be spent writing in markdown. This page lives here as a reminder of how to write in markdown. Please note that I&#39;ve appended a brief discussion of how to use footnotes here.&lt;/p&gt;
-&lt;h1 id=&quot;header-1&quot; tabindex=&quot;-1&quot;&gt;Header 1&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#header-1&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.&lt;/p&gt;
-&lt;p&gt;Text can be &lt;strong&gt;bold&lt;/strong&gt;, &lt;em&gt;italic&lt;/em&gt;, or &lt;s&gt;strikethrough&lt;/s&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://hackinghistory.github.io/about&quot;&gt;Link to another page&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;header-2&quot; tabindex=&quot;-1&quot;&gt;Header 2&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#header-2&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;This is a blockquote following a header.&lt;/p&gt;
-&lt;p&gt;When something is important enough, you do it even if the odds are not in your favor.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3 id=&quot;header-3&quot; tabindex=&quot;-1&quot;&gt;Header 3&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#header-3&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
-&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// Javascript code with syntax highlighting.&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;fun&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;lang&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;l&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;br /&gt;  dateformat&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;i18n &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;./lang/&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; l&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;br /&gt;  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token boolean&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;pre class=&quot;language-ruby&quot;&gt;&lt;code class=&quot;language-ruby&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;# Ruby code with syntax highlighting&lt;/span&gt;&lt;br /&gt;GitHubPages&lt;span class=&quot;token double-colon punctuation&quot;&gt;::&lt;/span&gt;Dependencies&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;gems&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;each&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;do&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;|&lt;/span&gt;gem&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; version&lt;span class=&quot;token operator&quot;&gt;|&lt;/span&gt;&lt;br /&gt;  s&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;add_dependency&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;gem&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string-literal&quot;&gt;&lt;span class=&quot;token string&quot;&gt;&quot;= &lt;/span&gt;&lt;span class=&quot;token interpolation&quot;&gt;&lt;span class=&quot;token delimiter punctuation&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;version&lt;/span&gt;&lt;span class=&quot;token delimiter punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token keyword&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h4&gt;Header 4&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;This is an unordered list following a header.&lt;/li&gt;
-&lt;li&gt;This is an unordered list following a header.&lt;/li&gt;
-&lt;li&gt;This is an unordered list following a header.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h5&gt;Header 5&lt;/h5&gt;
-&lt;ol&gt;
-&lt;li&gt;This is an ordered list following a header.&lt;/li&gt;
-&lt;li&gt;This is an ordered list following a header.&lt;/li&gt;
-&lt;li&gt;This is an ordered list following a header.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&quot;theres-a-horizontal-rule-below-this&quot; tabindex=&quot;-1&quot;&gt;There&#39;s a horizontal rule below this.&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#theres-a-horizontal-rule-below-this&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
-&lt;hr /&gt;
-&lt;h3 id=&quot;here-is-an-unordered-list&quot; tabindex=&quot;-1&quot;&gt;Here is an unordered list:&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#here-is-an-unordered-list&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Item foo&lt;/li&gt;
-&lt;li&gt;Item bar&lt;/li&gt;
-&lt;li&gt;Item baz&lt;/li&gt;
-&lt;li&gt;Item zip&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;and-an-ordered-list&quot; tabindex=&quot;-1&quot;&gt;And an ordered list:&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#and-an-ordered-list&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;Item one&lt;/li&gt;
-&lt;li&gt;Item two&lt;/li&gt;
-&lt;li&gt;Item three&lt;/li&gt;
-&lt;li&gt;Item four&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&quot;and-a-nested-list&quot; tabindex=&quot;-1&quot;&gt;And a nested list:&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#and-a-nested-list&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;level 1 item
-&lt;ul&gt;
-&lt;li&gt;level 2 item&lt;/li&gt;
-&lt;li&gt;level 2 item
-&lt;ul&gt;
-&lt;li&gt;level 3 item&lt;/li&gt;
-&lt;li&gt;level 3 item&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;level 1 item
-&lt;ul&gt;
-&lt;li&gt;level 2 item&lt;/li&gt;
-&lt;li&gt;level 2 item&lt;/li&gt;
-&lt;li&gt;level 2 item&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;level 1 item
-&lt;ul&gt;
-&lt;li&gt;level 2 item&lt;/li&gt;
-&lt;li&gt;level 2 item&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;level 1 item&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;small-image&quot; tabindex=&quot;-1&quot;&gt;Small Image&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#small-image&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://picsum.photos/200&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h3 id=&quot;large-image&quot; tabindex=&quot;-1&quot;&gt;Large image&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#large-image&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://picsum.photos/800/300&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h2 id=&quot;footnotes&quot; tabindex=&quot;-1&quot;&gt;Footnotes&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/#footnotes&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;We use a &lt;a href=&quot;https://github.com/markdown-it/markdown-it-footnote&quot;&gt;plugin&lt;/a&gt; for rendering simple footnotes. It&#39;s not ideal but at lest youu can insert references here, which I find somewhat straightforward to do &lt;a href=&quot;https://forums.zotero.org/discussion/93521/available-for-beta-testing-markdown-export-of-notes&quot;&gt;using the technique described here&lt;/a&gt;. Howver, it could be painful or at least awkward if you&#39;re using html format instead.&lt;/p&gt;
-</content>
-	</entry>
 	
 	<entry>
 		<title>Baroque Era (~1600-1750)</title>
@@ -274,19 +30,13 @@ This can be seen with the use of cartouches and stucco in architecture (see the 
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;em&gt;So, how do we translate those visual examples above into music?&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;When listening to Baroque pieces, one might pick up lots of quick notes in succesion or a few quick notes before a certain note (trills, grace notes). This is called ornamentation, which can add flare to a musical piece for the virtuoso singers and instramentalists to show off their skills or used when repeating the same sections to make each repetition seem different.&lt;/p&gt;
-&lt;p&gt;This video gives a good overview of common ornamentations to embilish the music&lt;/p&gt;
-&lt;section class=&quot;youtube-box&quot;&gt;
-&lt;section class=&quot;youtube-description&quot;&gt;
-&lt;p&gt;This video gives a good overview of common ornamentations to embilish the music&lt;/p&gt;
-&lt;/section&gt;
-&lt;div id=&quot;https://youtu.be/1EVvB_pri6Y&quot; class=&quot;undefined&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;&lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/https://youtu.be/1EVvB_pri6Y&quot; allow=&quot;undefined&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;/section&gt;
+&lt;p&gt;https://youtu.be/1EVvB_pri6Y
+This video gives a good overview of common ornamentations to embilish the music&lt;/p&gt;
 &lt;p&gt;There was growing awareness to use music to evoke emotions, or affects. Following the medical theory on humors at the time, where eating and refraining from certain foods can equilibrize the imablance of bodily humors, there was growing beleif that musical emotions were another method to counter with the imbalance of humours, or spirit vapours. Lorenzo Giacomini wrote in his &lt;em&gt;Oratoni e discorsi&lt;/em&gt; that external factors like musical affects stimulate the body to alter the state of the humors. There was even a 17th century theory called the Doctrine of Affections, stating that different musical moods could and should be used to influences the affects of the listener.&lt;/p&gt;
 &lt;p&gt;In Baroque music, many pieces have distinctive movements, sections, or dances in a collection (called a suite). Each distinct section presents a well-defined emotional charactersitic. Though this structure of distinct sections was carried over by the past centuries, these pre-Baroque musical sections were church music used to accompany different parts of the service; not to evoke a certain emotion.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Here are some musical characteristics that defined the Baroque musical sound:&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Melody&lt;/p&gt;
+&lt;li&gt;Melody
 &lt;ul&gt;
 &lt;li&gt;More diverse melodic lines to incorporate:
 &lt;ul&gt;
@@ -296,8 +46,7 @@ This can be seen with the use of cartouches and stucco in architecture (see the 
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Harmony&lt;/p&gt;
+&lt;li&gt;Harmony
 &lt;ul&gt;
 &lt;li&gt;using the tonal system (the major and minor keys we know of today) rather than the modal system used in church music for the past centuries
 &lt;ul&gt;
@@ -307,14 +56,12 @@ This can be seen with the use of cartouches and stucco in architecture (see the 
 &lt;li&gt;chromatic harmony was used for expressive effect&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Rhythm&lt;/p&gt;
+&lt;li&gt;Rhythm
 &lt;ul&gt;
 &lt;li&gt;Predominantly a single rhythm to provide a steady pulse, but can be freer in vocal music (due to its influence from free-flowing church vocal music)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Dynamics&lt;/p&gt;
+&lt;li&gt;Dynamics
 &lt;ul&gt;
 &lt;li&gt;Terraced dynamics: shifitng the volume suddnely from one level to another
 &lt;ul&gt;
@@ -324,26 +71,19 @@ This can be seen with the use of cartouches and stucco in architecture (see the 
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Texture&lt;/p&gt;
+&lt;li&gt;Texture
 &lt;ul&gt;
 &lt;li&gt;Preference of polyphony (many voices doing its own thing) over homophony (a main voice and an accompnying voice)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Instrumentation&lt;/p&gt;
+&lt;li&gt;Instrumentation
 &lt;ul&gt;
 &lt;li&gt;the formation of the orchestra, a rather a stablized group of instruments that will eventually form what we know as the orchestra today, where they will contribute to the contrasting musical textures.&lt;/li&gt;
 &lt;/ul&gt;
-  &lt;section class=&quot;youtube-box&quot;&gt;
-&lt;/section&gt;&lt;/li&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-&lt;section class=&quot;youtube-description&quot;&gt;
-&lt;pre&gt;&lt;code&gt;Here&#39;s an example. You can skip the &amp;quot;monophony&amp;quot; section (0:15-1:30) since it is not very relevant to this discussion
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-&lt;div id=&quot;https://youtu.be/teh22szdnRQ&quot; class=&quot;undefined&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;&lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/https://youtu.be/teh22szdnRQ&quot; allow=&quot;undefined&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
+&lt;p&gt;https://youtu.be/teh22szdnRQ
+Here&#39;s an example. You can skip the &amp;quot;monophony&amp;quot; section (0:15-1:30) since it is not very relevant to this discussion&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Basso Continuo
 &lt;ul&gt;
@@ -354,9 +94,8 @@ This can be seen with the use of cartouches and stucco in architecture (see the 
 &lt;hr /&gt;
 &lt;h3 id=&quot;lets-apply-the-above-traits-into-music&quot; tabindex=&quot;-1&quot;&gt;Let&#39;s apply the above traits into music&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Baroque%20Era/#lets-apply-the-above-traits-into-music&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Below are some popular Baroque pieces to provide our examples:&lt;/strong&gt;&lt;/p&gt;
-&lt;section class=&quot;youtube-box&quot;&gt;
-&lt;section class=&quot;youtube-description&quot;&gt;
-&lt;p&gt;A. Vivaldi: Concerto No. 1 in E major, Op. 8, RV 269, &amp;quot;Spring&amp;quot; (La primavera) from &lt;em&gt;The Four Seasons (Le quattro stagioni)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;A. Vivaldi: Concerto No. 1 in E major, Op. 8, RV 269, &amp;quot;Spring&amp;quot; (La primavera) from &lt;em&gt;The Four Seasons (Le quattro stagioni)&lt;/em&gt;
+https://www.youtube.com/watch?v=3LiztfE1X7E&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;basso continuo on harpsichord&lt;/li&gt;
 &lt;li&gt;swelling on the strings; no vibrato (rapid pitch changing while sustaining on that note)&lt;/li&gt;
@@ -364,41 +103,26 @@ This can be seen with the use of cartouches and stucco in architecture (see the 
 &lt;li&gt;Word painting - this was a new technique to show affects - a story/image setting that accompanies the music so the audience can follow the poem with what the music was expression: bird chirps (0:30), the river (1:15), the storm (1:49), people dancing in the field (6:27)&lt;/li&gt;
 &lt;li&gt;This ensemble used Baroque tuning (~415hz), which sounds flater than the pitches we are used to. Today, we would tune our instruments to A=440-42hz&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/section&gt;
-&lt;div id=&quot;https://www.youtube.com/watch?v=3LiztfE1X7E&quot; class=&quot;undefined&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;&lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/https://www.youtube.com/watch?v=3LiztfE1X7E&quot; allow=&quot;undefined&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;/section&gt;
-&lt;section class=&quot;youtube-box&quot;&gt;
-&lt;section class=&quot;youtube-description&quot;&gt;
-&lt;p&gt;D. Scarlatti: Keyboard Sonata in E major, K.380&lt;/p&gt;
+&lt;p&gt;D. Scarlatti: Keyboard Sonata in E major, K.380
+https://youtu.be/RZHC7JBNhRk&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Idiomatic writing on the harpsichord - showing off the harpsichordist&#39;s skills&lt;/li&gt;
 &lt;li&gt;Lots of ornamentation, room for the soloist to show off their improvisation skills on repetitive portions&lt;/li&gt;
 &lt;li&gt;terraced dynamics - due to instrument technicalities, the way to create &amp;quot;loud&amp;quot; and &amp;quot;soft&amp;quot; dynamics was to change the pitch (the same notes but more to the left for softer or right louder) and adding octaves to create more &amp;quot;voices&amp;quot;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/section&gt;
-&lt;div id=&quot;https://youtu.be/RZHC7JBNhRk&quot; class=&quot;undefined&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;&lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/https://youtu.be/RZHC7JBNhRk&quot; allow=&quot;undefined&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;/section&gt;
-&lt;section class=&quot;youtube-box&quot;&gt;
-&lt;section class=&quot;youtube-description&quot;&gt;
-&lt;p&gt;G.F. Handel: Rejoice Greatly from &lt;em&gt;Messiah&lt;/em&gt; (HWV 56)&lt;/p&gt;
+&lt;p&gt;G.F. Handel: Rejoice Greatly from &lt;em&gt;Messiah&lt;/em&gt; (HWV 56)
+https://youtu.be/5WVKyxFOCkY&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Melisma - style of virtuosic singing by holding a syllable over a series of notes (in this example, Handel purposely put the melismas on the word &amp;quot;rejoice&amp;quot; to emphasize this word in 0:20-22 and 0:35-41)&lt;/li&gt;
 &lt;li&gt;Da Capo Aria (A-B-A form) - a musical form to show off with improvisation and ormanentation by the soloist in the repeats of the A sections (from 3:04 the repeat of this section has added ornamentation to sound different than the first by adding more notes)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/section&gt;
-&lt;div id=&quot;https://youtu.be/5WVKyxFOCkY&quot; class=&quot;undefined&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;&lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/https://youtu.be/5WVKyxFOCkY&quot; allow=&quot;undefined&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;/section&gt;
-&lt;section class=&quot;youtube-box&quot;&gt;
-&lt;section class=&quot;youtube-description&quot;&gt;
-&lt;p&gt;J.S. Bach: Toccata and Fugue in D minor, BWV 565&lt;/p&gt;
+&lt;p&gt;https://youtu.be/Nnuq9PXbywA
+J.S. Bach: Toccata and Fugue in D minor, BWV 565 (The infamous Vampire tune)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Counterpoint and the Fugue&lt;/li&gt;
 &lt;li&gt;The organ was a common instrument used in the Baroque era, especially for churches. Although, this is a secular organ piece&lt;/li&gt;
 &lt;li&gt;Idiomatic writing - showing off the organist&#39;s skills&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/section&gt;
-&lt;div id=&quot;https://youtu.be/Nnuq9PXbywA&quot; class=&quot;undefined&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;&lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/https://youtu.be/Nnuq9PXbywA&quot; allow=&quot;undefined&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;/section&gt;
 &lt;p&gt;For many listerners, the first impression can be that it sounds quite busy with so many musical voices playing simultaneously and so much embellishments in a piece of music through variation in repeteating sections or a soloist showing off their skills. This is all a part of the &amp;quot;ornate&amp;quot; characterstic of Baroque music, and can seem very majestic and grand. It is quite common in advertisements and movies to use Baroque music to accompany a sense of grandeur or an intense emotion; like Bach&#39;s Toccata and Fugue being associated with a scary Vampire lair and Vivaldi&#39;s Spring used for joyous settings like a &amp;quot;high tea&amp;quot; restaurant.&lt;/p&gt;
 &lt;p&gt;Baroque music can be associated with the extravagence, but also hints at being perused by high-class members of society. Yes, these pieces were mostly written for royalty, nobility, and the church, which does explain why it feel grandiose and courtly, but it is also able to elicit a certain emotion and provide a source of entertainment. And to that, it does complete its goal well in today&#39;s audiences too.&lt;/p&gt;
 </content>
@@ -420,32 +144,27 @@ This can be seen with the use of cartouches and stucco in architecture (see the 
 &lt;p&gt;Towards the latter end of the Classical Era, it was common to hear of independent musicians; of which Mozart, Haydn were independent near the latter part of their career, and Beethoven is mostly considered an independent musicians, rather than being employed by royal courts or church service (although these roles were still quite common).&lt;/p&gt;
 &lt;p&gt;The Enlightenment Era also affected the artistic world in terms of its tastes and audience. Like the logical order demanded from scientific inquiry, we see structures in music through the established Sonata Form, or the shift from polyphony (the multi-voiced counterpoint) to homophony (melody over a clear accopaniment). Due to the main patronage being the nobility (rather than the church and the royalty in the Baroque) due to economic order and social structure, there was the growth of more instrumental music, of which performance styles has changed to suit this need by providing a larger orchestra and standard instrumental groups and specific notations for large ensemble music (rather than sharing parts with available instruments at hand). It was also starting to become common to have &amp;quot;rehearsals&amp;quot; in the latter part of the era as patrons and audiences wanted to listen to music produced by previous generations as well. With Beethoven, especially, as instrumental technology allowed more virtuosic skill to be demonstrated, it was becoming essential for instrumentalists to be able to practice their parts with each other, thus rehearsing, rather than sightread their parts during performance (a norm during Baroque era performances).&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Melody
+&lt;li&gt;
+&lt;p&gt;Melody&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Symetrical melody, balanced phraes and cadences&lt;/li&gt;
 &lt;li&gt;Easy to remember; tuneful&lt;/li&gt;
 &lt;li&gt;Sometimes characterized as &amp;quot;elegant&amp;quot;, &amp;quot;light&amp;quot;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Harmony
+&lt;li&gt;
+&lt;p&gt;Harmony&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The tonal system expanded to further develop the tonic-dominant relationship (the first and fifth degree notes in a tonal harmony scale)
 &lt;ul&gt;
 &lt;li&gt;Simply, in the tonal system, there are 24 main scales, 12 major and 12 minor. Each scale has 8 degrees which create an &amp;quot;octave&amp;quot;.&lt;/li&gt;
-&lt;li&gt;Ex. Using the C major scale, we have C-D-E-F-G-A-B-C. In this case, our C is the first degree (tonic/I; number 1 in roman numerals) and our G is the fifrth degree (dominant/V; number 5 in roman numerals). The relationship between these two notes are emphasized in order to establish the harmony and has become common practice to use them in Classical era pieces.&lt;/li&gt;
+&lt;li&gt;Ex. Using the C major scale, we have C-D-E-F-G-A-B-C. In this case, our C is the first degree (tonic/I; number 1 in roman numerals) and our G is the fifrth degree (dominant/V; number 5 in roman numerals). The relationship between these two notes are emphasized in order to establish the harmony and has become common practice to use them in Classical era pieces.
+https://youtu.be/D2ltRa2BosE
+Here&#39;s a video explanation that explains chord progressions to give a better sense of how the scale in a tonal system works&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-  &lt;section class=&quot;youtube-box&quot;&gt;
-&lt;/section&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;section class=&quot;youtube-description&quot;&gt;
-&lt;pre&gt;&lt;code&gt;Here&#39;s a video explanation that explains chord progressions to give a better sense of how the scale in a tonal system works 
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-&lt;div id=&quot;https://youtu.be/D2ltRa2BosE&quot; class=&quot;undefined&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;&lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/https://youtu.be/D2ltRa2BosE&quot; allow=&quot;undefined&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;ul&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Rhythm&lt;/p&gt;
 &lt;ul&gt;
@@ -474,23 +193,17 @@ This can be seen with the use of cartouches and stucco in architecture (see the 
 &lt;p&gt;Musical Form&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The Sonata Form comes into development (development attributed especially at the &amp;quot;Father of the String Quartet and Symphony&amp;quot;: Joseph Haydn).&lt;/li&gt;
-&lt;li&gt;With the artistic movement that calls for balance and proportion, the Sonata Form does exactly that. It is a 3-part musical form that can organize music, which was developed from the ternary form used commonly in Baroque pieces (such as the Da Capo Aria): Exposition (section A) -Development (Section B)-Recapituation (Section A repeated again, but different).&lt;/li&gt;
+&lt;li&gt;With the artistic movement that calls for balance and proportion, the Sonata Form does exactly that. It is a 3-part musical form that can organize music, which was developed from the ternary form used commonly in Baroque pieces (such as the Da Capo Aria): Exposition (section A) -Development (Section B)-Recapituation (Section A repeated again, but different).
+https://youtu.be/2G6xMcUUbEA
+Here&#39;s a video explanation that explains the sonata form using musical examples&lt;/li&gt;
 &lt;/ul&gt;
-  &lt;section class=&quot;youtube-box&quot;&gt;
-&lt;/section&gt;&lt;/li&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-&lt;section class=&quot;youtube-description&quot;&gt;
-&lt;pre&gt;&lt;code&gt;Here&#39;s a video explanation that explains the sonata form using musical examples 
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-&lt;div id=&quot;https://youtu.be/2G6xMcUUbEA&quot; class=&quot;undefined&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;&lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/https://youtu.be/2G6xMcUUbEA&quot; allow=&quot;undefined&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
 &lt;hr /&gt;
 &lt;h3 id=&quot;lets-apply-the-above-traits-into-music&quot; tabindex=&quot;-1&quot;&gt;Let&#39;s apply the above traits into music&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Classical%20Era/#lets-apply-the-above-traits-into-music&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Below are some popular Classical pieces to provide our examples:&lt;/strong&gt;&lt;/p&gt;
-&lt;section class=&quot;youtube-box&quot;&gt;
-&lt;section class=&quot;youtube-description&quot;&gt;
-&lt;p&gt;J. Stamitz - Symphony in F, Op. 4, No. 1 (0:00-3:16)&lt;/p&gt;
+&lt;p&gt;J. Stamitz: Symphony in F, Op. 4, No. 1 (0:00-3:16)
+https://youtu.be/CdW6R1mkBUI&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The father of the Mannheim orchestra; a school of performance that highlighted the crescendos and diminuendos in the entire orchestra and required every player to be disciplined and skilled instrumentalists, just like the logic and order required of Classicism&#39;s characteristics.&lt;/li&gt;
 &lt;li&gt;This orchestra is organized similarly to how we would listen to a modern day orchestra, although emphasis is still placed on the strings.&lt;/li&gt;
@@ -498,12 +211,8 @@ This can be seen with the use of cartouches and stucco in architecture (see the 
 &lt;li&gt;easy to remember melody&lt;/li&gt;
 &lt;li&gt;Harmony is mostly based around the tonic and dominant chords throghout the piece, not much harmonic exploration.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/section&gt;
-&lt;div id=&quot;https://youtu.be/CdW6R1mkBUI&quot; class=&quot;undefined&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;&lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/https://youtu.be/CdW6R1mkBUI&quot; allow=&quot;undefined&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;/section&gt;
-&lt;section class=&quot;youtube-box&quot;&gt;
-&lt;section class=&quot;youtube-description&quot;&gt;
-&lt;p&gt;J. Haydn Trumpet Concerto in E-flat major Hob. VIIe/1&lt;/p&gt;
+&lt;p&gt;J. Haydn: Trumpet Concerto in E-flat major Hob. VIIe/1
+https://youtu.be/hb5MSJcBb9o&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;For all of you &amp;quot;Squid Game&amp;quot; fans out there&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;Due to better instrument technology, the brass instruments were starting to also have as solo instruments in chamber music and concertos (orchestra accompnying a soloist).&lt;/li&gt;
@@ -511,12 +220,8 @@ This can be seen with the use of cartouches and stucco in architecture (see the 
 &lt;li&gt;Dynamic control of the trumpet was also better improved in its construction so it allowed for more dynamic changes (especially on the quieter side).&lt;/li&gt;
 &lt;li&gt;It also sounds very grand and welcoming, like a grand entrance (similar to the function of an announcement on Squid Game), contributing to its elegant style of Classcism.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/section&gt;
-&lt;div id=&quot;https://youtu.be/hb5MSJcBb9o&quot; class=&quot;undefined&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;&lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/https://youtu.be/hb5MSJcBb9o&quot; allow=&quot;undefined&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;/section&gt;
-&lt;section class=&quot;youtube-box&quot;&gt;
-&lt;section class=&quot;youtube-description&quot;&gt;
-&lt;p&gt;W.A. Mozart Serenade No. 13 for Strings &amp;quot;Eine Kleine Nachtmusik&amp;quot; K. 525&lt;/p&gt;
+&lt;p&gt;W.A. Mozart: Serenade No. 13 for Strings &amp;quot;Eine Kleine Nachtmusik&amp;quot; K. 525
+https://youtu.be/QZWKUszkbXU&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The sonata allegro form&lt;/li&gt;
 &lt;li&gt;Sounds extremely elegant, possibly written for public entertainment&lt;/li&gt;
@@ -524,21 +229,14 @@ This can be seen with the use of cartouches and stucco in architecture (see the 
 &lt;li&gt;The homophonic texture is quite evident even though it is for a string ensemble - the melody is usually played in the 1st violins while the rest provides accompaniment.&lt;/li&gt;
 &lt;li&gt;The accents are quite important in order to establish the rhythm, whether to reflect a dance rhythm or a stately rhythm for the piece overall.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/section&gt;
-&lt;div id=&quot;https://youtu.be/QZWKUszkbXU&quot; class=&quot;undefined&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;&lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/https://youtu.be/QZWKUszkbXU&quot; allow=&quot;undefined&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;/section&gt;
-&lt;section class=&quot;youtube-box&quot;&gt;
-&lt;section class=&quot;youtube-description&quot;&gt;
-&lt;p&gt;Beethoven Piano Sonata in C minor, op. 13 &amp;quot;Pathetique&amp;quot;&lt;/p&gt;
+&lt;p&gt;L.v. Beethoven: Piano Sonata in C minor, op. 13 &amp;quot;Pathetique&amp;quot;
+https://youtu.be/91MTUXla-lE&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;A common genre at the time was the piano sonatas, which were key in bringing out this new keyboard instrument to a level of stardom of its own. It has difficult piano techniques which make it essential that the instrumentalist needed to be able to rehearse and practice this on their own prior to performance&lt;/li&gt;
 &lt;li&gt;There is a slow introduction prior to its symmetrical Sonata Form, it achieves its own balance of lyricism and restraint.&lt;/li&gt;
 &lt;li&gt;Harmonically, as Beethoven was experimenting with music in different ways than his Classical era predecessors, decides to establish the tonic key by exploring other degrees of the tonal harmony scale. But, in keeping with symmetry, they are harmonically symetrical in the exposition and recapitulation.&lt;/li&gt;
 &lt;li&gt;Melodically, the motif repeats throughout, which provides a tuneful idea to it, and is a tool to balance the phrases and cadences&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/section&gt;
-&lt;div id=&quot;https://youtu.be/91MTUXla-lE&quot; class=&quot;undefined&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;&lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/https://youtu.be/91MTUXla-lE&quot; allow=&quot;undefined&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;/section&gt;
 &lt;p&gt;Listeners would probably associate music from the Classical era as &amp;quot;elegant&amp;quot; and &amp;quot;light&amp;quot; due to the balance and proportion required of the musical tastes of the time. Oftentimes, the music from this era is accompanied with movie scenes of the nobility mingling or even played in high-class restaurants, which can make people attribute the music to the upper class audience. Although many pieces were dedicated to or written to these high class patrons (who would have the composers under their employment or through comission), it&#39;s main goal was to provide a sense of entertainment. Whether as background music or something for enjoyment in a concert hall to feel relaxed and mingle (common concert etiquette at the time). Indeed, these were also written in mind of many skilled musicians, such as the trumpet concerto or the piano sonata, where the music was written for a skilled performer for an upcoming concert.&lt;/p&gt;
 &lt;p&gt;In contrast to the extremely embelished Baroque period, they were in no way less enjoyed by their audiences. It was also a product of the philosophies and societal changes of their time, where the musician plays a larger role in public life, and starts to gain more freedom in their career. The symmetry and balance asked of the artistic movement has created important musical developments on ordering music (harmonically, melodically, or through form) and has started to serve more to the entertainment sphere as the Enlightened monarchs start to invest more into music as pure entertainment rather than for a specfic purpose.&lt;/p&gt;
 </content>
@@ -566,7 +264,7 @@ Eugène Delacroix &lt;em&gt;Liberty Leading the People&lt;/em&gt;&lt;/p&gt;
 Josef Danhauser &lt;em&gt;Liszt at the Piano&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;The recital and the concert allowed a new path for independent musicians: the virtuosos, soloists who excelled at their instrument through technical prowess. Liszt and Paganini were and still famous for their virtuosic abilities and their shows. They can be seen as the equivalent of today&#39;s rockstars as they garnered many fans (Liszt especially, having lots of female fans) through their new compositions or arrangmenets that had much technical difficutly but delivered them with ease while performing tricks. Paganini once purposely broke all 3 of his strings one-by-one so he would perform the rest of the difficult music on one string. Liszt popularized the current practice of piano performance: memorizing all his music while performing and turning the piano to the side so the audience can see his face (rather than seeing the pianist&#39;s back or hidden behind the orchestra as common in the past). It was essentially a large show but very few succesful musicians were able to pull them off, and eventually these difficult technical abilities were written into modern day requirements in music performance syllabi.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://media.wnyc.org/i/1280/640/c/80/1/liszt-hoseman.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Programatic music was another large trend that took off from the second half of the 19th century. Inspired by the connection of various types of art working together, program music was based off the opera overture, the short piece prior to the opera to give the audience an idea of what is to happen in the plot. It allowed composers to combine their favorite works of literature to base the music from, and included a small pamphlet for the audience to understand how each part of the music relates to a part of the story/poem. Like operas in the Romantic era, it was able to convey political and moral issues, and even various folktales and fairytales, which was quite important to the rising sense of nationalism and liberalism across Europe.&lt;/p&gt;
+&lt;p&gt;Programatic music was another large trend that took off from the second half of the 19th century. Inspired by the connection of various types of art working together, program music was based off the opera overture, the short piece prior to the opera to give the audience an idea of what is to happen in the plot. It allowed composers to combine their favorite works of literature to base the music from, and included a small pamphlet for the audience to understand how each part of the music relates to a part of the story/poem. Like operas in the Romantic era, it was able to convey political and moral issues, and even various folktales and fairytales, which was quite important to the rising sense of nationalism and liberalism across Europe. Richard Wagner would eventually carve out a new genre, &lt;em&gt;Gesamkuntswerk&lt;/em&gt; in attempt to combine everything as one piece of cohesive artwork: drama, music, set design, plot, rather than regarding the music as seperable from the drama where it was common for plots to be nonsensical and mainly pay attention to only the music.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Melody
 &lt;ul&gt;
@@ -618,44 +316,169 @@ Josef Danhauser &lt;em&gt;Liszt at the Piano&lt;/em&gt;&lt;/p&gt;
 &lt;hr /&gt;
 &lt;h3 id=&quot;lets-apply-the-above-traits-into-music&quot; tabindex=&quot;-1&quot;&gt;Let&#39;s apply the above traits into music&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/Romantic%20Era/#lets-apply-the-above-traits-into-music&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Below are some popular Romantic pieces to provide our examples:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;-Tchaik Nutcraker
--Chopin Nocturne No 9&lt;/p&gt;
-&lt;p&gt;https://youtu.be/tV5U8kVYS88&lt;/p&gt;
-&lt;p&gt;-Johann Strauss Blue Danube&lt;/p&gt;
-&lt;p&gt;https://youtu.be/IDaJ7rFg66A&lt;/p&gt;
-&lt;p&gt;-Richard Strauss Also Spratch thingy&lt;/p&gt;
-&lt;p&gt;https://youtu.be/Szdziw4tI9o&lt;/p&gt;
-&lt;p&gt;-Grieg peer gynt&lt;/p&gt;
+&lt;p&gt;N. Paganini: Caprice No. 24 in A minor
+https://youtu.be/eOjO4ekcJQA&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Liszt La Campenella
-https://youtu.be/cIxGUAnj46U&lt;/li&gt;
+&lt;li&gt;This is a modern example of what violin virtuoso Paganini might actually do when he gave his flashy performances: playing impressive technical things on his instrument while also doing other wild things (although I doubt hula hoops were invented in his time).&lt;/li&gt;
+&lt;li&gt;Paganini was also trying out new techniques with the violin, including holding it in the position that is common for modern violin playing today.&lt;/li&gt;
+&lt;li&gt;This was in a free flowing form -&amp;gt; it was a theme with various variations that tackle a different technical ability, but it did include various charactersitics of Romantic music such as the use of rubato in the slower variations and a more adventurous harmonic language (although did not deviate too much away from the standard Classical style of tonic and dominant emphasis).&lt;/li&gt;
+&lt;li&gt;This type of performance could also be common in salon playing, since it only required a solo violinist to play.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;H. Berlioz: Symphonie Fantastique
+https://youtu.be/5HgqPpjIH5c&lt;/p&gt;
+&lt;p&gt;*Since this clip is so long, I would recommend listening to the 4th (39:58) and 5th (44:28) movements since those are the more exciting portions of the symphony&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A huge orchestra with invented instruments (the octobass) for lower range notes. There is a large sonal range (from as high as piccolos to as low as tubas and the invented octobass).&lt;/li&gt;
+&lt;li&gt;Extremely long piece (almost 1 hour performance time), which was becoming the norm for Romantic pieces in order to express as much as the composer wanted to.&lt;/li&gt;
+&lt;li&gt;It is a well-known programatic symphony where each movement described a strong desire for a certain actress he fell in love with.&lt;/li&gt;
+&lt;li&gt;This is a 5-movement symphony, without any restraints or boudnaries to the standard 4-movement symphony of symmetry (fast-slow-fast-fast tempos for each movement). There were various rhthymic drives, harmonic language, and large dynamic and melodic range for this piece.&lt;/li&gt;
+&lt;li&gt;This piece takes Romanticism to heart, of using the personal desires and hauntings as inspiration for the entire program (story). It starts with yearning and passion to meet his beloved (movement 1), then partcipating in a ball reminiscent of the Classical ideals of balance and symmetry with its form and style (movement 2), then loneliness that surrounds the composer&#39;s emotions (movement 3), killing his beloved and knowingly heading towards his death penalty (movement 4), and finally facing Hell where he sees Witches holding a sabbath in his funeral (movement 5).&lt;/li&gt;
+&lt;li&gt;The main importance to this piece was the idée fixe, French for &amp;quot;fixed idea&amp;quot;, which can be explained like a recurring motive played througout each movement as a method to show how his desire seeps througout each movement, whether it was a passionate movement, the movement where Berlioz dreamt of killing his crush, or tied up by witches in the final movement to face his wrongdoings.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;F. Chopin: Fantaisie Impromptu in C-Sharp minor Op. 66
+https://youtu.be/Gy5UHK4EeM8&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Much chromaticism in the melody and harmony, seemingly never-ending&lt;/li&gt;
+&lt;li&gt;Impromptu itself already gives a hint to say that it is meant to be free flowing and spontaneous (though there is still some structure given to this form)&lt;/li&gt;
+&lt;li&gt;Also meant for a performance given a salons, for intimate settings, since it is a piece meant for enjoyment that only required a single piano&lt;/li&gt;
+&lt;li&gt;A rhthymic challenge for the player is cross-rhythm - meaning they have to balance two different complicated rhythm patterns on each hand in order to give it a specific rhythmic drive&lt;/li&gt;
+&lt;li&gt;It is also free flowing in the way that the melody seems like a improvisation - it keeps going, uses trills and fast 16th notes and rubato to make it feel like the melody is spontaneous.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;G. Verdi: Va, pensiero (Chorus of the Hebrew Slaves) from &lt;em&gt;Nabucco&lt;/em&gt;
+https://youtu.be/XttF0vg0MGo?t=13&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Verdi was seen as Italy&#39;s nationalist composer -&amp;gt; although througout his life he had his ups and downs with this label, but his operas were a way for the Italian government to reunite all the Italian states to became one large country: Italy, in the mid 1800s.&lt;/li&gt;
+&lt;li&gt;Although based on a biblical work, it was given focus to the Jewish population, a minority population in Europe, which was often done in a poor light in the Arts. This message was a means of hoping to reunite and face the challenges of building everyone into a single nation.&lt;/li&gt;
+&lt;li&gt;This opera was one that put Verdi into the spotlight and it was this chorus that was sung during his funeral to celebrate the work his music has done in uniting Italy into one country.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There are many, many more examples from the Romantic era, but these pave good introductions to what the general scene of Romantic music was heading towards: virtuosity, many means to express various means with large lengths, instruments, flowing melodies, harmonic language, and rhythms, but also the salon culture, where artists would gather to share ideas and compose specific pieces for intimate performances (the modern day recital). There are of course many other genres of music that were able to encapsulate these ideas: character pieces (short pieces or collections to describe a character or story), Lieder (German poems put to song for vocal solist and piano accompniment), opera (using a wider source of libretto such as folktales, imaginations of anything non-European, nationalism, rather than a purely religious work or a comedic work that was not as accessible to a wider audience). Music was really spreading to the masses, whether as a performer, a listener, or a composer.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
-		<title>20th Century and Modernism (~1880-early 1900s)</title>
+		<title>Early 20th Century and Modernism (~1880-early 1900s)</title>
 		<link href="https://hackinghistory.github.io/hh-project-11ty-starter-kit/20th%20Century/"/>
 		<updated>2022-03-22T13:54:08Z</updated>
 		<id>https://hackinghistory.github.io/hh-project-11ty-starter-kit/20th%20Century/</id>
 		<content type="html">&lt;h2 id=&quot;overview&quot; tabindex=&quot;-1&quot;&gt;Overview&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/20th%20Century/#overview&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;hr /&gt;
-&lt;h2 id=&quot;what-of-the-baroque-era-contributes-to-the-classical-music-sound&quot; tabindex=&quot;-1&quot;&gt;What of the Baroque Era contributes to the Classical Music sound?&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/20th%20Century/#what-of-the-baroque-era-contributes-to-the-classical-music-sound&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Let&#39;s start off with some popular Baroque pieces people think about that are referred to as &amp;quot;Classical Music&amp;quot;:&lt;/strong&gt;
+&lt;p&gt;It was all about change. Quick changes, radical changes, wars, ideas, mass automation, crowded cities, everything was changing in a blink of an eye! How were people able to express these changes and worries? People were also trying to find new ways to express music as they were getting tired of all the lengthy Romanticism and traditional means of teaching with the tonal system and composition styles. It was all old fashion. Paris was rising in fame to become the main city of the Arts in Europe, while New York was also becoming its own Arts centre in the United States. There was much more inspiration taken from non-European cultures, such as more use of pentatonic scales popular in Asian music, mimicking instrumentation, inspiration of Jazz and Blues from African American music from New York&#39;s Harlem community, and even atonality: a theory from Arnold Schoenburg to eradicate the entire foudnation of Western Classical music: the tonal system. The -isms were popping up everywhere, not only in visual arts, but also in music. Interestingly, not a lot of people attribute the main characteristics of modernism to the Classical sound, because its too plain strange and not relatable for everyday listeners (unlike what the composers intended, to describe modern and current life with new musical techniques so people can better understand the music). Even for musicians and listeners today, intially it takes a while to get used to the sounds of Modernism.&lt;/p&gt;
+&lt;h2 id=&quot;what-is-modernism&quot; tabindex=&quot;-1&quot;&gt;What is Modernism?&lt;a class=&quot;tdbc-anchor&quot; href=&quot;https://hackinghistory.github.io/hh-project-11ty-starter-kit/20th%20Century/#what-is-modernism&quot; aria-hidden=&quot;true&quot;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;It all started with Wagner&#39;s &lt;em&gt;Gesamkunstwerk&lt;/em&gt;, German for &amp;quot;Total Art Work&amp;quot;, a term Wagner created in the late 19th century to describe his operas (or music dramas, as he called them): a huge collaborative effort where the drama, music, plot, and visuals were all integral parts of the opera: nothing was seen as &amp;quot;extra&amp;quot; or &amp;quot;for show&amp;quot;, each element was unified and connected to the music, the story, the acting, the set design, for a reason. Well, many modernists liked this notion and followed his footsteps: being actively involved as the librettist (story writer), composer, and director of their operas and ballets.&lt;/p&gt;
+&lt;p&gt;Other than Wagner&#39;s &amp;quot;Total Art Work&amp;quot;, much of Romanticism learnt in Conservatories and Academies was rejected from modernists as they felt like it was not able to describe the realities of current life. How can you convey the truth: the expression (not just beauty or herosism, but the ugly, the Freudian subconscious), reality of what is being seen (the horrors of war, not idolizing the Revolution), how there are many perspectives in one frame or one person as they talk to you. The -isms were quickly created by artists, critics, or historians (after the movement) to describe the various movements happening. Such examples were the lush and rich harmonies, the never-ending flowing melodies, playing with more complex rhythms (polyrhythm, constant changing meters), reacting against the complexity of Western Art Music traditions by embracing more popular styles, and continously inventing new trends in music (just like in visual arts, literuatre, drama, and film).&lt;/p&gt;
+&lt;p&gt;Since there were so many trends and artist influxes that were in various artistic circles, I will highlight some trends that are considered major contributions to the history of Classical Music:&lt;/p&gt;
+&lt;p&gt;Impressionism (1890s-1930s) - Termed by critics, it was to describe the &amp;quot;in the moment&amp;quot; period that the art is trying to convey. It is not trying to portray the picture as a whole. The most difinitive example that &amp;quot;started&amp;quot; the trend was Monet&#39;s &lt;em&gt;Impression, Sunrise&lt;/em&gt;, which captured the exact moment of the light on the water, the water&#39;s movement, without excess detail on the people in the water, nor the boats and trees in the background.
+[]!(https://www.monetpaintings.org/Impression%20Sunrise%20Claude%20Monet.jpg?ezimgfmt=rs:400x327/rscb2/ng:webp/ngcb2)
+Claude Debussy and Maurice Ravel were considered impressionists, although they did not particularly like the label critics gave them. It is characterized by the use of the whole tone scale, embracing dissonance (unlike traditionally where there was a need to resolve dissonances, aka uncomfortable sounding chords) shape of the melody with notes very close together, blurry sense of rhythmic meter, wider use of the orchestra&#39;s winds and brass for added &amp;quot;colour&amp;quot;, these notes together made the music sound dreamy - like a blur, similar to the brushstrokes on Monet&#39;s painting, very &amp;quot;in the moment&amp;quot;. This style prominent in France.&lt;/p&gt;
+&lt;p&gt;https://youtu.be/lof6AHvXCPw
+Video explanation on Music Impressionism&lt;/p&gt;
+&lt;p&gt;Expressionism (1900-1930s) - A Central European (mainly German) style in reaction to the fluffy, blurry French Impressionism, it seems like its complete opposite. Impressionists was all about the outer world, while Expressionists were all about the inner world, further inspired by Freudian theory of subconsciousness and desires. In visual arts, it is all about the ugly and sharp contrasting colours, murky colours, focusing on that very subject&#39;s emotional being. The most famous example would be Edvard Munch&#39;s &lt;em&gt;The Scream&lt;/em&gt;, where you can see a clearly distressed individual on the bridge with all these murky colours surroudning his body, yet there are 2 other people on the bridge who do not care about this person, and the outer frames of the image display a bright sunset. This is clearly the inner turmoils of this individual.
+[]!(https://www.theartstory.org/images20/works/expressionism_1.jpg?1)
+It is characterized by wide spaced and angular melodic lines, instruments at their most extreme registers (the highest and lowest pitches), and even the reason for atonality&#39;s appearance: the invention of the Twelve-Tone Scale by Arnold Schoenberg: to get to those extremes that could never be possible with traditional Classical music harmonies. It sounds intense, uncomfortable, ugly, in-your-face, but that&#39;s the point! It makes people face them right there on stage so they have to think about the ugliness.&lt;/p&gt;
+&lt;p&gt;https://youtu.be/1k3yb0o2uU0
+Here is a video on atonality and how it is used by 20th century composers&lt;/p&gt;
+&lt;p&gt;Neoclassicism (1920s-50s) - The revival of the musical styles of the Baroque and Classical eras. Revival of previous eras were popular trends throughout the generations, and modernists sought to revive the music of the masters and revive them in their modernist language. They kept the Classical ideas of symmetry, balance, proportion in form, the chamber music genres that populated the aristocratic buildings of the Enlightenemnt, but now brought to the concert stage. They also revived the fugue and counterpoint from the Baroque era, something that was mostly ignored after Conservatory graduation by Romantic composers.&lt;/p&gt;
+&lt;p&gt;Of course, not every composer &amp;quot;belonged&amp;quot; to a certain artistic -ism, sometimes they compose music that follows one trend and later another, sometimes they are inspired by one and wanted to compose in that style. Sometimes their composing abilities just happen to fit the trends that were popular.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Melody&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Not a primary element of the music anymore&lt;/li&gt;
+&lt;li&gt;Does not have to be symmetrical, lyrical, just has to have a drive to move the music forward in the way the music should be (whether something dreamy, something forthright, something shocking).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Harmony&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Embracing dissonance. It was always expected to &amp;quot;resolve&amp;quot; the uncomfortable or tension that is caused by dissonances, that is, an interval/chord that played by itself, sounds strange.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;There&#39;s an apple in the tree,&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;You would expect me to complete it since there&#39;s a comma, but I just left it there, so now you probably seem a bit confused as to why I would leave it without completion. That&#39;s what a dissonance sounds like, the feeling that something has to complete it. Well, modernists decided to just let dissonances be, and use that uncomfortable/confusion/tension to their advantage through explicit uncomfortableness or blurriness.
+https://youtu.be/sGTRB9w8c8g
+Short (quite theoretical) video on consonant (nice soudning) vs dissoance (tension/unconfortable sounding) intervals&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Atonality is another popular harmonic trend, especially with the development of the Twelve-Tone Technique by Schoenberg, where he completely turned the table on Western Art Music: the concept of tonality was just...gone. There was not one chord/note that was the main one. Now, each of the 12 pitches on the scale have equal importance as they must all be played, and allows for a combination that was previously considered &amp;quot;ugly/forbidden&amp;quot;. Such as really, really extreme dissonances, or really nice consonants.
+https://youtu.be/Har_7-S3Cgc
+Again, quite theoretical video on the Twelve-Tone Technique, but when you get to atonality, there is no way to explain it without getting technical.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Rhythm&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rather than the standard duple (2/4), triple (3/4, Waltz rhythms), or quadruple meter (common time, 4/4), non-symmetrical rhythm using odd numbers of 5,7,9,11.and 13 were explored quite elaborately.&lt;/li&gt;
+&lt;li&gt;Meter can also change very regularly, such as every phrase, even every bar. The composer who was known for this was Igor Stravinsky, who was able to incorporate them into ballet as well.&lt;/li&gt;
+&lt;li&gt;Polyrhythm (the use of 2 seperate meters at a time) became popular, and started to achieve something similar to the rhythmic complexity of African and Asian rhythms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Instrumentation&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rather than the string section always being the principal instruments heard in orchestra or chamber music, wind and brass instruments were starting to became more commonly used as principal instruments in these large ensemble genres. They were used for their colour changes, their timbres, not purely for special effects or solo instruments. They could also bring out the lines in counterpoint&lt;/li&gt;
+&lt;li&gt;&amp;quot;darker&amp;quot; instruments, such as the violas, bassons, trombones, those in the middle registers, were starting to get more attention in music.&lt;/li&gt;
+&lt;li&gt;the large orchestra was becoming much smaller and more varied. Instead of mainly string quartets, there are wind emsebles, brass ensembles, a weird combination of string, wind, brass, and piano. Any combination and any number of players were possible.&lt;/li&gt;
+&lt;li&gt;The piano and harp start to play larger roles in orchestra, but not as a soloist.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Musical Form&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quite various, but it was leaning towards a more balanced, proportional form, similar to the forms found in Baroque and Classical eras. The 1-hour long symphonies that prevailed in the Romantic era were cut much shorter, and could range from a few  minutes to maybe 30 minuts long symphonies&lt;/li&gt;
+&lt;li&gt;Popular music also made it&#39;s way into Classical Music, especially ragtime and blues, creating a new source of inspiration for composers who were tired of the Western Art Music tradition. Jazz also made its way from America to France, surging the 1920s Golden Age of parties and lavish lifestyles after World War I.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Let&#39;s start off with some popular Modernist pieces people think about that are referred to as &amp;quot;Classical Music&amp;quot;:&lt;/strong&gt;
 will add more text later, just making notes for myself now&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Debussy Claire de Lune&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;https://youtu.be/8O-1wkQ-6T0&lt;/p&gt;
+&lt;li&gt;
+&lt;p&gt;C. Debussy: Claire de Lune
+https://youtu.be/8O-1wkQ-6T0&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Gershwin Rhapsody in Blue&lt;/li&gt;
+&lt;li&gt;Impresionist style&lt;/li&gt;
+&lt;li&gt;able to convey the dreamy image through the bluriness of the harmony (whole tone harmonies)&lt;/li&gt;
+&lt;li&gt;melody is not entirely singable, but is memorable enough to know what it is, and is not the main focal point of the music&lt;/li&gt;
+&lt;li&gt;due to syncopation (strong beats displaced in other parts of the meter), the meter does not seem emphasized, which alludes to that peaceful, nightime feeling&lt;/li&gt;
+&lt;li&gt;Lots of parallel intervals, which made the music seem like it was &amp;quot;gliding&amp;quot;, also a big characterstic for Impressionism&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;https://youtu.be/cH2PH0auTUU&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A. Schoenberg Pierrot Lunnaire, Op. 21, I. &amp;quot;Mondestrunken&amp;quot;
+https://youtu.be/O5DNxRG2-ow&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Satie Gymnopedie
-???&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;Expressionist style&lt;/li&gt;
+&lt;li&gt;Use of atonality and the 12-tone technique - each of the 12 pitches are treated equally. The feeling of not having a stable tonal pitch to land on makes the piece present better: a narrator lost in its path full of despair.
+&lt;ul&gt;
+&lt;li&gt;The entire work is a 3-part song cycle (collectiong of songs) of music based on various poems by the Albert Giraud. The narrator is a drunk man wandering in the nightime talking to himself about love, religion, sex, violence, crime, his home, and his past that haunts him.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Very angular melodic lines (and harmonic lines)&lt;/li&gt;
+&lt;li&gt;Creative orchestration for a small ensemble (flute, piccolo, clarinet, bass clarinet, violin, viola, cello, piano) + vocal soloist.&lt;/li&gt;
+&lt;li&gt;The entire song cycle includes some popular Baroque musical forms such as the canon, fugue, rondo, passacaglia, and countepoint&lt;/li&gt;
+&lt;li&gt;To add to the Expressionist style, the vocalist uses a technique called Sprechstimme/Sprechgesang, directing the vocalist to use specified rhythms and pitches but not to sustain its pitch, allowing it to drop or rise similar to German speech patterns. It allows for more shrills and haunting tones to better emphasize the text.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I. Stravinsky: Le Sacre du printemps (The Rite of Spring), Danse Sacrale
+https://youtu.be/d6d8wacBjPQ&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This final dance in the entire ballet is known especially for its constant changing rhythm. It is joked by orchestral members that it is extremely difficult for the players and the conductor to keep time because it is so irregular (odd number meters) and always changing.&lt;/li&gt;
+&lt;li&gt;The harmony is an exaple of polychords, stacking two traditional harmony chords together to make an even more dissonant chord. As this is a sacrificial dance, the use of this harmony in a striking manner makes it even more dance-like and ritual-like.&lt;/li&gt;
+&lt;li&gt;Play with syncopation and accents is another aspect to the rhythm - in one part, to help the dancer keep count during her performance, and for the orchestra to give the feeling of being lost into the dancer&#39;s dance as she dances her way to death.&lt;/li&gt;
+&lt;li&gt;The subject matter is modernist idea - the idea of retrieving folk tales of non-European ancestry started to gain speed after Romanticism. Although the plot is based off a fake tale of Russian tribe, it allowed Stravinsky to use Russian folk melodies and incorporate them in his music. The trend of using folk melodies to inspire or incorporate played a part in incoproating popular music into the Classical Music repetoire.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;G. Gershwin: Rhapsody in Blue
+https://youtu.be/cH2PH0auTUU&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;An experimental piece in attempt to bring the Jazz genre into the Classical reptoire. Gershwin himself was a Jazz pianist and wanted to bring an often looked-down upon popular genre into more academic sphres.&lt;/li&gt;
+&lt;li&gt;Neoclassical hints where it required an Classical orchestra, although replaced some instruments with more brass and percussion. Additionally, this piece can be seen as a concerto as well, since the piano is considered the soloist&lt;/li&gt;
+&lt;li&gt;Due to its influence from African-American musical styles, rhythmic aspects such as syncopation was extremely important&lt;/li&gt;
+&lt;li&gt;Harmonies leaned more into Jazz harmonies, wanting it to seem like Jazz brass bands and imporvisatory performances from the Harlem jazz community.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Modernism is such a widespread genre that it itself has a lot more to say. Although they would not be instantly recognized as Classical Music, nor were they meant to be seen as especially academic works like they are today, it achieved a goal in the &amp;quot;shock factor&amp;quot;; making people seem in awe of new trends in the Arts and to reflect on how the music plays into their current life (although not many patrons of these musics did entirely understand it). So much so, even today&#39;s audiences need to read it the background of the music a bit before understanding the context of the music. What&#39;s ironic was that these pieces were meant to reflect the modern life of the 20th century, and now they are seen as academic works essential to study in Classical Music History.&lt;/p&gt;
+&lt;p&gt;Music has come a long way from the past centuries, and has changed very drastically. These are only slight overviews of what Classical Music has to offer, and what contributes to the Classical Music sound.&lt;/p&gt;
 </content>
 	</entry>
 </feed>
