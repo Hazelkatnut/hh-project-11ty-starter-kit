@@ -1,4 +1,5 @@
 ---
+date: 1600-01-01
 title: "Baroque Era (~1600-1750)"
 description: "Foundations for Classical Music."
 ---
@@ -100,6 +101,10 @@ J.S. Bach: Toccata and Fugue in D minor, BWV 565 (The infamous Vampire tune)
 For many listerners, the first impression can be that it sounds quite busy with so many musical voices playing simultaneously and so much embellishments in a piece of music through variation in repeteating sections or a soloist showing off their skills. This is all a part of the "ornate" characterstic of Baroque music, and can seem very majestic and grand. It is quite common in advertisements and movies to use Baroque music to accompany a sense of grandeur or an intense emotion; like Bach's Toccata and Fugue being associated with a scary Vampire lair and Vivaldi's Spring used for joyous settings like a "high tea" restaurant. 
 
 Baroque music can be associated with the extravagence, but also hints at being perused by high-class members of society. Yes, these pieces were mostly written for royalty, nobility, and the church, which does explain why it feel grandiose and courtly, but it is also able to elicit a certain emotion and provide a source of entertainment. And to that, it does complete its goal well in today's audiences too.
+
+
+
+
 
 
 

@@ -1,4 +1,5 @@
 ---
+date: 1800-01-01
 title: "Romantic Era (~1820-1880)"
 description: "Music expands to the masses."
 ---

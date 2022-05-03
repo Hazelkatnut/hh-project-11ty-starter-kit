@@ -2,51 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/</loc>
-		
-    <lastmod>2022-03-22T13:54:08Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/styledemo/</loc>
-		
-    <lastmod>2022-03-11T19:41:53Z</lastmod>
-		
-  </url>
-  
-  <url>
-    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/staging/two-column/</loc>
-		
-    <lastmod>2022-03-11T19:41:53Z</lastmod>
-		
-  </url>
-  
-  <url>
     <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/Baroque%20Era/</loc>
 		
-    <lastmod>2022-03-22T13:51:32Z</lastmod>
+    <lastmod>1600-01-01T00:00:00Z</lastmod>
 		
   </url>
   
   <url>
     <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/Classical%20Era/</loc>
 		
-    <lastmod>2022-03-22T13:52:27Z</lastmod>
+    <lastmod>1700-01-01T00:00:00Z</lastmod>
 		
   </url>
   
   <url>
     <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/Romantic%20Era/</loc>
 		
-    <lastmod>2022-03-22T13:53:21Z</lastmod>
+    <lastmod>1800-01-01T00:00:00Z</lastmod>
 		
   </url>
   
   <url>
     <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/20th%20Century/</loc>
 		
-    <lastmod>2022-03-22T13:54:08Z</lastmod>
+    <lastmod>1900-01-01T00:00:00Z</lastmod>
+		
+  </url>
+  
+  <url>
+    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/</loc>
+		
+    <lastmod>2022-03-11T19:41:53Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hackinghistory.github.io/hh-project-11ty-starter-kit/staging/two-column/</loc>
+		
+    <lastmod>2022-03-11T19:41:53Z</lastmod>
 		
   </url>
 </urlset>

@@ -1,4 +1,5 @@
 ---
+date: 1900-01-01
 title: "Early 20th Century and Modernism (~1880-early 1900s)"
 description: "How to Describe the Ever-Changing World"
 ---

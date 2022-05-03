@@ -1,4 +1,5 @@
 ---
+date: 1700-01-01
 title: "Classical Era (~1750-1820)"
 description: "Revisiting a Golden Age of the Past."
 ---
