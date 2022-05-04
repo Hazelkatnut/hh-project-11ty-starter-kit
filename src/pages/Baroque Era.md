@@ -102,6 +102,13 @@ For many listerners, the first impression can be that it sounds quite busy with 
 
 Baroque music can be associated with the extravagence, but also hints at being perused by high-class members of society. Yes, these pieces were mostly written for royalty, nobility, and the church, which does explain why it feel grandiose and courtly, but it is also able to elicit a certain emotion and provide a source of entertainment. And to that, it does complete its goal well in today's audiences too.
 
+### References
+
+Lopinski, Janet, Joe Ringholder, Peterins Zarins. "Main Currents in Baroque Music" In _Explorations 1 - A Music History Overview_, edited by Laura Beauchamp-Williamson. Toronto: Frederick Harris Music Co., Limited, 2010.  
+Neufeldt, Tim. “Introduction to Baroque Dance and Music” MUS204: Age of Bach and Handel. Class lecture at University of Toronto, Toronto, ON, January 7, 2020.
+Taruskin, Richard. "Chapter 6 Class of 1685." In _Music in the Seventeenth and Eighteenth Centuries_, New York: Oxford University Press, n.d. https://www-oxfordwesternmusic-com.myaccess.library.utoronto.ca/view/Volume2/actrade-9780195384826-chapter-06.xml
+
+ 
 
 
 

@@ -99,3 +99,11 @@ L.v. Beethoven: Piano Sonata in C minor, op. 13 "Pathetique"
 Listeners would probably associate music from the Classical era as "elegant" and "light" due to the balance and proportion required of the musical tastes of the time. Oftentimes, the music from this era is accompanied with movie scenes of the nobility mingling or even played in high-class restaurants, which can make people attribute the music to the upper class audience. Although many pieces were dedicated to or written to these high class patrons (who would have the composers under their employment or through comission), it's main goal was to provide a sense of entertainment. Whether as background music or something for enjoyment in a concert hall to feel relaxed and mingle (common concert etiquette at the time). Indeed, these were also written in mind of many skilled musicians, such as the trumpet concerto or the piano sonata, where the music was written for a skilled performer for an upcoming concert. 
 
 In contrast to the extremely embelished Baroque period, they were in no way less enjoyed by their audiences. It was also a product of the philosophies and societal changes of their time, where the musician plays a larger role in public life, and starts to gain more freedom in their career. The symmetry and balance asked of the artistic movement has created important musical developments on ordering music (harmonically, melodically, or through form) and has started to serve more to the entertainment sphere as the Enlightened monarchs start to invest more into music as pure entertainment rather than for a specfic purpose.
+
+
+### References
+
+Hsiesh, Amanda. “Form: Sonata”. MUS110: Introduction to Music History and Cultrue. Class lecture at University of Toronto, Toronto, ON, February 13, 2019.
+Lopinski, Janet, Joe Ringholder, Peterins Zarins. "Eighteenth-Century Chamber Music Style" In _Explorations 1 - A Music History Overview_, edited by Laura Beauchamp-Williamson. Toronto: Frederick Harris Music Co., Limited, 2010.  
+Taruskin, Richard. "Chapter 9 Enlightenment and Reform." In _Music in the Seventeenth and Eighteenth Centuries_, New York: Oxford University Press, n.d. https://www-oxfordwesternmusic-com.myaccess.library.utoronto.ca/view/Volume2/actrade-9780195384826-chapter-09.xml
+

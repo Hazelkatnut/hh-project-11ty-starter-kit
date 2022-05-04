@@ -116,3 +116,10 @@ G. Gershwin: Rhapsody in Blue
 Modernism is such a widespread genre that it itself has a lot more to say. Although they would not be instantly recognized as Classical Music, nor were they meant to be seen as especially academic works like they are today, it achieved a goal in the "shock factor"; making people seem in awe of new trends in the Arts and to reflect on how the music plays into their current life (although not many patrons of these musics did entirely understand it). So much so, even today's audiences need to read it the background of the music a bit before understanding the context of the music. What's ironic was that these pieces were meant to reflect the modern life of the 20th century, and now they are seen as academic works essential to study in Classical Music History.
 
 Music has come a long way from the past centuries, and has changed very drastically. These are only slight overviews of what Classical Music has to offer, and what contributes to the Classical Music sound. 
+
+### References
+
+Cadagin, Joseph. “What was Modernism.” MUS340: Music Theatre in the 20th Century. Class lecture at University of Toronto, Toronto, ON, January 11, 2022.
+Lopinski, Janet, Joe Ringholder, Peterins Zarins. "Main Currents in Early 20th Century Music" In _Explorations 1 - A Music History Overview_, edited by Laura Beauchamp-Williamson. Toronto: Frederick Harris Music Co., Limited, 2010.  
+Taruskin, Richard. "Chapter 2 Getting Rid of Glue." In _Music in the Early Twentieth Century_, New York: Oxford University Press, n.d. https://www-oxfordwesternmusic-com.myaccess.library.utoronto.ca/view/Volume4/actrade-9780195384840-chapter-002.xml. 		
+Taruskin, Richard. "Chapter 3 Aristocratic Maximalism." In _Music in the Early Twentieth Century_, New York: Oxford University Press, n.d. https://www-oxfordwesternmusic-com.myaccess.library.utoronto.ca/view/Volume4/actrade-9780195384840-chapter-003.xml.		

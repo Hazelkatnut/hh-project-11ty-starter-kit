@@ -104,3 +104,9 @@ G. Verdi: Va, pensiero (Chorus of the Hebrew Slaves) from _Nabucco_
 - This opera was one that put Verdi into the spotlight and it was this chorus that was sung during his funeral to celebrate the work his music has done in uniting Italy into one country. 
 
 There are many, many more examples from the Romantic era, but these pave good introductions to what the general scene of Romantic music was heading towards: virtuosity, many means to express various means with large lengths, instruments, flowing melodies, harmonic language, and rhythms, but also the salon culture, where artists would gather to share ideas and compose specific pieces for intimate performances (the modern day recital). There are of course many other genres of music that were able to encapsulate these ideas: character pieces (short pieces or collections to describe a character or story), Lieder (German poems put to song for vocal solist and piano accompniment), opera (using a wider source of libretto such as folktales, imaginations of anything non-European, nationalism, rather than a purely religious work or a comedic work that was not as accessible to a wider audience). Music was really spreading to the masses, whether as a performer, a listener, or a composer.
+
+### References
+
+Hsiesh, Amanda. “Music and Identity”. MUS110: Introduction to Music History and Cultrue. Class lecture at University of Toronto, Toronto, ON, March 13, 2019.
+Lopinski, Janet, Joe Ringholder, Peterins Zarins. "The Piano and its Literature" In _Explorations 1 - A Music History Overview_, edited by Laura Beauchamp-Williamson. Toronto: Frederick Harris Music Co., Limited, 2010.  
+Lopinski, Janet, Joe Ringholder, Peterins Zarins. "The Nature of Program Music" In _Explorations 1 - A Music History Overview_, edited by Laura Beauchamp-Williamson. Toronto: Frederick Harris Music Co., Limited, 2010.  
