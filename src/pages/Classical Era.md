@@ -104,6 +104,8 @@ In contrast to the extremely embelished Baroque period, they were in no way less
 ### References
 
 Hsiesh, Amanda. “Form: Sonata”. MUS110: Introduction to Music History and Cultrue. Class lecture at University of Toronto, Toronto, ON, February 13, 2019.
+
 Lopinski, Janet, Joe Ringholder, Peterins Zarins. "Eighteenth-Century Chamber Music Style" In _Explorations 1 - A Music History Overview_, edited by Laura Beauchamp-Williamson. Toronto: Frederick Harris Music Co., Limited, 2010.  
+
 Taruskin, Richard. "Chapter 9 Enlightenment and Reform." In _Music in the Seventeenth and Eighteenth Centuries_, New York: Oxford University Press, n.d. https://www-oxfordwesternmusic-com.myaccess.library.utoronto.ca/view/Volume2/actrade-9780195384826-chapter-09.xml
 

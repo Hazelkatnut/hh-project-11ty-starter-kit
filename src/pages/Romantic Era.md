@@ -108,5 +108,7 @@ There are many, many more examples from the Romantic era, but these pave good in
 ### References
 
 Hsiesh, Amanda. “Music and Identity”. MUS110: Introduction to Music History and Cultrue. Class lecture at University of Toronto, Toronto, ON, March 13, 2019.
+
 Lopinski, Janet, Joe Ringholder, Peterins Zarins. "The Piano and its Literature" In _Explorations 1 - A Music History Overview_, edited by Laura Beauchamp-Williamson. Toronto: Frederick Harris Music Co., Limited, 2010.  
+
 Lopinski, Janet, Joe Ringholder, Peterins Zarins. "The Nature of Program Music" In _Explorations 1 - A Music History Overview_, edited by Laura Beauchamp-Williamson. Toronto: Frederick Harris Music Co., Limited, 2010.  

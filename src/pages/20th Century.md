@@ -120,6 +120,9 @@ Music has come a long way from the past centuries, and has changed very drastica
 ### References
 
 Cadagin, Joseph. “What was Modernism.” MUS340: Music Theatre in the 20th Century. Class lecture at University of Toronto, Toronto, ON, January 11, 2022.
+
 Lopinski, Janet, Joe Ringholder, Peterins Zarins. "Main Currents in Early 20th Century Music" In _Explorations 1 - A Music History Overview_, edited by Laura Beauchamp-Williamson. Toronto: Frederick Harris Music Co., Limited, 2010.  
+
 Taruskin, Richard. "Chapter 2 Getting Rid of Glue." In _Music in the Early Twentieth Century_, New York: Oxford University Press, n.d. https://www-oxfordwesternmusic-com.myaccess.library.utoronto.ca/view/Volume4/actrade-9780195384840-chapter-002.xml. 		
+
 Taruskin, Richard. "Chapter 3 Aristocratic Maximalism." In _Music in the Early Twentieth Century_, New York: Oxford University Press, n.d. https://www-oxfordwesternmusic-com.myaccess.library.utoronto.ca/view/Volume4/actrade-9780195384840-chapter-003.xml.		
